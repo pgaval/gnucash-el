@@ -12,7 +12,7 @@
                (translators put your name and email here)
 -->
 <chapter id="chapter_cc">
-  <title>Credit Cards</title>
+  <title>Πιστωτικές κάρτες</title>
 
   <para>This chapter will show you how to manage your credit cards using
   GnuCash.</para>
@@ -49,7 +49,7 @@
   </sect1>
 
   <sect1 id="cc-accounts1">
-    <title>Setting Up Accounts</title>
+    <title>Ρυθμίσεις λογαριασμών</title>
 
     <para>To begin managing your credit cards in GnuCash, you should set up a
     "Liability" top level account and under this parent account create credit
@@ -67,18 +67,18 @@
     statement balance as the opening balance.</para>
 
     <sect2 id="cc-accounts-simple2">
-      <title>Simple Setup</title>
+      <title>Απλή ρύθμιση</title>
 
       <para>If you do not want to track each expense made on the credit card,
       you can set up a simple account hierarchy like this:</para>
 
       <literallayout>
 -Assets
-   -Bank
+   -Τράπεζα
 -Liabilities
-   -Credit Card
--Expenses
-   -Credit Card
+   -Πιστωτική κάρτα
+-Έξοδα
+   -Πιστωτική κάρτα
    </literallayout>
 
       <para>In this example, if you enter your total amount charged per month
@@ -105,15 +105,15 @@
 
       <literallayout>
 -Assets
-    -Bank
+    -Τράπεζα
 -Liabilities
-    -Credit Card
--Expenses
-    -Food
-    -Car
-    -Clothes
-    -Entertainment
-    -Interest
+    -Πιστωτική κάρτα
+-Έξοδα
+    -Τρόφιμα
+    -Αυτοκίνητο
+    -Ρούχα
+    -Διασκέδαση
+    -Τόκοι
     -Service
    </literallayout>
 
@@ -133,7 +133,7 @@
   </sect1>
 
   <sect1 id="cc-entercharge1">
-    <title>Entering Charges</title>
+    <title>Εισαγωγή χρεώσεων</title>
 
     <para>Entering your charges provides you with a more complete picture of
     your spending habits. Charges on a credit card are tracked as a
@@ -164,7 +164,7 @@
   </sect1>
 
   <sect1 id="cc-enterpay1">
-    <title>Entering Payments</title>
+    <title>Εισαγωγή πληρωμών</title>
 
     <para>Most payments to your credit card bill are entered as transfers from
     a bank account (asset) to the credit card account (liability). When you
@@ -192,7 +192,7 @@
       refund.</para>
     </note>
 
-    <para>To clarify this, let's run through an example. You bought some jeans
+    <para>Για να γίνει πιο κατανοητό ας δούμε ένα παράδειγμα. You bought some jeans
     for $74.99 on your VISA card, but realized one day later that they are too
     big and want to return them. The shop gracefully agrees, and refunds your
     credit card.</para>
@@ -257,7 +257,7 @@
             </mediaobject>
           </screenshot>
 
-        <para>and the <guilabel>Expenses:Clothes</guilabel> register should
+        <para>and the <guilabel>Expenses:Ρούχα</guilabel> register should
         look something like this </para>
         <screenshot id="cc-Reversing-Transaction-2">
             <mediaobject>
@@ -529,12 +529,12 @@
     </sect2>
     
     <sect2 id="cc-puttoget-save">
-      <title>Save file</title>
+      <title>Αποθήκευση αρχείου</title>
       <para>Last, save the GnuCash data file (<filename>gcashdata_6</filename>).</para>
     </sect2>
  
     <sect2 id="cc-puttoget-reports">
-      <title>Reports</title>
+      <title>Αναφορές</title>
             
       <para>As we did in the previous chapters, let's have a look at a 
         <guilabel>Cash Flow</guilabel>, and a <guilabel>Transaction</guilabel> Report.

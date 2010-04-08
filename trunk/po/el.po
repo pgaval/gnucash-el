@@ -36,7 +36,7 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-06 00:23+0300\n"
-"PO-Revision-Date: 2010-04-06 00:37+0200\n"
+"PO-Revision-Date: 2010-04-08 10:01+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
@@ -710,7 +710,7 @@ msgstr "Πρέπει να εισάγετε ένα όνομα εταιρείας.
 #: ../src/business/business-gnome/dialog-customer.c:286
 #, fuzzy
 msgid "You must enter a billing address."
-msgstr "Πρέπει να εισάγετε μιά έγκυρη τιμή"
+msgstr "Πρέπει να εισάγετε  διεύθυνση πληρωμής."
 
 #: ../src/business/business-gnome/dialog-customer.c:296
 msgid "Discount percentage must be between 0-100 or you must leave it blank."
@@ -3394,11 +3394,11 @@ msgstr "Ο φόρος υπολογίζεται μετά την εφαρμογή 
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:659
 msgid "Discount and tax both applied on pretax value"
-msgstr ""
+msgstr "Έκπτωση και φόρος υπολογίζονται στην τιμή προ φόρων."
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:662
 msgid "Discount computed after tax is applied"
-msgstr ""
+msgstr "Υπολογισμός έκπτωσης μετά την ενσωμάτωση του φόρου"
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:665
 msgid "Select how to compute the Discount and Taxes"
@@ -3451,7 +3451,7 @@ msgstr ""
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:788
 msgid "How did you pay for this item?"
-msgstr ""
+msgstr "Πως πληρώσατε για αυτό το αντικείμενο;"
 
 #: ../src/business/dialog-tax-table/dialog-tax-table.c:118
 msgid "You must provide a name for this Tax Table."
@@ -3524,7 +3524,7 @@ msgstr "_Τύπος: "
 
 #: ../src/business/dialog-tax-table/tax-tables.glade.h:12
 msgid "_Value: "
-msgstr "_Αξία: "
+msgstr "_Ύψος:"
 
 #: ../src/core-utils/gnc-filepath-utils.c:208
 #, c-format
@@ -3681,7 +3681,7 @@ msgstr ""
 #: ../src/gnome/gnc-plugin-page-budget.c:878
 #, fuzzy
 msgid "Unnamed Budget"
-msgstr "Νέα Αξία"
+msgstr "Όνομα προϋπολογισμού:"
 
 #. src/report/standard-reports/register.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/register.scm
@@ -4179,7 +4179,7 @@ msgstr ""
 #: ../src/gnome/dialog-sx-editor.c:1812
 #: ../src/gnome/gnc-plugin-page-sx-list.c:204
 msgid "Scheduled Transactions"
-msgstr "Προγραμματισμένες Συναλλαγές"
+msgstr "Προγραμματισμένες συναλλαγές"
 
 #: ../src/gnome/dialog-sx-from-trans.c:569
 msgid "The Scheduled Transaction is unbalanced. You are strongly encouraged to correct this situation."
@@ -8399,8 +8399,9 @@ msgid "Position of payee name"
 msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:13
+#, fuzzy
 msgid "Print '***' before and after text."
-msgstr ""
+msgstr "Εκτύπωση '*** πρίν και μετά του κειμένου."
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:14
 msgid "Print the date format below the date."
@@ -9677,7 +9678,7 @@ msgstr "Απομνημόνευση και μη επανάληψη της ερώ�
 
 #: ../src/gnome-utils/dialog-utils.c:971
 msgid "Don't tell me again this _session."
-msgstr ""
+msgstr "Να μην αναφερθεί ξανά σε αυτή τη _συνεδρία."
 
 #: ../src/gnome-utils/druid-gconf-setup.c:428
 msgid "When you click Apply, GnuCash will modify your ~/.gconf.path file and restart the gconf backend."
@@ -9959,14 +9960,12 @@ msgid "Description:"
 msgstr "Περιγραφή:"
 
 #: ../src/gnome-utils/glade/dialog-book-close.glade.h:4
-#, fuzzy
 msgid "Expense Total:"
-msgstr "Αναφορά εξόδων"
+msgstr "Σύνολο εξόδων:"
 
 #: ../src/gnome-utils/glade/dialog-book-close.glade.h:5
-#, fuzzy
 msgid "Income Total:"
-msgstr "Λογαριασμός εσόδων"
+msgstr "Σύνολο εσόδων"
 
 #: ../src/gnome-utils/glade/dialog-file-access.glade.h:1
 #, fuzzy
@@ -9974,9 +9973,8 @@ msgid "<b>Data Format:</b>"
 msgstr "<b>Μορφή ημερομηνίας</b>"
 
 #: ../src/gnome-utils/glade/dialog-file-access.glade.h:2
-#, fuzzy
 msgid "<b>Database Connection</b>"
-msgstr "<b>Θέση καρτέλας</b>"
+msgstr "<b>Σύνδεση βάσης δεδομένων</b>"
 
 #: ../src/gnome-utils/glade/dialog-file-access.glade.h:3
 msgid "<b>File</b>"
@@ -9987,9 +9985,8 @@ msgid "Database"
 msgstr "Βάση δεδομένων"
 
 #: ../src/gnome-utils/glade/dialog-file-access.glade.h:5
-#, fuzzy
 msgid "Host"
-msgstr "εγγραφή"
+msgstr "Σύστημα"
 
 #: ../src/gnome-utils/glade/dialog-file-access.glade.h:6
 msgid "Password"
@@ -10138,7 +10135,7 @@ msgstr "_Ρύθμιση"
 
 #: ../src/gnome-utils/glade/druid-gconf-setup.glade.h:29
 msgid "_Update search path"
-msgstr ""
+msgstr "_Ενημέρωση διαδρομής αναζήτησης"
 
 #: ../src/gnome-utils/glade/druid-gconf-setup.glade.h:30
 msgid "_You install the data yourself"
@@ -12361,9 +12358,8 @@ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετ�
 
 #. statement date title/value
 #: ../src/gnome/window-reconcile.c:1745
-#, fuzzy
 msgid "Statement Date:"
-msgstr "_Ημερομηνία αντίγραφου κινήσεως:"
+msgstr "Ημ/νία αντίγραφου λογαριασμού:"
 
 #. ending balance title/value
 #: ../src/gnome/window-reconcile.c:1765
@@ -13359,7 +13355,7 @@ msgstr "_Στενότερη αυτή η στήλη"
 
 #: ../src/import-export/csv/gnc-csv-import.c:1067
 msgid "The rows displayed below had errors. You can attempt to correct these errors by changing the configuration."
-msgstr ""
+msgstr "Οι παρακάτω εμφανιζόμενες γραμμές έχουν σφάλματα. Μπορείτε να προσπαθήσετε να τα διορθώσετε με αλλαγή στη ρύθμιση."
 
 #: ../src/import-export/csv/gnc-csv-import.c:1081
 msgid "Errors"
@@ -13390,12 +13386,12 @@ msgstr "m-d-y"
 #: ../src/import-export/csv/gnc-csv-model.c:35
 #, fuzzy
 msgid "d-m"
-msgstr "d-m-y"
+msgstr "d-m"
 
 #: ../src/import-export/csv/gnc-csv-model.c:36
 #, fuzzy
 msgid "m-d"
-msgstr "m-d-y"
+msgstr "μ-ε"
 
 #. src/app-utils/prefs.scm
 #: ../src/import-export/csv/gnc-csv-model.c:44
@@ -13436,9 +13432,8 @@ msgid "%s column could not be understood."
 msgstr "Το αρχείο δεν μπόρεσε να ανοιχτεί ξανά."
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:1
-#, fuzzy
 msgid "Colon (:)"
-msgstr ": (_άνω κάτω τελεία)"
+msgstr "Άνω κάτω τελεία (:)"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:2
 msgid "Comma (,)"
@@ -13458,11 +13453,11 @@ msgstr "Κωδικοποίηση:"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:7
 msgid "Fixed-Width"
-msgstr ""
+msgstr "Σταθερό πλάτος"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:8
 msgid "Hyphen (-)"
-msgstr ""
+msgstr "Παύλα  (-)"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:9
 #, fuzzy
@@ -13470,19 +13465,16 @@ msgid "Import CSV/Fixed-Width File"
 msgstr "Εισαγωγή αρχείων QIF"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:10
-#, fuzzy
 msgid "Select the type of each column below."
-msgstr "Διαγραφή της επιλεγμένης συναλλαγής"
+msgstr "Επιλογή του τύπου για κάθε παρακάτω στήλη."
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:11
-#, fuzzy
 msgid "Semicolon (;)"
-msgstr ": (_άνω κάτω τελεία)"
+msgstr "Ερωτηματικό (;)"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:12
-#, fuzzy
 msgid "Separated"
-msgstr "Ημερομηνία έναρξης"
+msgstr "Διαχωρισμένο"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:13
 msgid "Separators"
@@ -13494,12 +13486,11 @@ msgstr "Κενό διάστημα"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:15
 msgid "Tab"
-msgstr "Καρτέλα"
+msgstr "Tab"
 
 #: ../src/import-export/csv/gnc-plugin-csv.c:47
-#, fuzzy
 msgid "Import _CSV/Fixed-Width..."
-msgstr "Εισαγωγή _QIF..."
+msgstr "Εισαγωγή  _CSV/Σταθερού-πλάτους..."
 
 #: ../src/import-export/csv/gnc-plugin-csv.c:48
 #, fuzzy
@@ -14375,9 +14366,8 @@ msgid "Income and Expense categories"
 msgstr ""
 
 #: ../src/import-export/qif-import/qif.glade.h:37
-#, fuzzy
 msgid "Load QIF files"
-msgstr "Φόρτωση αρχείου QIF... "
+msgstr "Φόρτωση αρχείων QIF "
 
 #: ../src/import-export/qif-import/qif.glade.h:38
 msgid "Match QIF accounts with GnuCash accounts"
@@ -14388,9 +14378,8 @@ msgid "Match QIF categories with GnuCash accounts"
 msgstr "Ταίριασμα κατηγορων QIF με λογαριασμούς GnuCash"
 
 #: ../src/import-export/qif-import/qif.glade.h:40
-#, fuzzy
 msgid "Match existing transactions"
-msgstr "Σβήσιμο όλης της συναλλαγής"
+msgstr "Ταίριασμα με υπάρχουσες συναλλαγές"
 
 #: ../src/import-export/qif-import/qif.glade.h:41
 msgid "Match payees/memos to GnuCash accounts"
@@ -14503,9 +14492,8 @@ msgid "_Select the matchings you want to change:"
 msgstr "Επιλογή λογαριασμών για σύγκριση"
 
 #: ../src/import-export/qif-import/qif.glade.h:82
-#, fuzzy
 msgid "_Select..."
-msgstr "Επιλογή..."
+msgstr "_Επιλογή..."
 
 #: ../src/import-export/qif-import/qif.glade.h:83
 msgid "_Show documentation"
@@ -14600,11 +14588,11 @@ msgstr ""
 
 #: ../src/libqof/qof/gnc-date.c:75
 msgid "%B %#d, %Y"
-msgstr ""
+msgstr "%B %#d, %Y"
 
 #: ../src/libqof/qof/gnc-date.c:77
 msgid "%B %e, %Y"
-msgstr ""
+msgstr "%B %e, %Y"
 
 #: ../src/register/ledger-core/split-register.c:179
 msgid "This transaction is already being edited in another register. Please finish editing it there first."
@@ -14682,7 +14670,7 @@ msgstr "Κατάθεση"
 #: ../src/register/ledger-core/split-register.c:2236
 #: ../src/register/ledger-core/split-register.c:2267
 msgid "ATM Draw"
-msgstr ""
+msgstr "Ανάλ. ΑΤΜ"
 
 #: ../src/register/ledger-core/split-register.c:2237
 msgid "Teller"
@@ -14979,8 +14967,9 @@ msgid "Tot Shares"
 msgstr "Σ. Μετοχών"
 
 #: ../src/register/ledger-core/split-register-model.c:412
+#, fuzzy
 msgid "Debit Formula"
-msgstr ""
+msgstr "Τύπος χρέωσης"
 
 #: ../src/register/ledger-core/split-register-model.c:419
 #, fuzzy
@@ -15496,9 +15485,8 @@ msgstr "Φ"
 #: ../intl-scm/guile-strings.c:1002
 #: ../intl-scm/guile-strings.c:1314
 #: ../intl-scm/guile-strings.c:1718
-#, fuzzy
 msgid "Custom Title"
-msgstr "Πελάτης"
+msgstr "Προσαρμοσμένος τίτλος"
 
 #. src/business/business-reports/invoice.scm
 #. src/business/business-reports/easy-invoice.scm
@@ -16847,23 +16835,20 @@ msgstr ""
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:512
 #: ../intl-scm/guile-strings.c:1488
-#, fuzzy
 msgid "Headings 1"
-msgstr "Κεφαλίδα"
+msgstr "Κεφαλίδες 1"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:514
 #: ../intl-scm/guile-strings.c:1490
-#, fuzzy
 msgid "Headings 2"
-msgstr "Κεφαλίδα"
+msgstr "Κεφαλίδες 2"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:520
 #: ../intl-scm/guile-strings.c:1496
-#, fuzzy
 msgid "Report title"
 msgstr "Τίτλος αναφοράς"
 
@@ -16871,7 +16856,6 @@ msgstr "Τίτλος αναφοράς"
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:522
 #: ../intl-scm/guile-strings.c:1498
-#, fuzzy
 msgid "Invoice number"
 msgstr "Αριθμός τιμολογίου"
 
@@ -16879,9 +16863,8 @@ msgstr "Αριθμός τιμολογίου"
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:524
 #: ../intl-scm/guile-strings.c:1500
-#, fuzzy
 msgid "Template file"
-msgstr "_Πρότυπο:"
+msgstr "Αρχείο προτύπου"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
@@ -16903,25 +16886,22 @@ msgstr "Κεφαλίδα"
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:530
 #: ../intl-scm/guile-strings.c:1506
-#, fuzzy
 msgid "Text font"
-msgstr "Μόνο _κείμενο"
+msgstr "Γραμματοσειρά κειμένου"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:532
 #: ../intl-scm/guile-strings.c:1508
-#, fuzzy
 msgid "Logo filename"
-msgstr "Όνομα αρχείου QIF:"
+msgstr "Αρχείο λογότυπου"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:534
 #: ../intl-scm/guile-strings.c:1510
-#, fuzzy
 msgid "Logo width"
-msgstr "Πλάτος γραφήματος"
+msgstr "Πλάτος λογότυπου"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
@@ -17016,7 +16996,6 @@ msgstr "Συχνότητα πληρωμής"
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:560
 #: ../intl-scm/guile-strings.c:1536
-#, fuzzy
 msgid "Extra notes"
 msgstr "Πρόσθετες σημειώσεις"
 
@@ -17734,14 +17713,14 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:2074
 #: ../intl-scm/guile-strings.c:2200
 msgid "QIF import: Name conflict with another account."
-msgstr ""
+msgstr "Εισαγωγή QIF: Ασυμβατότητα ονόματος με  κάποιο άλλο λογαριασμό."
 
 #. src/import-export/qif-import/qif-import/qif-to-gnc.scm
 #. src/import-export/qif-import/qif-to-gnc.scm
 #: ../intl-scm/guile-strings.c:2076
 #: ../intl-scm/guile-strings.c:2202
 msgid "Preparing to convert your QIF data"
-msgstr ""
+msgstr "Προετοιμασία μετατροπής των QIF δεδομένων σας"
 
 #. src/import-export/qif-import/qif-import/qif-to-gnc.scm
 #. src/import-export/qif-import/qif-to-gnc.scm
@@ -17797,9 +17776,8 @@ msgstr "Διαγραφή Συναλλαγής"
 #: ../intl-scm/guile-strings.c:2092
 #: ../intl-scm/guile-strings.c:2216
 #: ../intl-scm/guile-strings.c:2218
-#, fuzzy
 msgid "Line"
-msgstr "Καμμία"
+msgstr "Γραμμή"
 
 #. src/import-export/qif-import/qif-import/qif-file.scm
 #. src/import-export/qif-import/qif-file.scm
@@ -21279,7 +21257,7 @@ msgstr "Προϋπολογισμός"
 #: ../intl-scm/guile-strings.c:4952
 #, fuzzy
 msgid "Period"
-msgstr "Τελεία:"
+msgstr "Τελεία"
 
 #. src/report/standard-reports/budget-flow.scm
 #. src/report/standard-reports/budget-barchart.scm
@@ -21658,9 +21636,8 @@ msgstr ""
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-income-statement.scm
 #: ../intl-scm/guile-strings.c:3600
 #: ../intl-scm/guile-strings.c:5142
-#, fuzzy
 msgid "Range start"
-msgstr "Διάστημα: "
+msgstr "Αρχή διαστήματος "
 
 #. src/report/standard-reports/budget-income-statement.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-income-statement.scm
@@ -21673,9 +21650,8 @@ msgstr ""
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-income-statement.scm
 #: ../intl-scm/guile-strings.c:3604
 #: ../intl-scm/guile-strings.c:5146
-#, fuzzy
 msgid "Range end"
-msgstr "Διάστημα: "
+msgstr "Τέλος διαστήματος"
 
 #. src/report/standard-reports/budget-income-statement.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-income-statement.scm
@@ -21776,9 +21752,8 @@ msgstr "Εμφάνιση πλήρους ονόματος λογαριασμών"
 #. src/report/standard-reports/gnucash/report/standard-reports/budget.scm
 #: ../intl-scm/guile-strings.c:3718
 #: ../intl-scm/guile-strings.c:5260
-#, fuzzy
 msgid "Select Columns"
-msgstr "Επιλογή λογαριασμών"
+msgstr "Επιλογή στηλών"
 
 #. src/report/standard-reports/budget.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget.scm
@@ -21816,9 +21791,8 @@ msgstr "Εμφάνιση όλων των φόρων ξεχωριστά;"
 #. src/report/standard-reports/gnucash/report/standard-reports/budget.scm
 #: ../intl-scm/guile-strings.c:3728
 #: ../intl-scm/guile-strings.c:5270
-#, fuzzy
 msgid "Show Difference"
-msgstr "Διαφορά"
+msgstr "Εμφάνιση διαφοράς"
 
 #. src/report/standard-reports/budget.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget.scm
@@ -24441,9 +24415,8 @@ msgstr "CSS"
 #. src/report/stylesheets/gnucash/report/stylesheet-css.scm
 #: ../intl-scm/guile-strings.c:7748
 #: ../intl-scm/guile-strings.c:8528
-#, fuzzy
 msgid "Default CSS"
-msgstr "Προεπιλογή"
+msgstr "Προεπιλεγμένο CSS"
 
 #. src/report/utility-reports/view-column.scm
 #. src/report/utility-reports/gnucash/report/view-column.scm
@@ -24809,14 +24782,14 @@ msgstr "Άσχημη επιλογή"
 #: ../intl-scm/guile-strings.c:8662
 #: ../intl-scm/guile-strings.c:8850
 msgid "Testing"
-msgstr ""
+msgstr "Δοκιμή"
 
 #. src/report/utility-reports/hello-world.scm
 #. src/report/utility-reports/gnucash/report/hello-world.scm
 #: ../intl-scm/guile-strings.c:8664
 #: ../intl-scm/guile-strings.c:8852
 msgid "Crash the report"
-msgstr ""
+msgstr "Δημιουργία σφάλματος στην αναφορά"
 
 #. src/report/utility-reports/hello-world.scm
 #. src/report/utility-reports/gnucash/report/hello-world.scm
@@ -25823,9 +25796,8 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:9332
 #: ../intl-scm/guile-strings.c:9576
 #: ../intl-scm/guile-strings.c:9618
-#, fuzzy
 msgid ": "
-msgstr " "
+msgstr ": "
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -25833,9 +25805,8 @@ msgstr " "
 #: ../intl-scm/guile-strings.c:9336
 #: ../intl-scm/guile-strings.c:9580
 #: ../intl-scm/guile-strings.c:9622
-#, fuzzy
 msgid " Line "
-msgstr "Καμμία"
+msgstr " Γραμμή"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -25926,9 +25897,8 @@ msgstr ""
 #. src/report/locale-specific/us/taxtxf.scm
 #: ../intl-scm/guile-strings.c:9320
 #: ../intl-scm/guile-strings.c:9606
-#, fuzzy
 msgid "Error Description"
-msgstr "Περιγραφή"
+msgstr "Περιγραφή σφάλματος"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm

@@ -10,10 +10,10 @@
   	Updated	Bengt Thuree <bengt@thuree.com>
   Originally written by Carol Champagne.
   Translators:
-               (translators put your name and email here)
+                Nikos Charonitakis <nikosx@gmail.com>
 -->
 <chapter id="chapter_basics">
-  <title>The Basics</title>
+  <title>Τα βασικά</title>
 
   <para>This chapter will introduce some of the basics of using GnuCash. It is
   recommended that you read through this chapter, before starting to do any
@@ -31,7 +31,7 @@
     guide before proceeding.</para>
 
     <sect2 id="basics-accounting52">
-      <title>The 5 Basic Accounts</title>
+      <title>Οι 5 βασικοί λογαριασμοί</title>
 
       <para>Basic accounting rules group all finance related things into 5
       fundamental types of <quote>accounts</quote>. That is, everything that
@@ -68,7 +68,7 @@
     </sect2>
 
     <sect2 id="basics-accountingequation2">
-      <title>The Accounting Equation</title>
+      <title>Η λογιστική ισότητα</title>
 
       <para>With the 5 basic accounts defined, what is the relationship
       between them? How does one type of account affect the others? Firstly,
@@ -166,7 +166,7 @@
     This division is fundamental to understanding how to use GnuCash.</para>
 
     <sect2 id="basics-accounts2">
-      <title>Files, Accounts and Transactions</title>
+      <title>Αρχεία, Λογαριασμοί και Συναλλαγές</title>
 
       <para>GnuCash uses <emphasis>files</emphasis> for storing information.
       GnuCash provides three types of files: data files, backup files, and log
@@ -783,7 +783,7 @@
     </sect2>
 
     <sect2 id="basics-options2">
-      <title>Menu Items</title>
+      <title>Στοιχεία μενού</title>
 
       <para>The account tree window and the account register window both
       contain menu headings in a menu bar. Clicking on a menu heading brings
@@ -852,7 +852,7 @@
     <guibutton>Close</guibutton> button.</para>
 
     <sect2 id="basics-acctprefs2">
-      <title>Accounts</title>
+      <title>Λογαριασμοί</title>
 
       <para>In <guilabel>Accounts</guilabel>, you will see the default
       settings shown here:</para>
@@ -1397,7 +1397,7 @@
     </sect2>
 
     <sect2 id="basics-accountingPeriod2">
-      <title>Accounting Period</title>
+      <title>Λογιστική περίοδος</title>
 
       <para>In <guilabel>Accounting Period</guilabel>, you will see the
       default settings shown here:</para>
@@ -1453,7 +1453,7 @@
     </sect2>
 
     <sect2 id="basics-schedtrans2">
-      <title>Scheduled Transactions</title>
+      <title>Προγραμματισμένες συναλλαγές</title>
 
       <para>The <guilabel>Scheduled Transactions</guilabel> preferences item
       affects the behavior of GnuCash for scheduling transactions. More
@@ -1918,7 +1918,7 @@
     </sect2>
 
     <sect2 id="basics-backupmanage2">
-      <title>File Management</title>
+      <title>Διαχείρηση αρχείων</title>
 
       <para>So which files should you keep around? Keep your main data file,
       of course - data files do not have an automatic file extension. It's a

@@ -36,7 +36,7 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-06 00:23+0300\n"
-"PO-Revision-Date: 2010-04-11 01:39+0200\n"
+"PO-Revision-Date: 2010-04-14 11:16+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
@@ -4354,7 +4354,7 @@ msgstr "υπάρχων λογαριασμός"
 #: ../src/gnome/druid-hierarchy.c:927
 #: ../src/gnome-utils/gnc-tree-view-account.c:652
 msgid "Placeholder"
-msgstr ""
+msgstr "Συγκεντρωτικός"
 
 #: ../src/gnome/druid-hierarchy.c:958
 msgid "Use Existing"
@@ -8299,7 +8299,7 @@ msgstr "Θέση παραθύρου"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_prices.schemas.in.h:2
 msgid "Show the Price column"
-msgstr ""
+msgstr "Εμφάνιση στήλης τιμών"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_prices.schemas.in.h:3
 #, fuzzy
@@ -9899,7 +9899,7 @@ msgstr "Επιλογή νόμισμα/χρεόγραφο"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:10
 msgid "Select user information here..."
-msgstr ""
+msgstr "Επιλογή πληροφοριών χρήστη εδώ..."
 
 #: ../src/gnome-utils/glade/commodity.glade.h:11
 msgid "Si_ngle:"
@@ -10118,7 +10118,7 @@ msgstr "Το _GnuCash κάνει εγκατάσταση των δεδομένω�
 
 #: ../src/gnome-utils/glade/druid-gconf-setup.glade.h:26
 msgid "_GnuCash updates the search path"
-msgstr ""
+msgstr "Το _GnuCash ενημερώνει την διαδρομή αναζήτησης"
 
 #: ../src/gnome-utils/glade/druid-gconf-setup.glade.h:27
 msgid "_Install into home directory"
@@ -10138,7 +10138,7 @@ msgstr "_Εγκατάσταση δεδομένων από τον χρήστη"
 
 #: ../src/gnome-utils/glade/druid-gconf-setup.glade.h:31
 msgid "_You update the search path yourself"
-msgstr ""
+msgstr "Ο _χρήστης ενημερώνει την διαδρομή αναζήτησης"
 
 #: ../src/gnome-utils/glade/druid-gnc-xml-import.glade.h:1
 #, fuzzy
@@ -12165,7 +12165,7 @@ msgstr "Κλάσμα"
 
 #: ../src/gnome-utils/gnc-tree-view-commodity.c:438
 msgid "Get Quotes"
-msgstr ""
+msgstr "Λήψη τιμών"
 
 #. Translators: This string has a context prefix; the translation
 #. must only contain the part after the | character.
@@ -12793,7 +12793,7 @@ msgstr "Χρήση Πρότυπου Συναλλαγής"
 #: ../src/import-export/aqbanking/aqbanking.glade.h:70
 #: ../src/import-export/hbci/glade/hbci.glade.h:68
 msgid "_Earliest possible date"
-msgstr ""
+msgstr "_Πλησιέστερη το δυνατό ημερομηνία"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:71
 #: ../src/import-export/hbci/glade/hbci.glade.h:69
@@ -13695,11 +13695,11 @@ msgstr ""
 
 #: ../src/import-export/hbci/druid-hbci-initial.c:517
 msgid "Choose AqBanking Backend"
-msgstr ""
+msgstr "Επιλογή συστήματος υποστήριξης  AqBanking"
 
 #: ../src/import-export/hbci/druid-hbci-initial.c:518
 msgid "Please choose an AqBanking backend to be configured"
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε για ρύθμιση ένα σύστημα υποστήριξης AqBanking"
 
 #: ../src/import-export/hbci/druid-hbci-initial.c:519
 msgid "Co_nfigure"
@@ -13715,7 +13715,7 @@ msgstr ""
 #: ../src/import-export/hbci/druid-hbci-utils.c:169
 #, c-format
 msgid "The directory for file %s does not exist. Please choose another place for this file."
-msgstr ""
+msgstr "Δεν υπάρχει ο κατάλογος για το αρχείο %s. Παρακαλώ επιλέξτε μια άλλη τοποθεσία για αυτό το αρχείο."
 
 #: ../src/import-export/hbci/glade/hbci.glade.h:10
 msgid "Choose an Online Banking Version to use with the selected bank:"
@@ -13727,9 +13727,8 @@ msgid "Online Banking Version"
 msgstr "Εύρεση Συναλλαγών"
 
 #: ../src/import-export/hbci/glade/hbci.glade.h:44
-#, fuzzy
 msgid "Start AqBanking Setup Wizard"
-msgstr "Η Αρχική Ρύθμιση HBCI Ολοκληρώθηκε"
+msgstr "Έναρξη οδηγού ρύθμισης AqBanking"
 
 #: ../src/import-export/hbci/glade/hbci.glade.h:67
 msgid "Version"
@@ -14120,9 +14119,8 @@ msgstr "Σφάλμα κατά τη φόρτωση του αρχείου QIF."
 #: ../src/import-export/qif-import/druid-qif-import.c:2683
 #: ../src/import-export/qif-import/druid-qif-import.c:2704
 #: ../src/import-export/qif-import/druid-qif-import.c:2753
-#, fuzzy
 msgid "Failed"
-msgstr "_Αρχείο"
+msgstr "Απέτυχε"
 
 #. Unload the file.
 #. Remove any converted data.
@@ -14224,7 +14222,6 @@ msgid "A bug was detected while converting the QIF data."
 msgstr ""
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2738
-#, fuzzy
 msgid "Canceling"
 msgstr "Ακύρωση"
 
@@ -14257,9 +14254,8 @@ msgid "QIF payee/memo"
 msgstr ""
 
 #: ../src/import-export/qif-import/druid-qif-import.c:3694
-#, fuzzy
 msgid "Match?"
-msgstr "Μάρτιος"
+msgstr "Ταιριάζει;"
 
 #: ../src/import-export/qif-import/gnc-plugin-qif-import.c:50
 msgid "Import _QIF..."
@@ -14433,7 +14429,7 @@ msgstr "Επιλογή ενός αρχείου QIF για άνοιγμα."
 
 #: ../src/import-export/qif-import/qif.glade.h:60
 msgid "Select possible duplicates"
-msgstr ""
+msgstr "Επιλέξτε πιθανές διπλές εμφανίσεις"
 
 #: ../src/import-export/qif-import/qif.glade.h:62
 msgid "Set the default QIF account name"
@@ -16157,7 +16153,7 @@ msgstr "Ευχαριστούμε για την προτίμηση σας"
 #: ../intl-scm/guile-strings.c:1654
 #: ../intl-scm/guile-strings.c:1686
 msgid "Today Date Format"
-msgstr ""
+msgstr "Μορφή σημερινής ημερομηνίας"
 
 #. src/business/business-reports/invoice.scm
 #. src/business/business-reports/owner-report.scm
@@ -16261,7 +16257,6 @@ msgstr "%s #%d"
 #: ../intl-scm/guile-strings.c:1138
 #: ../intl-scm/guile-strings.c:1270
 #: ../intl-scm/guile-strings.c:1884
-#, fuzzy
 msgid "Invoice in progress..."
 msgstr "Τιμολόγιο σε εξέλιξη..."
 
@@ -16966,9 +16961,8 @@ msgstr "_Φορολογητέο"
 #: ../intl-scm/guile-strings.c:592
 #: ../intl-scm/guile-strings.c:1528
 #: ../intl-scm/guile-strings.c:1568
-#, fuzzy
 msgid "Total Price"
-msgstr "Σύνολο (Περίοδος)"
+msgstr "Τελική τιμή"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
@@ -16976,7 +16970,6 @@ msgstr "Σύνολο (Περίοδος)"
 #: ../intl-scm/guile-strings.c:594
 #: ../intl-scm/guile-strings.c:1530
 #: ../intl-scm/guile-strings.c:1570
-#, fuzzy
 msgid "Sub-total"
 msgstr "Μερικό άθροισμα"
 
@@ -17455,8 +17448,9 @@ msgstr "Αύξουσα"
 #. src/business/business-reports/gnucash/report/aging.scm
 #: ../intl-scm/guile-strings.c:952
 #: ../intl-scm/guile-strings.c:1928
+#, fuzzy
 msgid "0 -> $999,999.99, A->Z"
-msgstr ""
+msgstr "0 -> $999,999.99, A->Z"
 
 #. src/business/business-reports/aging.scm
 #. src/business/business-reports/gnucash/report/aging.scm
@@ -17469,8 +17463,9 @@ msgstr "Φθίνουσα"
 #. src/business/business-reports/gnucash/report/aging.scm
 #: ../intl-scm/guile-strings.c:956
 #: ../intl-scm/guile-strings.c:1932
+#, fuzzy
 msgid "$999,999.99 -> $0, Z->A"
-msgstr ""
+msgstr "$999,999.99 -> $0, Z->A"
 
 #. src/business/business-reports/aging.scm
 #. src/business/business-reports/gnucash/report/aging.scm
@@ -17814,8 +17809,9 @@ msgstr ""
 #. src/import-export/qif-import/qif-file.scm
 #: ../intl-scm/guile-strings.c:2106
 #: ../intl-scm/guile-strings.c:2232
+#, fuzzy
 msgid "Ignoring unknown option"
-msgstr ""
+msgstr "Παράληψη άγνωστης επιλογής"
 
 #. src/import-export/qif-import/qif-import/qif-file.scm
 #. src/import-export/qif-import/qif-file.scm
@@ -17999,7 +17995,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:2282
 #, c-format
 msgid "Value '%s' could be %s or %s."
-msgstr ""
+msgstr "Αξία '%s' μπορεί να είναι  %s ή %s."
 
 #. src/tax/us/txf.scm
 #. src/tax/us/txf-de_DE.scm
@@ -19149,7 +19145,7 @@ msgstr "Συμπερίληψη λογαριασμών με μηδενικό υπ
 #: ../intl-scm/guile-strings.c:6162
 #: ../intl-scm/guile-strings.c:6838
 msgid "Omit zero balance figures"
-msgstr ""
+msgstr "Παράληψη αριθμών μηδενικού υπόλοιπου"
 
 #. src/report/standard-reports/budget-balance-sheet.scm
 #. src/report/standard-reports/income-statement.scm
@@ -19867,7 +19863,7 @@ msgstr "Γενικό ημερολόγιο"
 #: ../intl-scm/guile-strings.c:6444
 #: ../intl-scm/guile-strings.c:6726
 msgid "Running Balance"
-msgstr ""
+msgstr "Αθροιστικό υπόλοιπο"
 
 #. src/report/standard-reports/income-statement.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/income-statement.scm
@@ -22450,8 +22446,9 @@ msgstr ""
 #. src/report/standard-reports/transaction.scm
 #: ../intl-scm/guile-strings.c:5852
 #: ../intl-scm/guile-strings.c:6528
+#, fuzzy
 msgid "Report Accounts"
-msgstr ""
+msgstr "Αναφορά λογαριασμών"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -23557,7 +23554,7 @@ msgstr "Το όνομα του ατόμου που έφτιαξε την ανα�
 #: ../intl-scm/guile-strings.c:8222
 #: ../intl-scm/guile-strings.c:8352
 msgid "Prepared for"
-msgstr ""
+msgstr "Προετοιμάστηκε για"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24176,7 +24173,7 @@ msgstr "Χρώμα για τα γενικά σύνολα"
 #: ../intl-scm/guile-strings.c:8204
 #: ../intl-scm/guile-strings.c:8426
 msgid "Prepared by: "
-msgstr ""
+msgstr "Προετοιμάστηκε από:"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24191,7 +24188,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:8206
 #: ../intl-scm/guile-strings.c:8428
 msgid "Prepared for: "
-msgstr ""
+msgstr "Προετοιμάστηκε για:"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/gnucash/report/stylesheet-easy.scm
@@ -24234,7 +24231,7 @@ msgstr "Υποσέλιδο"
 #: ../intl-scm/guile-strings.c:7462
 #: ../intl-scm/guile-strings.c:8242
 msgid "String to placed as a footer"
-msgstr ""
+msgstr "Αλφαριθμητικό που θα τοποθετηθεί ως υποσέλιδο"
 
 #. src/report/stylesheets/stylesheet-css.scm
 #. src/report/stylesheets/gnucash/report/stylesheet-css.scm
@@ -24497,14 +24494,14 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:8562
 #: ../intl-scm/guile-strings.c:8750
 msgid "Boolean Option"
-msgstr ""
+msgstr "Επιλογή boolean"
 
 #. src/report/utility-reports/hello-world.scm
 #. src/report/utility-reports/gnucash/report/hello-world.scm
 #: ../intl-scm/guile-strings.c:8564
 #: ../intl-scm/guile-strings.c:8752
 msgid "This is a boolean option."
-msgstr ""
+msgstr "Αυτή είναι μια επιλογή boolean"
 
 #. src/report/utility-reports/hello-world.scm
 #. src/report/utility-reports/gnucash/report/hello-world.scm
@@ -25841,7 +25838,7 @@ msgstr "Αδυναμία ανοίγματος αρχείου: "
 #: ../intl-scm/guile-strings.c:9594
 #: ../intl-scm/guile-strings.c:9884
 msgid ". The error is: "
-msgstr ""
+msgstr ". Το σφάλμα είναι:"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -26654,2414 +26651,3 @@ msgstr "Είναι εύκολο να επικοινωνήσετε με τους 
 msgid "There is a theory that if ever anyone discovers what the Universe is for and why it is here, it will instantly disappear and be replaced with something even more bizarre and inexplicable. There is another theory that this has already happened. Douglas Adams, \"The Restaurant at the End of the Universe\""
 msgstr "Υπάρχει η θεωρία που λέει ότι αν μια μέρα κάποιος ανακαλύψει το λόγο ύπαρξης του σύμπαντος, αυτό θα εξαφανιστεί ακαριαία και θα αντικατασταθεί από κάτι πιο αλλόκοτο και ακατανόητο. Υπάρχει επίσης και κάποια άλλη θεωρία που λέει ότι αυτό έχει ήδη συμβεί.  Douglas Adams, \"Το Εστιατόριο στην Άκρη του Σύμπαντος\""
 
-#~ msgid "Set the logging level from 0 (least) to 6 (most)"
-#~ msgstr "Ορισμός επιπέδου αναφορών από 0 (ελάχιστο) ως 6 (μέγιστο)"
-
-#~ msgid "LOGLEVEL"
-#~ msgstr "LOGLEVEL"
-
-#~ msgid "Setup new accounts"
-#~ msgstr "Ρύθμιση νέων λογαριασμών"
-
-#~ msgid "Unknown database access mode '%s'. Using default mode: multi-user."
-#~ msgstr ""
-#~ "Άγνωστος τρόπος πρόσβασης βάσης δεδομένων '%s'. Θα χρησιμοποιηθεί ο "
-#~ "προκαθορισμένος: πολυχρηστικός"
-
-#~ msgid "From the Postgresql Server: %s"
-#~ msgstr "Από τον εξυπηρετητή Postgresql: %s"
-
-#~ msgid "Backend connection is not available"
-#~ msgstr "Η σύνδεση με το πρόγραμμα δεν είναι διαθέσιμη"
-
-#~ msgid "Query could not be executed"
-#~ msgstr "Αποτυχία εκτέλεσης της ερώτησης"
-
-#~ msgid "_Tax Table Editor"
-#~ msgstr "Διορθωτής πίνακα _φόρου"
-
-#, fuzzy
-#~ msgid "Escrow "
-#~ msgstr "Εγγυητικός"
-
-#~ msgid "Ta_x Options"
-#~ msgstr "Επιλογές _φόρου"
-
-#~ msgid "Save transaction before closing?"
-#~ msgstr "Αποθήκευση συναλλαγής πριν το κλείσιμο;"
-
-#, fuzzy
-#~ msgid ""
-#~ "The current transaction has been changed.  Would you like to record the "
-#~ "changes before closing this page, close the page without recording the "
-#~ "changes, or cancel the close?"
-#~ msgstr ""
-#~ "Η τρέχουσα συναλλαγή έχει αλλάξει.\n"
-#~ "Θέλετε να αποθηκευτεί ;"
-
-#~ msgid "GnuCash Finance Management"
-#~ msgstr "Διαχείριση οικονομικών GnuCash"
-
-#~ msgid "<no file>"
-#~ msgstr "<χωρίς αρχείο>"
-
-#~ msgid "CUSIP code"
-#~ msgstr "κωδικός CUSIP"
-
-#~ msgid "Print GnuCash Document"
-#~ msgstr "Εκτύπωση εγγράφου GnuCash"
-
-#, fuzzy
-#~ msgid "do not translate"
-#~ msgstr "δεν περιέχει"
-
-#, fuzzy
-#~ msgid "gnc-new-account"
-#~ msgstr "Λογαριασμός Εσόδων"
-
-#~ msgid "QIF file load warning: %s"
-#~ msgstr "Προειδοποίηση φόρτωσης αρχείου QIF: %s"
-
-#~ msgid "QIF file load failed: %s"
-#~ msgstr "Απέτυχε η φόρτωση αρχείου QIF: %s"
-
-#~ msgid "QIF file parse failed: %s"
-#~ msgstr "Απέτυχε η ανάλυση του αρχείου QIF: %s"
-
-#~ msgid "Int"
-#~ msgstr "Τοκ"
-
-#~ msgid "ATM"
-#~ msgstr "ATM"
-
-#~ msgid "INVOICE"
-#~ msgstr "ΤΙΜΟΛΟΓΙΟ"
-
-#~ msgid "Invoice&nbsp;#&nbsp;%d"
-#~ msgstr "Τιμολόγιο&nbsp;#&nbsp;%d"
-
-#~ msgid "Invoice&nbsp;Date"
-#~ msgstr "Τιμολόγιο&nsbsp;Ημερομηνία"
-
-#~ msgid "Due&nbsp;Date"
-#~ msgstr "Ημ/νία&nbsp;Οφειλής"
-
-#, fuzzy
-#~ msgid "<br>Invoice&nbsp;in&nbsp;progress...."
-#~ msgstr "Τιμολόγιο σε εξέλιξη..."
-
-#~ msgid "Invoice #%d"
-#~ msgstr "Τιμολόγιο #%d"
-
-#~ msgid "Importing transactions..."
-#~ msgstr "Γίνεται εισαγωγή συναλλαγών..."
-
-#~ msgid "TXF"
-#~ msgstr "TXF"
-
-#~ msgid "Compute unrealized gains and losses"
-#~ msgstr "Υπολογισμός μη πραγματοποιηθέντων κερδών και ζημιών"
-
-#~ msgid "button1"
-#~ msgstr "κουμπί1"
-
-#~ msgid "gtk-cancel"
-#~ msgstr "gtk-cancel"
-
-#~ msgid "gtk-ok"
-#~ msgstr "gtk-ok"
-
-#~ msgid "Enter the currency used for new accounts"
-#~ msgstr "Εισάγετε το νόμισμα που θα χρησιμοποιηθεί στους νέους λογαριασμούς"
-
-#, fuzzy
-#~ msgid "type:bank"
-#~ msgstr "τύπος:τράπεζα"
-
-#, fuzzy
-#~ msgid "type:port"
-#~ msgstr "Αναφορά"
-
-#, fuzzy
-#~ msgid "type:oth a"
-#~ msgstr "Τύπος: "
-
-#, fuzzy
-#~ msgid "type:oth l"
-#~ msgstr "Τύπος: "
-
-#, fuzzy
-#~ msgid "type:cat"
-#~ msgstr "Τύπος:"
-
-#, fuzzy
-#~ msgid "type:security"
-#~ msgstr "Νέο Αξιόγραφο"
-
-#~ msgid "account"
-#~ msgstr "λογαριασμός"
-
-#, fuzzy
-#~ msgid "Include gains and losses"
-#~ msgstr "Συμπερίληψη λογαριασμών χωρίς μετοχές"
-
-#~ msgid "Sub-"
-#~ msgstr "Υπό-"
-
-#~ msgid " Stylesheet"
-#~ msgstr " Φύλλο Στυλ"
-
-#~ msgid "last day"
-#~ msgstr "τελευταία ημέρα"
-
-#~ msgid "Once: %s"
-#~ msgstr "Μια φορά: %s"
-
-#~ msgid "Daily (x%u)"
-#~ msgstr "Ημερήσια (x%u)"
-
-#, fuzzy
-#~ msgid "Weekdays"
-#~ msgstr "Εβδομάδες"
-
-#~ msgid "Weekly (x%d): %s"
-#~ msgstr "Εβδομαδιαία (x%d): %s"
-
-#~ msgid "Weekly: %s"
-#~ msgstr "Εβδομαδιαία: %s"
-
-#~ msgid "Monthly (x%u): %u"
-#~ msgstr "Μηνιαία (x%u): %u"
-
-#~ msgid "Monthly: %u"
-#~ msgstr "Μηνιαία :%u"
-
-#~ msgid "Quarterly: %u"
-#~ msgstr "Τριμηνιαία: %u"
-
-#~ msgid "Yearly (x%u): %s/%u"
-#~ msgstr "Ετήσια (x%u): %s/%u"
-
-#~ msgid "Yearly: %s/%u"
-#~ msgstr "Ετήσια: %s/%u"
-
-#~ msgid "Enables support for the European Union EURO currency."
-#~ msgstr "Ενεργοποίηση υποστήριξης για το Ευρώ το νόμισμα της ΕΕ."
-
-#~ msgid "_Enable euro support"
-#~ msgstr "Ε_νεργοποίηση υποστήριξης ευρώ"
-
-#~ msgid " Variables are in the form 'name=value'"
-#~ msgstr " Οι μεταβλητές είναι της μορφής 'όνομα=τιμή'"
-
-#, fuzzy
-#~ msgid "Save Check Description"
-#~ msgstr "Ταξινόμηση κατά Περιγραφή"
-
-#, fuzzy
-#~ msgid "All Files"
-#~ msgstr "Όλα τα αρχεία"
-
-#, fuzzy
-#~ msgid "New Check Format Title"
-#~ msgstr "Δεν είναι δυνατή η αποθήκευση σε αυτό το αρχείο."
-
-#~ msgid "online book"
-#~ msgstr "online βιβλίο"
-
-#, fuzzy
-#~ msgid "Custom Check"
-#~ msgstr "Προσαρμοσμένο φορμά επιταγής"
-
-#~ msgid " "
-#~ msgstr " "
-
-#, fuzzy
-#~ msgid "Zero"
-#~ msgstr "μηδέν"
-
-#, fuzzy
-#~ msgid "One"
-#~ msgstr "Μια φορά"
-
-#, fuzzy
-#~ msgid "Two"
-#~ msgstr "Σε"
-
-#, fuzzy
-#~ msgid "Three"
-#~ msgstr "Τρίτο-επίπεδο"
-
-#, fuzzy
-#~ msgid "Four"
-#~ msgstr "Φόρμα"
-
-#, fuzzy
-#~ msgid "Five"
-#~ msgstr "Σταθερό"
-
-#, fuzzy
-#~ msgid "Seven"
-#~ msgstr "Αποθήκευση"
-
-#, fuzzy
-#~ msgid "Eight"
-#~ msgstr "Δεξιά"
-
-#, fuzzy
-#~ msgid "Thirteen"
-#~ msgstr "Τρίτο-επίπεδο"
-
-#, fuzzy
-#~ msgid "Fourteen"
-#~ msgstr "Τέταρτο-επίπεδο"
-
-#, fuzzy
-#~ msgid "Sixteen"
-#~ msgstr "Έκτο-επίπεδο"
-
-#, fuzzy
-#~ msgid "Eighteen"
-#~ msgstr "Δεξιά"
-
-#, fuzzy
-#~ msgid "Twenty"
-#~ msgstr "Κείμενο"
-
-#, fuzzy
-#~ msgid "Forty"
-#~ msgstr "Φόρμα"
-
-#, fuzzy
-#~ msgid "Sixty"
-#~ msgstr "Ασφάλεια"
-
-#, fuzzy
-#~ msgid "Seventy"
-#~ msgstr "Επιλογή"
-
-#, fuzzy
-#~ msgid "Eighty"
-#~ msgstr "Δεξιά"
-
-#, fuzzy
-#~ msgid "Ninety"
-#~ msgstr "Καμμία"
-
-#, fuzzy
-#~ msgid "Thousand"
-#~ msgstr "Πέμπτη"
-
-#, fuzzy
-#~ msgid "Billion"
-#~ msgstr "Τιμολόγιο Αγορών"
-
-#, fuzzy
-#~ msgid "Quintillion"
-#~ msgstr "Ερώτηση"
-
-#, fuzzy
-#~ msgid "%s and %"
-#~ msgstr "%s ως %s"
-
-#, fuzzy
-#~ msgid "Root Account"
-#~ msgstr "Χαμένοι Λογαριασμοί"
-
-#, fuzzy
-#~ msgid "Semi-monthly "
-#~ msgstr "Ανά δυο εβδομάδες"
-
-#, fuzzy
-#~ msgid "_Lot Viewer..."
-#~ msgstr "Προβολή..."
-
-#~ msgid "Enable debugging mode"
-#~ msgstr "Ενεργοποίηση κατάστασης αποσφαλμάτωσης"
-
-#~ msgid "Absolute Day-of-the-month"
-#~ msgstr "Απόλυτη Ημέρα του μήνα"
-
-#~ msgid "Number of days from now"
-#~ msgstr "Αριθμός ημερών από τώρα"
-
-#~ msgid "Type Menu"
-#~ msgstr "Τύπος μενού"
-
-#~ msgid "*"
-#~ msgstr "*"
-
-#~ msgid "Value $"
-#~ msgstr "Αξία $"
-
-#~ msgid "Percent (%)"
-#~ msgstr "Ποσοστό (%)"
-
-#~ msgid "Value ($)"
-#~ msgstr "Αξία ($)"
-
-#~ msgid "Obsolete"
-#~ msgstr "Ξεπερασμένο"
-
-#~ msgid "A Fixed-Rate loan"
-#~ msgstr "Ένα δάνειο Σταθερού Επιτοκίου"
-
-#, fuzzy
-#~ msgid "5/1 Year"
-#~ msgstr "Έτος"
-
-#, fuzzy
-#~ msgid "7/1 Year"
-#~ msgstr "Έτος"
-
-#, fuzzy
-#~ msgid "10/1 Year"
-#~ msgstr "Έτος"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "1/10"
-#~ msgstr "1/10"
-
-#~ msgid "1/100"
-#~ msgstr "1/100"
-
-#~ msgid "1/1000"
-#~ msgstr "1/1000"
-
-#~ msgid "1/10000"
-#~ msgstr "1/10000"
-
-#~ msgid "1/100000"
-#~ msgstr "1/100000"
-
-#~ msgid "1/1000000"
-#~ msgstr "1/1000000"
-
-#, fuzzy
-#~ msgid "Use Commodity Value"
-#~ msgstr ""
-#~ "\n"
-#~ "Αξία:"
-
-#, fuzzy
-#~ msgid "Open a register showing the transactions in this lot"
-#~ msgstr "Εισάγετε σημειώσεις για την συναλλαγή"
-
-#~ msgid "10th"
-#~ msgstr "10η"
-
-#~ msgid "11th"
-#~ msgstr "11η"
-
-#~ msgid "12th"
-#~ msgstr "12η"
-
-#~ msgid "13th"
-#~ msgstr "13η"
-
-#~ msgid "14th"
-#~ msgstr "14η"
-
-#~ msgid "15th"
-#~ msgstr "15η"
-
-#~ msgid "16th"
-#~ msgstr "16η"
-
-#~ msgid "17th"
-#~ msgstr "17η"
-
-#~ msgid "18th"
-#~ msgstr "18η"
-
-#~ msgid "19th"
-#~ msgstr "19η"
-
-#~ msgid "1st"
-#~ msgstr "1η"
-
-#~ msgid "20th"
-#~ msgstr "20η"
-
-#~ msgid "21st"
-#~ msgstr "21η"
-
-#~ msgid "22nd"
-#~ msgstr "22η"
-
-#~ msgid "23rd"
-#~ msgstr "23η"
-
-#~ msgid "24th"
-#~ msgstr "24η"
-
-#~ msgid "25th"
-#~ msgstr "25η"
-
-#~ msgid "26th"
-#~ msgstr "26η"
-
-#~ msgid "27th"
-#~ msgstr "27η"
-
-#~ msgid "28th"
-#~ msgstr "28η"
-
-#~ msgid "2nd"
-#~ msgstr "2η"
-
-#~ msgid "3rd"
-#~ msgstr "3η"
-
-#~ msgid "4th"
-#~ msgstr "4η"
-
-#~ msgid "5th"
-#~ msgstr "5η"
-
-#~ msgid "6th"
-#~ msgstr "6η"
-
-#~ msgid "7th"
-#~ msgstr "7η"
-
-#~ msgid "8th"
-#~ msgstr "8η"
-
-#~ msgid "9th"
-#~ msgstr "9η"
-
-#~ msgid "<b>Recurrence Frequency</b>"
-#~ msgstr "<b>Συχνότητα επανάληψης</b>"
-
-#~ msgid "<b>Template Transaction</b>"
-#~ msgstr "<b>Πρότυπο συναλλαγής</b>"
-
-#, fuzzy
-#~ msgid "Apr, Aug, Dec"
-#~ msgstr "Απρ, Ιουλ, Δεκ"
-
-#~ msgid "Apr, Oct"
-#~ msgstr "Απρ, Οκτ"
-
-#~ msgid "April"
-#~ msgstr "Απρίλιος"
-
-#~ msgid "August"
-#~ msgstr "Αύγουστος"
-
-#~ msgid "Bi-Weekly"
-#~ msgstr "Ανά 2 μήνες"
-
-#~ msgid "Current Year"
-#~ msgstr "Τρέχον Έτος"
-
-#~ msgid "Daily [M-F]"
-#~ msgstr "Ημερήσια [Δ-Π]"
-
-#~ msgid "December"
-#~ msgstr "Δεκέμβριος"
-
-#~ msgid "End "
-#~ msgstr "Τέλος "
-
-#~ msgid "Feb, Aug"
-#~ msgstr "Φεβ, Αυγ"
-
-#~ msgid "Feb, Jun, Oct"
-#~ msgstr "Φεβ, Ιουν, Οκτ"
-
-#~ msgid "Feb, May, Aug, Nov"
-#~ msgstr "Φεβ, Μαι, Αυγ, Νοε"
-
-#~ msgid "February"
-#~ msgstr "Φεβρουάριος"
-
-#~ msgid "Jan, Apr, Jul, Oct"
-#~ msgstr "Ιαν, Απρ, Ιουλ, Οκτ"
-
-#~ msgid "Jan, Jul"
-#~ msgstr "Ιαν, Ιουλ"
-
-#~ msgid "Jan, May, Sep"
-#~ msgstr "Ιαν, Μαι, Σεπ"
-
-#~ msgid "January"
-#~ msgstr "Ιανουάριος"
-
-#~ msgid "July"
-#~ msgstr "Ιούλιος"
-
-#~ msgid "Jun, Dec"
-#~ msgstr "Ιουν, Δεκ"
-
-#~ msgid "June"
-#~ msgstr "Ιούνιος"
-
-#~ msgid "Mar, Jul, Nov"
-#~ msgstr "Μαρ, Ιουλ, Νοε"
-
-#~ msgid "Mar, Jun, Sep, Dec"
-#~ msgstr "Μαρ, Ιουν, Σεπ, Δεκ"
-
-#~ msgid "Mar, Sep"
-#~ msgstr "Μαρ, Σεπ"
-
-#~ msgid "May"
-#~ msgstr "Μάιος"
-
-#~ msgid "May, Nov"
-#~ msgstr "Μαι, Νοε"
-
-#~ msgid "November"
-#~ msgstr "Νοέμβριος"
-
-#~ msgid "Now + 1 Year"
-#~ msgstr "Τώρα + 1 Έτος"
-
-#~ msgid "October"
-#~ msgstr "Οκτώβριος"
-
-#~ msgid "Select initial date, above."
-#~ msgstr "Επιλέξτε επάνω, την αρχική ημερομηνία."
-
-#~ msgid "Semi-Yearly"
-#~ msgstr "Εξαμηνιαία"
-
-#~ msgid "September"
-#~ msgstr "Σεπτέμβριος"
-
-#, fuzzy
-#~ msgid "Tri-Yearly"
-#~ msgstr "Ετήσια"
-
-#~ msgid "Whole Loan"
-#~ msgstr "Όλο το Δάνειο"
-
-#~ msgid "[29th/last]"
-#~ msgstr "[29η/last]"
-
-#~ msgid "[30th/last]"
-#~ msgstr "[30η/last]"
-
-#~ msgid "[31st/last]"
-#~ msgstr "[31η/last]"
-
-#~ msgid "year(s)."
-#~ msgstr "έτος(η)."
-
-#~ msgid "years"
-#~ msgstr "έτη"
-
-#~ msgid "does not contain"
-#~ msgstr "δεν περιέχει"
-
-#~ msgid "Select pixmap"
-#~ msgstr "Επιλογή εικόνας"
-
-#, fuzzy
-#~ msgid "There was an error loading the specified URL."
-#~ msgstr ""
-#~ "Υπήρξε σφάλμα κατά την ανάγνωση του αρχείου.\n"
-#~ "Θέλετε να συνεχίσετε;"
-
-#~ msgid "Error message"
-#~ msgstr "Μήνυμα σφάλματος"
-
-#~ msgid "Quit GnuCash?"
-#~ msgstr "Έξοδος από το GnuCash;"
-
-#~ msgid ""
-#~ "The GnuCash personal finance manager.\n"
-#~ "The GNU way to manage your money!\n"
-#~ "http://www.gnucash.org/"
-#~ msgstr ""
-#~ "Ο προσωπικός διαχειριστής οικονομικών GnuCash.\n"
-#~ "O GNU τρόπος διαχείρισης των χρημάτων σας!\n"
-#~ "http://www.gnucash.org/"
-
-#~ msgid "EDIT"
-#~ msgstr "ΕΠΕΞΕΡΓΑΣΙΑ"
-
-#, fuzzy
-#~ msgid "Select Import Action"
-#~ msgstr "Επιλογή Λογαριασμού"
-
-#~ msgid "HBCI Version"
-#~ msgstr "Έκδοση HBCI"
-
-#~ msgid "HBCI account name"
-#~ msgstr "Όνομα λογαριασμού HBCI"
-
-#~ msgid "Initial HBCI Setup"
-#~ msgstr "Αρχική Ρύθμιση HBCI"
-
-#~ msgid "<b>HBCI</b>"
-#~ msgstr "<b>HBCI</b>"
-
-#, fuzzy
-#~ msgid "Online HBCI Transaction"
-#~ msgstr "Εύρεση Συναλλαγών"
-
-#~ msgid "Field"
-#~ msgstr "Πεδίο"
-
-#~ msgid "Old Value"
-#~ msgstr "Παλιά αξία"
-
-#~ msgid "Verify Changes"
-#~ msgstr "Επιβεβαιώστε τις αλλαγές"
-
-#~ msgid "The following changes must be made. Continue?"
-#~ msgstr "Πρέπει να γίνουν οι ακόλουθες αλλαγές. Να συνεχίσω;"
-
-#, fuzzy
-#~ msgid ""
-#~ "AqHBCI \n"
-#~ "Setup"
-#~ msgstr "Ρύθμιση HBCI"
-
-#~ msgid "HBCI Setup"
-#~ msgstr "Ρύθμιση HBCI"
-
-#, fuzzy
-#~ msgid ""
-#~ "Update \n"
-#~ "account list"
-#~ msgstr "Ομαδοποίηση Λογαριασμών"
-
-#~ msgid "Find"
-#~ msgstr "Εύρεση"
-
-#~ msgid "Balances"
-#~ msgstr "Υπόλοιπα"
-
-#, fuzzy
-#~ msgid "Co_mmodity:"
-#~ msgstr "Αξία:"
-
-#~ msgid "Hide _zero totals"
-#~ msgstr "Απόκρυψη _μηδενικών συνόλων"
-
-#~ msgid "<b>Commodities</b>"
-#~ msgstr "<b>Αξίες</b>"
-
-#~ msgid "-72,114.05"
-#~ msgstr "-72,114.05"
-
-#~ msgid "Finish"
-#~ msgstr "Τερματισμός"
-
-#~ msgid "New File"
-#~ msgstr "Νέο αρχείο"
-
-#~ msgid "Open File"
-#~ msgstr "Άνοιγμα αρχείου"
-
-#~ msgid "Reconciled balance:"
-#~ msgstr "Συμφωνημένο υπόλοιπο:"
-
-#~ msgid "Save File"
-#~ msgstr "Αποθήκευση αρχείου"
-
-#~ msgid "_Check and Repair..."
-#~ msgstr "_Έλεγχος & Διόρθωση..."
-
-#~ msgid "_Transfer"
-#~ msgstr "_Μεταφορά"
-
-#~ msgid "_Commodity Editor"
-#~ msgstr "_Διορθωτής αξιών"
-
-#, fuzzy
-#~ msgid "Select currency/security"
-#~ msgstr "Επιλογή Νόμισμα/αξιόγραφο"
-
-#, fuzzy
-#~ msgid "<b>Commodity Information</b>"
-#~ msgstr "Πληροφορίες Διαίρεσης"
-
-#, fuzzy
-#~ msgid "New Commodity"
-#~ msgstr "Αξία"
-
-#~ msgid "Select currency/security "
-#~ msgstr "Επιλογή Νόμισμα/αξιόγραφο"
-
-#, fuzzy
-#~ msgid "_Currency/security:"
-#~ msgstr "Νόμισμα/αξιόγραφο:"
-
-#, fuzzy
-#~ msgid "Do you want to display '%s'?"
-#~ msgstr ""
-#~ "Είστε σίγουρος για την διαγραφή της\n"
-#~ "τρέχουσας τιμής;"
-
-#, fuzzy
-#~ msgid ""
-#~ "There are no Scheduled Transactions to be entered at this time. (%d "
-#~ "transaction automatically created)There are no Scheduled Transactions to "
-#~ "be entered at this time. (%d transactions automatically created)"
-#~ msgstr ""
-#~ "Δημιουργία Προγραμματισμένης Συναλλαγής με την τρέχουσα συναλλαγή ως "
-#~ "πρότυποΔημιουργία Προγραμματισμένης Συναλλαγής με την τρέχουσα συναλλαγή "
-#~ "ως πρότυπο"
-
-#, fuzzy
-#~ msgid "<b>Included Accounts</b>"
-#~ msgstr "Λογαριασμός Καταχώρησης"
-
-#, fuzzy
-#~ msgid "This transaction is not voided."
-#~ msgstr "_Αυτή η συναλλαγή"
-
-#~ msgid "- (_Dash)"
-#~ msgstr "-(_Παύλα)"
-
-#~ msgid ". (_Period)"
-#~ msgstr ". (_Τελεία)"
-
-#~ msgid "/ (_Slash)"
-#~ msgstr "/ (_Δεξιότροπη κάθετος)"
-
-#, fuzzy
-#~ msgid "Income:Salary:Taxable"
-#~ msgstr "Έσοδα:Μισθός:Φορολογείται"
-
-#, fuzzy
-#~ msgid "\\ (_Backslash)"
-#~ msgstr "\\ (Αριστερότροπη κάθετος)"
-
-#~ msgid "-- Stock Split --"
-#~ msgstr "-- Σπλιτ Μετοχής --"
-
-#, fuzzy
-#~ msgid "Overview of GnuCash"
-#~ msgstr "Καλώς ήλθατε στο Gnucash"
-
-#~ msgid "Introduction to GnuCash"
-#~ msgstr "Εισαγωγή στο Gnucash"
-
-#~ msgid "About this Book"
-#~ msgstr "Περί αυτού του Βιβλίου"
-
-#~ msgid "Top Ten Reasons to Use GnuCash"
-#~ msgstr "10 Λόγοι για να Χρησιμοποιήσετε το GnuCash"
-
-#~ msgid "Installation"
-#~ msgstr "Εγκατάσταση"
-
-#, fuzzy
-#~ msgid "File, Accounts and Transactions"
-#~ msgstr "Εύρεση Συναλλαγών"
-
-#~ msgid "Double Entry"
-#~ msgstr "Διπλή Εγγραφή"
-
-#~ msgid "The GnuCash Interface"
-#~ msgstr "Η Διεπαφή του Gnucash"
-
-#~ msgid "Create a new set of accounts"
-#~ msgstr "Δημιουργία ενός νέου συνόλου λογαριασμών"
-
-#~ msgid "Tip of the Day"
-#~ msgstr "Συμβουλή της Ημέρας"
-
-#~ msgid "Account Tree Window"
-#~ msgstr "Παράθυρο Δένδρου Λογαριασμών"
-
-#~ msgid "Tool Bar Buttons"
-#~ msgstr "Κουμπιά Εργαλειοθήκης"
-
-#~ msgid "Menu Items"
-#~ msgstr "Στοιχεία Μενού"
-
-#~ msgid "Menu Shortcuts"
-#~ msgstr "Συντομεύσεις Μενού"
-
-#~ msgid "International"
-#~ msgstr "Διεθνή"
-
-#~ msgid "Register Colors"
-#~ msgstr "Χρώματα Μητρώου"
-
-#~ msgid "Help Manual"
-#~ msgstr "Εγχειρίδιο Βοήθειας"
-
-#~ msgid "Topic Search"
-#~ msgstr "Αναζήτηση Θέματος"
-
-#~ msgid "Creating and Saving Files"
-#~ msgstr "Δημιουργία και Αποθήκευση Αρχείων"
-
-#~ msgid "Importing QIF Files"
-#~ msgstr "Εισαγωγή αρχείων QIF"
-
-#~ msgid "Putting It All Together"
-#~ msgstr "Συνοψίζοντας"
-
-#, fuzzy
-#~ msgid "Organizing Your Accounts"
-#~ msgstr "Συμφωνία Λογαριασμού"
-
-#~ msgid "Basic Accounting Concepts"
-#~ msgstr "Βασικές Έννοιες Λογιστικής"
-
-#~ msgid "Balance Sheet Accounts"
-#~ msgstr "Λογαριασμοί Ισολογισμού"
-
-#~ msgid "Income and Expense Accounts"
-#~ msgstr "Λογαριασμοί Εσόδων και Εξόδων"
-
-#, fuzzy
-#~ msgid "Balance sheet accounts"
-#~ msgstr "Λογαριασμοί Ισολογισμού"
-
-#, fuzzy
-#~ msgid "Concepts of Transactions"
-#~ msgstr "Λίστα Συναλλαγών"
-
-#, fuzzy
-#~ msgid "The Account Register"
-#~ msgstr "Μητρώο"
-
-#, fuzzy
-#~ msgid "Simple Two Account Transaction"
-#~ msgstr "Απλή Συναλλαγή με Δύο Λογαριασμούς"
-
-#, fuzzy
-#~ msgid "Multi Account Transaction"
-#~ msgstr "Συναλλαγή Πολλαπλών Λογαριασμών"
-
-#, fuzzy
-#~ msgid "Account Register Features"
-#~ msgstr "Μητρώο"
-
-#, fuzzy
-#~ msgid "Choosing a Register Style"
-#~ msgstr "Μητρώο"
-
-#~ msgid "Additional Transaction Examples"
-#~ msgstr "Πρόσθετα Παραδείγματα Συναλλαγής"
-
-#~ msgid "Setting up Accounts"
-#~ msgstr "Ρύθμιση Λογαριασμών"
-
-#~ msgid "Entering Deposits"
-#~ msgstr "Εισαγωγή Καταθέσεων"
-
-#~ msgid "Entering Withdrawals"
-#~ msgstr "Καταχώρηση Αναλήψεων"
-
-#~ msgid "ATM/Cash Withdrawals"
-#~ msgstr "Αναλήψεις από ATM"
-
-#, fuzzy
-#~ msgid "Reconciling your Accounts"
-#~ msgstr "Συμφωνία Λογαριασμού"
-
-#, fuzzy
-#~ msgid "Managing Credit Cards"
-#~ msgstr "Πιστωτικές Κάρτες"
-
-#~ msgid "Setting Up Accounts"
-#~ msgstr "Ρύθμιση Λογαριασμών"
-
-#~ msgid "Entering Charges"
-#~ msgstr "Καταχώρηση Χρεώσεων"
-
-#~ msgid "Entering Payments"
-#~ msgstr "Καταχώρηση Πληρωμών"
-
-#, fuzzy
-#~ msgid "Custom Accounts Example"
-#~ msgstr "Άλλο Όνομα Λογαριασμού"
-
-#~ msgid "Buying New Investments"
-#~ msgstr "Αγορά Νέων Επενδύσεων"
-
-#, fuzzy
-#~ msgid "Selling Investments"
-#~ msgstr "Επενδύσεις"
-
-#, fuzzy
-#~ msgid "Portfolio View"
-#~ msgstr "Χαρτοφυλάκιο"
-
-#, fuzzy
-#~ msgid "Updating Prices (How-To)"
-#~ msgstr "Διόρθωση Ισοτιμίας"
-
-#~ msgid "GnuCash Help"
-#~ msgstr "Βοήθεια του GnuCash"
-
-#~ msgid "What is GnuCash?"
-#~ msgstr "Τι είναι το GnuCash;"
-
-#~ msgid "Getting Started"
-#~ msgstr "Ξεκινώντας"
-
-#~ msgid "Running GnuCash for the First Time"
-#~ msgstr "Εκτελώντας για Πρώτη Φορά το GnuCash"
-
-#~ msgid "Usage"
-#~ msgstr "Χρήση"
-
-#~ msgid "GnuCash Windows"
-#~ msgstr "Παράθυρα Gnucash"
-
-#~ msgid "Menus"
-#~ msgstr "Μενού"
-
-#~ msgid "Summary Bar"
-#~ msgstr "Γραμμή Περίληψης"
-
-#~ msgid "Account Tree"
-#~ msgstr "Δένδρο Λογαριασμών"
-
-#~ msgid "Status Bar"
-#~ msgstr "Γραμμή Κατάστασης"
-
-#~ msgid "List of Transactions"
-#~ msgstr "Λίστα Συναλλαγών"
-
-#~ msgid "Report Window"
-#~ msgstr "Παράθυρο Αναφοράς"
-
-#, fuzzy
-#~ msgid "Tool Windows"
-#~ msgstr "_Παράθυρα"
-
-#~ msgid "Scheduled Transactions Window"
-#~ msgstr "Παράθυρο Προγραμματισμένων Συναλλαγών"
-
-#~ msgid "Reconcile Window"
-#~ msgstr "Παράθυρο Συμφωνίας"
-
-#~ msgid "Commodity Editor"
-#~ msgstr "Επεξεργαστής Αξιών"
-
-#~ msgid "Find Transactions"
-#~ msgstr "Εύρεση Συναλλαγών"
-
-#~ msgid "Help Window"
-#~ msgstr "Παράθυρο Βοήθειας"
-
-#~ msgid "Types of GnuCash Accounts"
-#~ msgstr "Τύποι Λογαριασμών του GnuCash"
-
-#, fuzzy
-#~ msgid "To Create a Chart of Accounts"
-#~ msgstr "Δημιουργία ενός νέου συνόλου λογαριασμών"
-
-#, fuzzy
-#~ msgid "To Create a New Account"
-#~ msgstr "Δημιουργία ενός νέου Λογαριασμού"
-
-#~ msgid "General Information"
-#~ msgstr "Γενικές πληροφορίες"
-
-#, fuzzy
-#~ msgid "To Edit an Account"
-#~ msgstr "Επεξεργασία Λογαριασμού"
-
-#, fuzzy
-#~ msgid "To Edit a Chart of Accounts"
-#~ msgstr "Διόρθωση Λογαριασμού"
-
-#, fuzzy
-#~ msgid "To Delete an Account"
-#~ msgstr "_Διαγραφή Λογαριασμού"
-
-#, fuzzy
-#~ msgid "To Jump to Another Account"
-#~ msgstr "Ομαδοποίηση των Λογαριασμών"
-
-#, fuzzy
-#~ msgid "To Reconcile an Account to a Statement"
-#~ msgstr "Επιλογή Λογαριασμού"
-
-#~ msgid "Reconcile Information"
-#~ msgstr "Πληροφορία Συμφωνίας"
-
-#, fuzzy
-#~ msgid "To Perform a Stock Split"
-#~ msgstr "Διαμερισμός Μετοχής"
-
-#~ msgid "Stock Split Druid"
-#~ msgstr "Οδηγός Διαίρεσης Μετοχής"
-
-#, fuzzy
-#~ msgid "Using the Register to Record Transactions"
-#~ msgstr "Η λίστα των Προγραμματισμένων Συναλλαγών"
-
-#, fuzzy
-#~ msgid "Changing the Register View"
-#~ msgstr "Μητρώο"
-
-#, fuzzy
-#~ msgid "To Enter a Transaction"
-#~ msgstr "Εισάγετε σημειώσεις για την συναλλαγή"
-
-#, fuzzy
-#~ msgid "To Enter Multiple Split Transactions"
-#~ msgstr "Εισάγετε σημειώσεις για την συναλλαγή"
-
-#, fuzzy
-#~ msgid "To Enter Multiple Currency Transactions"
-#~ msgstr "Επεξεργασία της τρέχουσας συναλλαγής"
-
-#, fuzzy
-#~ msgid "To Edit a Transaction"
-#~ msgstr "Για την Επεξεργασία Συναλλαγής"
-
-#, fuzzy
-#~ msgid "To Delete a Transaction"
-#~ msgstr "Διαγραφή Συναλλαγής"
-
-#, fuzzy
-#~ msgid "To Remove Transaction Splits"
-#~ msgstr "Διαγραφή Διαιρέσεων Συναλλαγής"
-
-#, fuzzy
-#~ msgid "To Copy a Transaction"
-#~ msgstr "Αντιγραφή Συναλλαγής"
-
-#, fuzzy
-#~ msgid "To Schedule Transactions"
-#~ msgstr "Προγραμματισμένες Συναλλαγές"
-
-#~ msgid "Scheduled Transaction Editor"
-#~ msgstr "Διορθωτής Προγραμματισμένων Συναλλαγών"
-
-#, fuzzy
-#~ msgid "Since Last Run Druid"
-#~ msgstr "Οδηγός Απο την Τελευταία Εκτέλεση"
-
-#~ msgid "Mortgage & Loan Repayment Druid"
-#~ msgstr "Οδηγός Αποπληρωμής Υποθήκης & Δανείου"
-
-#, fuzzy
-#~ msgid "To Print Checks"
-#~ msgstr "Εκτύπωση Επιταγής"
-
-#~ msgid "General Reports"
-#~ msgstr "Γενικές Αναφορές"
-
-#~ msgid "Assets & Liabilities"
-#~ msgstr "Ενεργητικό & Παθητικό"
-
-#~ msgid "Income & Expense"
-#~ msgstr "Έσοδα και Έξοδα"
-
-#~ msgid "Business Reports"
-#~ msgstr "Αναφορές Επιχείρησης"
-
-#, fuzzy
-#~ msgid "To Customize Reports and Graphs"
-#~ msgstr "Αναφορά Πελάτη"
-
-#~ msgid "Account Options"
-#~ msgstr "Επιλογές Λογαριασμών"
-
-#~ msgid "Setting Your Preferences"
-#~ msgstr "Ρύθμιση Των Προτιμήσεων Σας"
-
-#~ msgid "User Info"
-#~ msgstr "Πληροφορίες Χρήστη"
-
-#~ msgid "Advanced"
-#~ msgstr "Ειδικές Επιλογές"
-
-#~ msgid "Setting Tax Options"
-#~ msgstr "Ρύθμιση Επιλογών Φόρου"
-
-#, fuzzy
-#~ msgid "Detailed TXF Category Descriptions"
-#~ msgstr "Λεπτομερής Περιγραφή"
-
-#~ msgid "Report a bug"
-#~ msgstr "Αναφέρετε σφάλμα"
-
-#, fuzzy
-#~ msgid "Include subaccounts in balance"
-#~ msgstr "Να περιέχονται τα υπόλοιπα υπολογαριασμών στα εκτυπούμενα υπόλοιπα;"
-
-#, fuzzy
-#~ msgid "Omit Balance"
-#~ msgstr "Αρχικό Υπόλοιπο"
-
-#, fuzzy
-#~ msgid "Do not show parent account balances"
-#~ msgstr "Δεν έχετε κάποιο λογαριασμό μετοχών με υπόλοιπο!"
-
-#, fuzzy
-#~ msgid "Do not show subtotals"
-#~ msgstr "Εμφάνιση μερικών συνόλων"
-
-#, fuzzy
-#~ msgid "Do not subtotal selected parent accounts"
-#~ msgstr "Εμφάνιση μερικών υπολοίπων μητρικών λογαριασμών"
-
-#, fuzzy
-#~ msgid "Balance sheet as-of date"
-#~ msgstr "Λογαριασμοί Ισολογισμού"
-
-#, fuzzy
-#~ msgid "Account summary as-of date"
-#~ msgstr "Περίληψη Λογαριασμού"
-
-#~ msgid "(type)"
-#~ msgstr "(τύπος)"
-
-#~ msgid "(taxincluded)"
-#~ msgstr "(περιέχει φόρο)"
-
-#~ msgid "(taxtables)"
-#~ msgstr "(πίνακες φόρου)"
-
-#~ msgid "(terms)"
-#~ msgstr "(όροι)"
-
-#~ msgid "End Date: "
-#~ msgstr "Καταληκτική Ημερομηνία: "
-
-#~ msgid "No End"
-#~ msgstr "Δίχως Τέλος"
-
-#~ msgid "Remaining Occurrences:"
-#~ msgstr "Απομένουσες Επαναλήψεις:"
-
-#~ msgid "Upcoming"
-#~ msgstr "Επερχόμενο"
-
-#, fuzzy
-#~ msgid "Export _Chart of Accounts"
-#~ msgstr "Δημιουργία ενός νέου συνόλου λογαριασμών"
-
-#~ msgid "Frame URL"
-#~ msgstr "Πλαίσιο URL"
-
-#, fuzzy
-#~ msgid "Custom Web Report"
-#~ msgstr "Αναφορά Μητρώου"
-
-#, fuzzy
-#~ msgid "Employee Name "
-#~ msgstr "Όνομα Υπάλληλου"
-
-#, fuzzy
-#~ msgid "Create a new window for each new invoice."
-#~ msgstr "Δημιουργία ενός νέου τιμολογίου"
-
-#, fuzzy
-#~ msgid "Du_plicate Transaction"
-#~ msgstr "Αντίγραφο Συναλλαγής"
-
-#~ msgid "Delete Transaction"
-#~ msgstr "Διαγραφή Συναλλαγής"
-
-#, fuzzy
-#~ msgid "_Cancel the current transaction"
-#~ msgstr "Ακύρωση της τρέχουσας συναλλαγής"
-
-#~ msgid "GnuCash"
-#~ msgstr "GnuCash"
-
-#, fuzzy
-#~ msgid "Money Management"
-#~ msgstr "Διαχείριση Αρχείων"
-
-#, fuzzy
-#~ msgid "The custom date format."
-#~ msgstr "Προσαρμοσμένο φορμά"
-
-#, fuzzy
-#~ msgid "Where to print the payee name."
-#~ msgstr "Πρέπει να εισάγετε το όνομα του υπαλλήλου."
-
-#, fuzzy
-#~ msgid "How to draw the toolbar."
-#~ msgstr "Εμφάνιση της εργαλειοθήκης"
-
-#, fuzzy
-#~ msgid "Show two lines of information for each transaction."
-#~ msgstr "Εμφάνιση δύο γραμμών πληροφορίας για κάθε συναλλαγή"
-
-#, fuzzy
-#~ msgid "Use system currency."
-#~ msgstr "Επιλογή Νόμισμα/αξιόγραφο"
-
-#~ msgid "Summarybar"
-#~ msgstr "Γραμμή περίληψης"
-
-#~ msgid " Report: "
-#~ msgstr "Αναφορά:"
-
-#~ msgid "Current Financial Year Start"
-#~ msgstr "Αρχή Τρέχοντος Οικονομικού Έτους"
-
-#~ msgid "Previous Financial Year Start"
-#~ msgstr "Αρχή Προηγούμενου Οικονομικού Έτους"
-
-#~ msgid "End Current Financial Year"
-#~ msgstr "Τέλος Τρέχοντος Οικονομικού Έτους"
-
-#, fuzzy
-#~ msgid "Number of days to retain old files"
-#~ msgstr "Ημέρες που θα διατηρηθούν τα αρχεία καταγραφής"
-
-#, fuzzy
-#~ msgid "Compress output files?"
-#~ msgstr "Συμπίεση αρχείου δεδομένων."
-
-#~ msgid "Search for..."
-#~ msgstr "Αναζήτηση για..."
-
-#~ msgid ""
-#~ "The account %s\n"
-#~ "does not allow transactions.\n"
-#~ msgstr ""
-#~ "Ο λογαριασμός %s\n"
-#~ "δεν επιτρέπει συναλλαγές.\n"
-
-#~ msgid ""
-#~ "The current transaction has been changed.\n"
-#~ "Would you like to record it?"
-#~ msgstr ""
-#~ "Η τρέχουσα συναλλαγή έχει αλλάξει.\n"
-#~ "Θέλετε να την αποθηκεύσετε;"
-
-#~ msgid "Changes have been made since the last Save. Save the data to file?"
-#~ msgstr ""
-#~ "Έγιναν αλλαγές από την τελευταία Αποθήκευση. Να αποθηκευθούν τα δεδομένα "
-#~ "στο αρχείο;"
-
-#~ msgid "Description: "
-#~ msgstr "Περιγραφή: "
-
-#~ msgid "Tax Account"
-#~ msgstr "Λογαριασμός Φόρων"
-
-#~ msgid "You must enter values for the other quantities."
-#~ msgstr "Πρέπει να εισάγετε τιμές και για τα άλλα μεγέθη."
-
-#~ msgid "You must enter a valid expression."
-#~ msgstr "Πρέπει να εισάγετε μια έγκυρη έκφραση."
-
-#~ msgid ""
-#~ "There are no Scheduled Transactions to be entered at this time.\n"
-#~ "(%d transaction automatically created)There are no Scheduled Transactions "
-#~ "to be entered at this time.\n"
-#~ "(%d transactions automatically created)"
-#~ msgstr ""
-#~ "Δημιουργία Προγραμματισμένης Συναλλαγής με την τρέχουσα συναλλαγή ως "
-#~ "πρότυποΔημιουργία Προγραμματισμένης Συναλλαγής με την τρέχουσα συναλλαγή "
-#~ "ως πρότυπο"
-
-#~ msgid "Transfer Type"
-#~ msgstr "Τύπος Μεταφοράς"
-
-#~ msgid "Beginning of Period Payments"
-#~ msgstr "Αρχή των Περιοδικών Πληρωμών"
-
-#~ msgid "Continuous Compounding"
-#~ msgstr "Διαρκής Ανατοκισμός"
-
-#~ msgid "Discrete Compounding"
-#~ msgstr "Διακριτός Ανατοκισμός"
-
-#~ msgid "End of Period Payments"
-#~ msgstr "Τέλος των Περιοδικών Πληρωμών"
-
-#, fuzzy
-#~ msgid "_Schedule"
-#~ msgstr "Πρόγραμμα"
-
-#, fuzzy
-#~ msgid "Merge Account Hierarchy Setup"
-#~ msgstr "Ρύθμιση Νέας Ιεραρχίας Λογαριασμών"
-
-#~ msgid "Ask"
-#~ msgstr "Τιμή Ζήτησης"
-
-#~ msgid "Bid"
-#~ msgstr "Τιμή Προσφοράς"
-
-#~ msgid "Last"
-#~ msgstr "Τιμή Κλεισίματος"
-
-#, fuzzy
-#~ msgid "Net Asset Value"
-#~ msgstr "Καθαρή Αξία Ενεργητικού"
-
-#~ msgid "Price:"
-#~ msgstr "Τιμή:"
-
-#~ msgid "Prices"
-#~ msgstr "Τιμές"
-
-#~ msgid "Centimeters"
-#~ msgstr "Εκατοστά"
-
-#~ msgid "Inches"
-#~ msgstr "Ίντσες"
-
-#~ msgid "Millimeters"
-#~ msgstr "Χιλιοστά"
-
-#~ msgid "Points"
-#~ msgstr "Σημεία"
-
-#~ msgid "Quicken/QuickBooks (tm) US-Letter"
-#~ msgstr "Quicken/QuickBooks (tm) US-Letter"
-
-#~ msgid "A_ction"
-#~ msgstr "Ε_νέργεια"
-
-#, fuzzy
-#~ msgid "Ch_oose Date:"
-#~ msgstr "Κλείσιμο"
-
-#, fuzzy
-#~ msgid "Check Register"
-#~ msgstr "Μητρώο"
-
-#~ msgid "Delete the whole transaction"
-#~ msgstr "Διαγραφή  όλης της συναλλαγής"
-
-#~ msgid "Duplicate this Transaction"
-#~ msgstr "Αντίγραφο αυτής της Συναλλαγής"
-
-#~ msgid "N_otes"
-#~ msgstr "_Σημειώσεις"
-
-#~ msgid "_Stock Split..."
-#~ msgstr "_Σπλιτ Μετοχής..."
-
-#~ msgid "Asset Account"
-#~ msgstr "Λογαριασμός Ενεργητικού"
-
-#~ msgid "Cash Amount:"
-#~ msgstr "Ποσό σε Μετρητά:"
-
-#~ msgid "Share Distribution:"
-#~ msgstr "Διανομή Μετοχών:"
-
-#~ msgid "The source for price quotes:"
-#~ msgstr "Η πηγή τιμών των μετοχών:"
-
-#~ msgid "Timezone for these quotes:"
-#~ msgstr "Ζώνη ώρας για αυτές τις μετοχές:"
-
-#, fuzzy
-#~ msgid "Unknown Sources"
-#~ msgstr "(άγνωστο)"
-
-#, fuzzy
-#~ msgid "single source"
-#~ msgstr "Πηγή Τιμής"
-
-#~ msgid "Version: Gnucash-%s"
-#~ msgstr "Έκδοση: Gnucash-%s"
-
-#, fuzzy
-#~ msgid "Choose HBCI customer"
-#~ msgstr "Νέος Πελάτης"
-
-#, fuzzy
-#~ msgid "Choose HBCI user"
-#~ msgstr "Επιλογή Νομίσματος"
-
-#~ msgid "QIF Files"
-#~ msgstr "Αρχεία QIF"
-
-#~ msgid "Loading configs..."
-#~ msgstr "Φόρτωση ρυθμίσεων..."
-
-#~ msgid "Show version."
-#~ msgstr "Εμφάνιση έκδοσης."
-
-#~ msgid "Enable debugging code."
-#~ msgstr "Ενεργοποίηση κώδικα αποσφαλμάτωσης."
-
-#, fuzzy
-#~ msgid "Enable developers mode."
-#~ msgstr "Ενεργοποίηση κατάστασης προγραμματισμού"
-
-#~ msgid "Show this help message"
-#~ msgstr "Εμφάνιση αυτού του μηνύματος βοήθειας"
-
-#, fuzzy
-#~ msgid "Enable developers mode"
-#~ msgstr "Ενεργοποίηση κατάστασης προγραμματισμού"
-
-#~ msgid "Load the given .scm file"
-#~ msgstr "Φόρτωση του δοσμένου αρχείου .scm"
-
-#~ msgid "Load the user configuration"
-#~ msgstr "Φόρτωση ρυθμίσεων χρήστη"
-
-#~ msgid "Load the system configuration"
-#~ msgstr "Φόρτωση ρυθμίσεων συστήματος"
-
-#~ msgid "Extensions"
-#~ msgstr "Επεκτάσεις"
-
-#, fuzzy
-#~ msgid "You must resolve all collisions."
-#~ msgstr "Πρέπει να εισάγετε μια έγκυρη έκφραση."
-
-#~ msgid "Detailed Description"
-#~ msgstr "Λεπτομερής Περιγραφή"
-
-#~ msgid "Enter opening balances"
-#~ msgstr "Εισαγωγή αρχικών υπόλοιπων"
-
-#, fuzzy
-#~ msgid "Account Types to Show"
-#~ msgstr "Τύποι Λογαριασμών"
-
-#, fuzzy
-#~ msgid "Balance Budget"
-#~ msgstr "Ισολογισμός"
-
-#, fuzzy
-#~ msgid "Budget Setup"
-#~ msgstr "Ρύθμιση Λογαριασμού"
-
-#, fuzzy
-#~ msgid "Category Information"
-#~ msgstr "Πληροφορίες Κατόχου"
-
-#, fuzzy
-#~ msgid "Category Type"
-#~ msgstr "Τύπος Χρέωσης"
-
-#, fuzzy
-#~ msgid "Create new Budget"
-#~ msgstr "Δημιουργία ενός νέου αρχείου"
-
-#, fuzzy
-#~ msgid "Finish Budget"
-#~ msgstr "Τέλος"
-
-#, fuzzy
-#~ msgid "In Flow"
-#~ msgstr "Ταμειακή Ροή"
-
-#, fuzzy
-#~ msgid "January 1, 2004"
-#~ msgstr "Ιανουάριος"
-
-#, fuzzy
-#~ msgid "Related Accounts:"
-#~ msgstr "Επιλεγμένοι Λογαριασμοί"
-
-#~ msgid "Close"
-#~ msgstr "Κλείσιμο"
-
-#, fuzzy
-#~ msgid "Account Tree _Options..."
-#~ msgstr "Επιλογές Λογαριασμών"
-
-#, fuzzy
-#~ msgid "_Options"
-#~ msgstr "Επιλογές"
-
-#~ msgid "Are you sure you want to delete the %s account?"
-#~ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε το λογαριασμό %s ;"
-
-#~ msgid ""
-#~ "Are you sure you want to delete the %s\n"
-#~ "account and all its children?"
-#~ msgstr ""
-#~ "Είστε σίγουρος ότι θέλετε να διαγράψετε το λογαριασμό %s\n"
-#~ "και τους υπολογαριασμούς που περιέχει;"
-
-#, fuzzy
-#~ msgid "Account Tree Options"
-#~ msgstr "Επιλογές Λογαριασμών"
-
-#, fuzzy
-#~ msgid "Save Report"
-#~ msgstr "Μονή Αναφορά"
-
-#, fuzzy
-#~ msgid "Equity Statement Start Date"
-#~ msgstr "Ημερομηνία Αντίγραφου Κινήσεως:"
-
-#, fuzzy
-#~ msgid "Equity Statement End Date"
-#~ msgstr "Ημερομηνία Αντίγραφου Κινήσεως:"
-
-#, fuzzy
-#~ msgid "DEBIT"
-#~ msgstr "ΕΠΕΞΕΡΓΑΣΙΑ"
-
-#, fuzzy
-#~ msgid "CREDIT"
-#~ msgstr "ΕΠΕΞΕΡΓΑΣΙΑ"
-
-#, fuzzy
-#~ msgid "query"
-#~ msgstr "Κάθε"
-
-#, fuzzy
-#~ msgid "double"
-#~ msgstr "Διπλό"
-
-#, fuzzy
-#~ msgid "debit-string"
-#~ msgstr "Κατάλογος"
-
-#, fuzzy
-#~ msgid "credit-string"
-#~ msgstr "Αύξουσα"
-
-#, fuzzy
-#~ msgid "Income Statement Start Date"
-#~ msgstr "Ημερομηνία Αντίγραφου Κινήσεως:"
-
-#, fuzzy
-#~ msgid "Income Statement End Date"
-#~ msgstr "Ημερομηνία Αντίγραφου Κινήσεως:"
-
-#, fuzzy
-#~ msgid "Done."
-#~ msgstr "Έγινε"
-
-#~ msgid "Double click expands parent accounts"
-#~ msgstr "Επέκταση μητρικών λογαριασμών με διπλό κλικ"
-
-#, fuzzy
-#~ msgid ""
-#~ "Double clicking on an account with children expands the account instead "
-#~ "of opening a register."
-#~ msgstr ""
-#~ "Το διπλό κλικ αναπτύσσει το λογαριασμό που περιέχει θυγατρικούς "
-#~ "λογαριασμούς αντί να ανοίγει το μητρώο."
-
-#~ msgid "Account types to display"
-#~ msgstr "Τύποι λογαριασμών που θα εμφανίζονται"
-
-#~ msgid "Remove old prices"
-#~ msgstr "Διαγραφή παλιών τιμών"
-
-#~ msgid "                    "
-#~ msgstr "                    "
-
-#~ msgid "                                  "
-#~ msgstr "                                  "
-
-#~ msgid " days in advance"
-#~ msgstr " ημέρες πριν"
-
-#~ msgid "Create "
-#~ msgstr "Δημιουργία "
-
-#, fuzzy
-#~ msgid "Creation Options"
-#~ msgstr "Επιλογές"
-
-#, fuzzy
-#~ msgid "Number of Occurences:"
-#~ msgstr "Αριθμός Επαναλήψεων:"
-
-#, fuzzy
-#~ msgid "Register _lines"
-#~ msgstr "Χρώματα Μητρώου"
-
-#~ msgid "YYYY-MM-DD"
-#~ msgstr "ΕΕΕΕ-ΜΜ-ΗΗ"
-
-#~ msgid "Are you sure you want to remove the Splits of this transaction?"
-#~ msgstr ""
-#~ "Είστε σίγουρος ότι θέλετε να διαγράψετε τις διαιρέσεις αυτής της "
-#~ "συναλλαγής;"
-
-#~ msgid "Are you sure you want to delete the current transaction?"
-#~ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την τρέχουσα συναλλαγή;"
-
-#, fuzzy
-#~ msgid "name"
-#~ msgstr "Όνομα"
-
-#, fuzzy
-#~ msgid "_Misc"
-#~ msgstr "Διάφορα"
-
-#, fuzzy
-#~ msgid "Gather initial HBCI information"
-#~ msgstr "Γενικές πληροφορίες"
-
-#, fuzzy
-#~ msgid "HBCI Issue Internal Transaction"
-#~ msgstr "Επικόλληση συναλλαγής"
-
-#~ msgid "                       "
-#~ msgstr "                       "
-
-#~ msgid "Style sheet template:"
-#~ msgstr "Πρότυπο φύλλο στυλ:"
-
-#~ msgid "Style sheets"
-#~ msgstr "Φύλλα στυλ"
-
-#, fuzzy
-#~ msgid "to"
-#~ msgstr "Διακοπή"
-
-#, fuzzy
-#~ msgid "Account Title"
-#~ msgstr "Τύπος Λογαριασμού"
-
-#, fuzzy
-#~ msgid "Recursive balance"
-#~ msgstr "Συμφωνημένο Υπόλοιπο"
-
-#, fuzzy
-#~ msgid "Unrealized gains"
-#~ msgstr "Μη πραγματοποιηθέντα Κέρδη"
-
-#, fuzzy
-#~ msgid "Unrealized losses"
-#~ msgstr "Μη πραγματοποιηθέντα Κέρδη(Ζημιές)"
-
-#, fuzzy
-#~ msgid "Captial"
-#~ msgstr "Υλικό"
-
-#~ msgid "Credit Account:"
-#~ msgstr "Πιστωτικός Λογαριασμός:"
-
-#~ msgid "_New Invoice"
-#~ msgstr "_Νέο Τιμολόγιο"
-
-#~ msgid "Display the Summary Bar"
-#~ msgstr "Εμφάνιση της Γραμμής Περίληψης"
-
-#~ msgid "S_ummary Bar"
-#~ msgstr "Γραμμή _Περίληψης"
-
-#~ msgid "Display the Status Bar"
-#~ msgstr "Εμφάνιση της Γραμμής Κατάστασης"
-
-#~ msgid "_Status Bar"
-#~ msgstr "Γραμμή _Κατάστασης"
-
-#~ msgid "Process Pa_yment"
-#~ msgstr "Διαδικασία _Πληρωμής"
-
-#~ msgid "_Gnucash Users Manual"
-#~ msgstr "Εγχειρίδιο Χρήστη _Gnucash"
-
-#~ msgid "Entity type does not match Customer: %s"
-#~ msgstr "Ο τύπος αντικειμένου δεν ταιριάζει με Πελάτη: %s"
-
-#~ msgid "Entity type does not match Vendor: %s"
-#~ msgstr "Ο τύπος αντικειμένου δεν ταιριάζει με Προμηθευτή: %s"
-
-#~ msgid "Entity type does not match Employee: %s"
-#~ msgstr "Ο τύπος αντικειμένου δεν ταιριάζει με Εργαζόμενο: %s"
-
-#~ msgid "Entity type does not match Invoice: %s"
-#~ msgstr "Ο τύπος αντικειμένου δεν ταιριάζει με Τιμολόγιο: %s"
-
-#~ msgid "Error message not available"
-#~ msgstr "Δεν είναι διαθέσιμο μήνυμα σφάλματος"
-
-#~ msgid "Print a check using a standard format"
-#~ msgstr "Εκτύπωση επιταγής με χρήση της τυπικής φόρμας"
-
-#~ msgid "Print _Check"
-#~ msgstr "Εκτύπωση _Επιταγής"
-
-#~ msgid "S_elect Transactions"
-#~ msgstr "_Επιλογή Συναλλαγών"
-
-#~ msgid "Date _Range"
-#~ msgstr "Ημερολογιακό _Διάστημα"
-
-#~ msgid "_All"
-#~ msgstr "_Όλα"
-
-#, fuzzy
-#~ msgid "_Cleared"
-#~ msgstr "Έχει εκκαθαριστεί"
-
-#~ msgid "Chec_k & Repair"
-#~ msgstr "Έλεγ_χος & Διόρθωση"
-
-#~ msgid "_Transaction Report"
-#~ msgstr "Αναφορά _Συναλλαγής"
-
-#~ msgid "Set Date Range"
-#~ msgstr "Ορισμός Ημερολογιακού Διαστήματος"
-
-#~ msgid "Show Latest"
-#~ msgstr "Εμφάνιση Τελευταίου"
-
-#~ msgid "End date:"
-#~ msgstr "Καταληκτική ημερομηνία:"
-
-#~ msgid "Account Name:"
-#~ msgstr "Όνομα Λογαριασμού:"
-
-#~ msgid "Add"
-#~ msgstr "Προσθήκη"
-
-#~ msgid "Remove"
-#~ msgstr "Διαγραφή"
-
-#~ msgid "Help Topics"
-#~ msgstr "Θέματα της Βοήθειας"
-
-#~ msgid "Topics"
-#~ msgstr "Θέματα"
-
-#~ msgid "Search GnuCash Help"
-#~ msgstr "Εξερεύνηση της Βοήθειας του Gnucash"
-
-#~ msgid "Search Term:"
-#~ msgstr "Όρος Αναζήτησης:"
-
-#~ msgid "Search"
-#~ msgstr "Έρευνα"
-
-#~ msgid "Help"
-#~ msgstr "Βοήθεια"
-
-#~ msgid "Search results"
-#~ msgstr "Αποτελέσματα αναζήτησης"
-
-#~ msgid "Welcome to GnuCash!"
-#~ msgstr "Καλώς ήλθατε στο GnuCash!"
-
-#~ msgid "%P %%"
-#~ msgstr "%P %%"
-
-#~ msgid "Number of Occurrences"
-#~ msgstr "Αριθμός Επαναλήψεων"
-
-#~ msgid "Remaining Number of Occurrences"
-#~ msgstr "Αριθμός Επαναλήψεων που Απομένουν"
-
-#~ msgid "%v/%u (%p%%)"
-#~ msgstr "%v/%u (%p%%)"
-
-#~ msgid "old-file-import"
-#~ msgstr "εισαγωγή-παλιού-αρχείου"
-
-#~ msgid "user:price-editor"
-#~ msgstr "χρήστης:διορθωτής-τιμών"
-
-#~ msgid "user:stock-split"
-#~ msgstr "χρήστης:σπλιτ-μετοχής"
-
-#~ msgid "Display this dialog next time"
-#~ msgstr "Εμφάνιση αυτού του διαλόγου την επόμενη φορά"
-
-#~ msgid "-*-helvetica-bold-r-normal-*-*-180-*-*-p-*-*-*"
-#~ msgstr "-*-helvetica-bold-r-normal-*-*-180-*-*-p-*-*-*"
-
-#~ msgid "You must enter a valid balance."
-#~ msgstr "Πρέπει να εισάγετε ένα έγκυρο υπόλοιπο."
-
-#~ msgid "Enter passphrase:"
-#~ msgstr "Εισαγωγή συνθηματικής φράσης:"
-
-#~ msgid "Verify passphrase:"
-#~ msgstr "Επιβεβαίωση συνθηματικής φράσης:"
-
-#~ msgid "Name of account view"
-#~ msgstr "Όνομα προβολής λογαριασμού"
-
-#~ msgid ""
-#~ "To open an account, you must first\n"
-#~ "choose an account to open."
-#~ msgstr ""
-#~ "Για να ανοίξετε ένα λογαριασμό πρέπει πρώτα\n"
-#~ " να επιλέξετε ένα λογαριασμό που θα ανοιχθεί."
-
-#~ msgid ""
-#~ "To edit an account, you must first\n"
-#~ "choose an account to edit.\n"
-#~ msgstr ""
-#~ "Για να επεξεργαστείτε ένα λογαριασμό πρέπει πρώτα\n"
-#~ "να τον επιλέξετε.\n"
-
-#~ msgid ""
-#~ "To delete an account, you must first\n"
-#~ "choose an account to delete.\n"
-#~ msgstr ""
-#~ "Για να διαγράψετε ένα λογαριασμό πρέπει πρώτα\n"
-#~ "να επιλέξετε ένα λογαριασμό για διαγραφή.\n"
-
-#~ msgid "You must select an account to check and repair."
-#~ msgstr "Πρέπει να επιλέξετε ένα λογαριασμό για έλεγχο και διόρθωση."
-
-#~ msgid "Stock S_plit..."
-#~ msgstr "Σπ_λιτ Μετοχής..."
-
-#~ msgid "Open S_ubaccounts"
-#~ msgstr "Άνοιγμα _Υπολογαριασμών"
-
-#, fuzzy
-#~ msgid "Net Assets grand total"
-#~ msgstr "Καθαρή Αξία Ενεργητικού"
-
-#, fuzzy
-#~ msgid "Profits total"
-#~ msgstr "Κέρδη"
-
-#, fuzzy
-#~ msgid "Profits grand total"
-#~ msgstr "Χρώμα για τα γενικά σύνολα"
-
-#~ msgid "Select \"Exit\" to exit GnuCash."
-#~ msgstr "Επιλέξτε \"Έξοδος\" για βγείτε από το GnuCash."
-
-#~ msgid "Open _Recent"
-#~ msgstr "Άνοιγμα _Πρόσφατου"
-
-#~ msgid "Commodity _Editor"
-#~ msgstr "_Διορθωτής Αξιών"
-
-#~ msgid "Financial _Calculator"
-#~ msgstr "_Οικονομική Αριθμομηχανή"
-
-#~ msgid "Save the file to disk"
-#~ msgstr "Αποθήκευση του αρχείου στο δίσκο"
-
-#~ msgid "Exit"
-#~ msgstr "Έξοδος"
-
-#~ msgid "%s [Read-Only]"
-#~ msgstr "%s [Ανάγνωση-Μόνο]"
-
-#~ msgid "Add criterion"
-#~ msgstr "Προσθήκη κριτηρίου"
-
-#~ msgid "No options!"
-#~ msgstr "Χωρίς επιλογές!"
-
-#~ msgid "Print Preview"
-#~ msgstr "Προεπισκόπηση Εκτύπωσης"
-
-#~ msgid "Enter URI to load:"
-#~ msgstr "Εισαγωγή URI για φόρτωση:"
-
-#~ msgid "Reload the current document"
-#~ msgstr "Επαναφόρτωση τρέχοντος εγγράφου"
-
-#~ msgid "Open a new document"
-#~ msgstr "Άνοιγμα ενός νέου εγγράφου"
-
-#~ msgid "Print Help window"
-#~ msgstr "Εκτύπωση παράθυρου Βοήθειας"
-
-#~ msgid "Close this Help window"
-#~ msgstr "Κλείσιμο αυτού του παράθυρου Βοήθειας"
-
-#~ msgid "Transfer Information"
-#~ msgstr "Πληροφορίες Μεταφοράς"
-
-#~ msgid "New Account (child of selected) ..."
-#~ msgstr "Νέος Λογαριασμός (θυγατρικός του επιλεγμένου)..."
-
-#~ msgid "OFX Import"
-#~ msgstr "Εισαγωγή OFX"
-
-#~ msgid "Import OFX files"
-#~ msgstr "Εισαγωγή αρχείων OFX"
-
-#~ msgid "Select a OFX file to load"
-#~ msgstr "Επιλογή αρχείου OFX για άνοιγμα"
-
-#~ msgid "OFX Filename:"
-#~ msgstr "Όνομα αρχείου OFX:"
-
-#~ msgid "OFX import complete"
-#~ msgstr "Η Εισαγωγή OFX ολοκληρώθηκε"
-
-#, fuzzy
-#~ msgid ""
-#~ "register-default-font:-adobe-helvetica-medium-r-normal--*-120-*-*-*-*-*-*"
-#~ msgstr ""
-#~ "register-default-font:-adobe-helvetica-medium-r-normal--*-120-*-*-*-*-*-*"
-
-#, fuzzy
-#~ msgid ""
-#~ "register-hint-font:-adobe-helvetica-medium-o-normal--*-120-*-*-*-*-*-*"
-#~ msgstr ""
-#~ "register-hint-font:-adobe-helvetica-medium-o-normal--*-120-*-*-*-*-*-*"
-
-#~ msgid "(Report not found)"
-#~ msgstr "(Η αναφορά δε βρέθηκε) "
-
-#~ msgid "Print report window"
-#~ msgstr "Εκτύπωση παράθυρου αναφοράς"
-
-#~ msgid "Account fields to display"
-#~ msgstr "Πεδία λογαριασμών που θα εμφανίζονται"
-
-#, fuzzy
-#~ msgid "Cleared Balance"
-#~ msgstr "Μέσο Υπόλοιπο"
-
-#~ msgid "Future Minimum Balance"
-#~ msgstr "Μελλοντικό Ελάχιστο Υπόλοιπο"
-
-#, fuzzy
-#~ msgid "Total in Report Currency"
-#~ msgstr "Προεπιλεγμένο Νόμισμα"
-
-#~ msgid "Loading tip-of-the-day..."
-#~ msgstr "Φόρτωση συμβουλή της ημέρας..."
-
-#~ msgid "_Style Sheets..."
-#~ msgstr "_Φύλλα Στυλ..."
-
-#~ msgid "Introduction"
-#~ msgstr "Εισαγωγή"
-
-#~ msgid "Features"
-#~ msgstr "Δυνατότητες"
-
-#~ msgid "Easy to Use"
-#~ msgstr "Ευκολία Χρήσης"
-
-#, fuzzy
-#~ msgid "Tracks Your Investments"
-#~ msgstr "Επενδύσεις"
-
-#~ msgid "International Support"
-#~ msgstr "Διεθνή Υποστήριξη"
-
-#, fuzzy
-#~ msgid "Business Support"
-#~ msgstr "Υποστήριξη Επιχείρησης"
-
-#~ msgid "What's New in v1.8"
-#~ msgstr "Tι καινούργιο υπάρχει στην έκδοση 1.8"
-
-#~ msgid "The 5 Basic Accounts"
-#~ msgstr "Οι 5 Βασικοί Λογαριασμοί"
-
-#~ msgid "The Principal Accounting Equation"
-#~ msgstr "Η Θεμελιώδης Λογιστική Εξίσωση"
-
-#~ msgid "Backup file (.xac)"
-#~ msgstr "Αρχείο αντιγράφου ασφαλείας (.xac)"
-
-#~ msgid "Log file (.log)"
-#~ msgstr "Αρχείο καταγραφής (.log)"
-
-#, fuzzy
-#~ msgid "Principle of Balance"
-#~ msgstr "Συμφωνημένο Υπόλοιπο"
-
-#~ msgid "Simple Example"
-#~ msgstr "Απλό Παράδειγμα"
-
-#~ msgid "Making Sub-Accounts"
-#~ msgstr "Δημιουργία  Υπολογαριασμών"
-
-#~ msgid "Basic Concepts"
-#~ msgstr "Βασικές Έννοιες"
-
-#, fuzzy
-#~ msgid "Features of the Account Register"
-#~ msgstr "Μητρώο"
-
-#, fuzzy
-#~ msgid "Checkbook"
-#~ msgstr "Επιταγή"
-
-#, fuzzy
-#~ msgid "Concepts"
-#~ msgstr "Περιεχόμενα"
-
-#, fuzzy
-#~ msgid "Simple Setup"
-#~ msgstr "Αρχική Ρύθμιση"
-
-#, fuzzy
-#~ msgid "Purchases"
-#~ msgstr "Τιμές"
-
-#~ msgid "Loans"
-#~ msgstr "Δάνεια"
-
-#~ msgid "Terminology"
-#~ msgstr "Ορολογία"
-
-#, fuzzy
-#~ msgid "Example: Monthly Payments"
-#~ msgstr "sample:Πληρωμή"
-
-#~ msgid "Types of Investments"
-#~ msgstr "Τύποι Επενδύσεων"
-
-#, fuzzy
-#~ msgid "Predefined Accounts"
-#~ msgstr " Λογαριασμοί"
-
-#, fuzzy
-#~ msgid "Interest Bearing Accounts"
-#~ msgstr "Επιλογή Λογαριασμού"
-
-#, fuzzy
-#~ msgid "Setup Your Preexisting Stocks"
-#~ msgstr "Προτιμήσεις του GnuCash"
-
-#~ msgid "Example Stock Account"
-#~ msgstr "Παράδειγμα Λογαριασμού Μετοχής"
-
-#~ msgid "Setting Stock Price"
-#~ msgstr "Ορισμός Τιμής Μετοχής"
-
-#, fuzzy
-#~ msgid "Initial Price Editor Setup"
-#~ msgstr "Αρχική Ρύθμιση HBCI"
-
-#, fuzzy
-#~ msgid "Setting Stock Price Automatically"
-#~ msgstr "Αυτόματη Δημιουργία"
-
-#~ msgid "Display Stock Value"
-#~ msgstr "Εμφάνιση Αξίας Μετοχής"
-
-#~ msgid "Selling Stocks"
-#~ msgstr "Πώληση Μετοχών"
-
-#, fuzzy
-#~ msgid "Todo Investment Docs"
-#~ msgstr "Επενδύσεις"
-
-#, fuzzy
-#~ msgid "Selling"
-#~ msgstr "Πώληση"
-
-#, fuzzy
-#~ msgid "Taxation"
-#~ msgstr "Επιλογές _Φόρου"
-
-#, fuzzy
-#~ msgid "GnuCash Currency Support"
-#~ msgstr "Προτιμήσεις του GnuCash"
-
-#~ msgid "Setting International Preferences"
-#~ msgstr "Ρύθμιση Διεθνών Προτιμήσεων"
-
-#~ msgid "Putting It All Together (Examples)"
-#~ msgstr "Συνοψίζοντας (Παραδείγματα)"
-
-#~ msgid "Depreciation"
-#~ msgstr "Απόσβεση"
-
-#~ msgid "Depreciation Schemes"
-#~ msgstr "Μέθοδοι Απόσβεσης"
-
-#, fuzzy
-#~ msgid "Overview of Business Features"
-#~ msgstr "Καλώς ήλθατε στο Gnucash"
-
-#~ msgid "Initial Setup"
-#~ msgstr "Αρχική Ρύθμιση"
-
-#, fuzzy
-#~ msgid "Register Your Company"
-#~ msgstr "Γραμματοσειρά μητρώου"
-
-#~ msgid "Customers"
-#~ msgstr "Πελάτες"
-
-#~ msgid "Find and Edit"
-#~ msgstr "Εύρεση και Επεξεργασία"
-
-#~ msgid "Assign Starting Invoice Number"
-#~ msgstr "Ανάθεση Εναρκτήριου Αριθμού Τιμολογίου"
-
-#~ msgid "Customer Jobs"
-#~ msgstr "Εργασίες Πελάτη"
-
-#~ msgid "Vendors"
-#~ msgstr "Προμηθευτές"
-
-#~ msgid "Vendor Jobs"
-#~ msgstr "Εργασίες Προμηθευτή"
-
-#~ msgid "Payroll"
-#~ msgstr "Μισθοδοσία"
-
-#~ msgid "Protocol"
-#~ msgstr "Πρωτόκολλο"
-
-#~ msgid "Step 3: Pay the Employee"
-#~ msgstr "Βήμα 3: Πληρωμή του Υπαλλήλου"
-
-#~ msgid "Step 4: Pay the Government"
-#~ msgstr "Βήμα 4: Πληρωμή της Εφορίας"
-
-#~ msgid "Pay an Employee"
-#~ msgstr "Πληρωμή Υπαλλήλου"
-
-#~ msgid "Pay the Government"
-#~ msgstr "Πληρωμή της Εφορίας"
-
-#, fuzzy
-#~ msgid "Appendix A: Migration Guide"
-#~ msgstr "Παράρτημα Α: Οδηγός Μετάβασης"
-
-#~ msgid "Appendix B: Frequently Asked Questions"
-#~ msgstr "Παράρτημα Β: Συχνές Ερωτήσεις"
-
-#~ msgid "Appendix C: Contributed Account Trees"
-#~ msgstr "Παράρτημα Γ:  Δένδρα Λογαριασμών (απο τρίτους)"
-
-#~ msgid "Appendix D: GNU Free Documentation License"
-#~ msgstr "Παράρτημα Δ: GNU Free Documentation Licence"
-
-#~ msgid "Date Format Display"
-#~ msgstr "Μορφή Εμφάνισης Ημερομηνίας"
-
-#~ msgid "US (12/31/2001)"
-#~ msgstr "US (12/31/2001)"
-
-#~ msgid "US-style: mm/dd/yyyy"
-#~ msgstr "Στυλ-US: μμ/ηη/εεεε"
-
-#~ msgid "UK (31/12/2001)"
-#~ msgstr "UK (31/12/2001)"
-
-#~ msgid "UK-style dd/mm/yyyy"
-#~ msgstr "Στυλ-UK ηη/μμ/εεεε"
-
-#~ msgid "Europe (31.12.2001)"
-#~ msgstr "Ευρώπη (31.12.2001)"
-
-#~ msgid "Continental Europe: dd.mm.yyyy"
-#~ msgstr "Ηπειρωτική Ευρώπη: ηη.μμ.εεεε"
-
-#~ msgid "ISO (2001-12-31)"
-#~ msgstr "ISO (2001-12-31)"
-
-#~ msgid "ISO Standard: yyyy-mm-dd"
-#~ msgstr "ISO Standard: εεεε-μμ-ηη"
-
-#~ msgid "Default system locale format"
-#~ msgstr "Εξ ορισμού τοπική ρύθμιση συστήματος"
-
-#~ msgid "Basic Ledger"
-#~ msgstr "Βασικό Καθολικό"
-
-#~ msgid "Auto-Split Ledger"
-#~ msgstr "Καθολικό Αυτόματου Σπλιτ"
-
-#~ msgid "The font to use in the register"
-#~ msgstr "Η γραμματοσειρά του μητρώου"
-
-#~ msgid "Header color"
-#~ msgstr "Χρώμα επικεφαλίδας"
-
-#~ msgid "The header background color"
-#~ msgstr "Χρώμα παρασκηνίου της κεφαλίδας"
-
-#~ msgid "Primary color"
-#~ msgstr "Κύριο χρώμα"
-
-#~ msgid "The default background color for register rows"
-#~ msgstr "Το εξ ορισμού χρώμα παρασκηνίου για τις γραμμές του μητρώου"
-
-#~ msgid "Secondary color"
-#~ msgstr "Δευτερεύον χρώμα"
-
-#~ msgid "Primary active color"
-#~ msgstr "Κύριο ενεργό χρώμα"
-
-#~ msgid "The background color for the current register row"
-#~ msgstr "Το χρώμα παρασκηνίου για την ενεργή γραμμή μητρώου"
-
-#~ msgid "Secondary active color"
-#~ msgstr "Δευτερεύον ενεργό χρώμα"
-
-#~ msgid "The default background color for split rows in the register"
-#~ msgstr "Το εξ ορισμού χρώμα παρασκηνίου για τις γραμμές σπλιτ του μητρώου"
-
-#, fuzzy
-#~ msgid "Start date"
-#~ msgstr "Ημερομηνία έναρξης:"
-
-#, fuzzy
-#~ msgid "End date"
-#~ msgstr "Καταληκτική ημερομηνία:"
-
-#~ msgid "Show Advanced Settings"
-#~ msgstr "Εμφάνιση Ειδικών Επιλογών"
-
-#~ msgid "Choose whether to display icons, text, or both for toolbar buttons"
-#~ msgstr ""
-#~ "Επιλέξτε αν θα εμφανίζονται εικονίδια, κείμενο,  ή και τα δύο στα κουμπιά "
-#~ "της εργαλειοθήκης"
-
-#~ msgid "Icons and Text"
-#~ msgstr "Εικονίδια και Κείμενο"
-
-#~ msgid "Show both icons and text"
-#~ msgstr "Εμφάνιση εικονιδίων και κειμένου"
-
-#~ msgid "Show icons only"
-#~ msgstr "Εμφάνιση εικονιδίων μόνο"
-
-#~ msgid "Use file compression"
-#~ msgstr "Χρήση συμπίεσης αρχείου"
-
-#~ msgid "Run on GnuCash start"
-#~ msgstr "Εκτελούνται με την έναρξη του GnuCash"
-
-#~ msgid "Default number of days in advance to create"
-#~ msgstr " "
-
-#, fuzzy
-#~ msgid ""
-#~ "Default number of days in advance to create new Scheduled Transactions."
-#~ msgstr "Σβήσιμο όλης της συναλλαγής"
-
-#, fuzzy
-#~ msgid ""
-#~ "Default number of days in advance to remind on new Scheduled Transactions."
-#~ msgstr "Σβήσιμο όλης της συναλλαγής"
-
-#~ msgid "_+Advanced"
-#~ msgstr "_+Ειδικές Επιλογές"
-
-#~ msgid "Application MDI mode"
-#~ msgstr "Κατάσταση MDI της εφαρμογής"
-
-#~ msgid "Notebook"
-#~ msgstr "Τετράδιο"
-
-#~ msgid "Single window"
-#~ msgstr "Ένα παράθυρο"
-
-#~ msgid "Show Vertical Borders"
-#~ msgstr "Εμφάνιση Κάθετων Πλαισίων"
-
-#~ msgid "Show Horizontal Borders"
-#~ msgstr "Εμφάνιση Οριζόντιων Πλαισίων"
-
-#~ msgid "By default, show every transaction in an account."
-#~ msgstr ""
-#~ "Εξ ορισμού, εμφάνιση όλων των συναλλαγών που είναι μέσα στο λογαριασμό."
-
-#~ msgid "Profit And Loss"
-#~ msgstr "Κέρδος Και Ζημιά"
-
-#~ msgid "Employees"
-#~ msgstr "Υπάλληλοι"
-
-#~ msgid "GnuCash Personal Finance"
-#~ msgstr "Προσωπική Οικονομική Διαχείριση GnuCash"
-
-#, fuzzy
-#~ msgid "-- No Template --"
-#~ msgstr "-- Διαίρεση Μετοχής --"
-
-#~ msgid "10010010"
-#~ msgstr "10010010"
-
-#~ msgid "280"
-#~ msgstr "280"
-
-#~ msgid ""
-#~ "Add \n"
-#~ "Bank"
-#~ msgstr ""
-#~ "Προσθήκη \n"
-#~ "Τράπεζας"
-
-#~ msgid ""
-#~ "Add \n"
-#~ "User"
-#~ msgstr ""
-#~ "Προσθήκη \n"
-#~ "Χρήστη"
-
-#~ msgid "Choose OpenHBCI Configuration File"
-#~ msgstr "Επιλογή Αρχείου Ρυθμίσεων OpenHBCI"
-
-#~ msgid "Choose file for secret key"
-#~ msgstr "Επιλέξτε αρχείο για το μυστικό κλειδί"
-
-#~ msgid "Country Code (Germany: 280)"
-#~ msgstr "Κωδικός Χώρας (Γερμανία: 280)"
-
-#, fuzzy
-#~ msgid "Enter Bank Information"
-#~ msgstr "Γενικές πληροφορίες"
-
-#, fuzzy
-#~ msgid "Enter User Information"
-#~ msgstr "Γενικές πληροφορίες"
-
-#~ msgid ""
-#~ "HBCI\n"
-#~ "Version"
-#~ msgstr ""
-#~ "HBCI\n"
-#~ "Έκδοση"
-
-#~ msgid "Internet Address"
-#~ msgstr "Διεύθυνση Διαδικτύου"
-
-#, fuzzy
-#~ msgid ""
-#~ "Manually add\n"
-#~ "Account"
-#~ msgstr "ένας Λογαριασμός"
-
-#~ msgid "Name (optional)"
-#~ msgstr "Όνομα (προαιρετικό)"
-
-#, fuzzy
-#~ msgid "Public Keys will be retrieved"
-#~ msgstr "Θα ανακτηθούν Δημόσια Κλειδιά"
-
-#~ msgid "Server Address"
-#~ msgstr "Διεύθυνση Εξυπηρετητή"
-
-#~ msgid "User Identification"
-#~ msgstr "Ταυτοποίηση Χρήστη"
-
-#~ msgid "www.hbci-kernel.de"
-#~ msgstr "www.hbci-kernel.de"
-
-#~ msgid "Default Customer"
-#~ msgstr "Εξ ορισμού Πελάτης"
-
-#~ msgid "Opening Network Connection"
-#~ msgstr "Άνοιγμα Σύνδεσης Δικτύου"
-
-#~ msgid "Closing Network Connection"
-#~ msgstr "Κλείσιμο Σύνδεσης Δικτύου"
-
-#, fuzzy
-#~ msgid "Job: Get Transactions"
-#~ msgstr "Συναλλαγές"
-
-#~ msgid "Job: New Transfer"
-#~ msgstr "Εργασία: Νέα Μεταφορά"
-
-#~ msgid "Sending message"
-#~ msgstr "Αποστολή μηνύματος"
-
-#~ msgid "Waiting for response"
-#~ msgstr "Αναμονή ανταπόκρισης"
-
-#~ msgid "Contacting Server"
-#~ msgstr "Επικοινωνία με Εξυπηρετητή"

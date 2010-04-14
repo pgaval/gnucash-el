@@ -12,10 +12,10 @@
   	Updated	Dave Herman <dvherman@bigfoot.com>
   Originally designed by Carol Champagne.
   Translators:
-               (translators put your name and email here)
+                Nikos Charonitakis <nikosx@gmail.com>
 -->
 <chapter id="chapter_invest">
-  <title>Investments</title>
+  <title>Επενδύσεις</title>
 
   <para>This chapter explains how to manage your investments with GnuCash.
   Most people have an investment plan, whether its just putting money into a
@@ -37,7 +37,7 @@
     in this chapter in terms of how to track them using GnuCash.</para>
 
     <sect2 id="invest_terms2">
-      <title>Terminology</title>
+      <title>Ορολογία</title>
 
       <para>Before discussing investments specifically, it will be helpful to
       present a glossary of investment terminology. The terms presented below
@@ -55,7 +55,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Commission</emphasis> is the fee you pay to a broker
+          <para><emphasis>Προμήθεια</emphasis> is the fee you pay to a broker
           to buy or sell securities.</para>
         </listitem>
 
@@ -75,7 +75,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Dividends</emphasis> are cash payments a company
+          <para><emphasis>Μερίσματα</emphasis> are cash payments a company
           makes to shareholders. The amount of this payment is usually
           determined as some amount of the profits of the company. Note that
           not all common stocks give dividends.</para>
@@ -88,7 +88,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Interest</emphasis> is what a borrower pays a lender
+          <para><emphasis>Τόκος</emphasis> is what a borrower pays a lender
           for the use of their money. Normally, this is expressed in terms of
           a percentage of the principal per year. For example, a savings
           account with 1% interest (you are the lender, the bank is the
@@ -97,7 +97,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Liquidity</emphasis> is a measure of how easily
+          <para><emphasis>Ρευστότητα</emphasis> is a measure of how easily
           convertible an investment is to cash. Money in a savings account is
           very liquid, while money invested in a house has low liquidity
           because it takes time to sell a house.</para>
@@ -130,7 +130,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Shareholder</emphasis> is a person who holds common
+          <para><emphasis>Μέτοχος</emphasis> is a person who holds common
           stock in a company.</para>
         </listitem>
 
@@ -145,7 +145,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis>Valuation</emphasis> is the process of determining
+          <para><emphasis>Αποτίμηση</emphasis> is the process of determining
           the market value or the price the investment would sell at in a
           <quote>reasonable time frame</quote>.</para>
         </listitem>
@@ -162,7 +162,7 @@
     </sect2>
 
     <sect2 id="invest_types2">
-      <title>Types of Investments</title>
+      <title>Τύποι επενδύσεων</title>
 
       <para>Below is presented some of the broad types of investments
       available, and examples of each type.</para>
@@ -390,7 +390,7 @@ Income
     </sect2>
 
     <sect2 id="invest-intex2">
-      <title>Example</title>
+      <title>Παράδειγμα</title>
 
       <para>Now let's populate these accounts with real numbers. Let's assume
       that you start with $10000 in your bank account, which pays 1% interest

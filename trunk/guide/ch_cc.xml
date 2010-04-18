@@ -9,13 +9,12 @@
   	Updated	Bengt Thuree <bengt@thuree.com>
   Originally written by Carol Champagne.
   Translators:
-               (translators put your name and email here)
+                Nikos Charonitakis <nikosx@gmail.com>
 -->
 <chapter id="chapter_cc">
   <title>Πιστωτικές κάρτες</title>
 
-  <para>This chapter will show you how to manage your credit cards using
-  GnuCash.</para>
+  <para>Αυτό το κεφάλαιο θα σας δείξει πως να διαχειρίζεστε τις πιστωτικές σας καρτες με την χρήση του GnuCash.</para>
 
   <sect1 id="cc-concepts1">
     <title>Concepts</title>
@@ -69,8 +68,7 @@
     <sect2 id="cc-accounts-simple2">
       <title>Απλή ρύθμιση</title>
 
-      <para>If you do not want to track each expense made on the credit card,
-      you can set up a simple account hierarchy like this:</para>
+      <para>Αν δεν θέλετε να παρακολουθείτε κάθε έξοδο που κάνατε με την πιστωτική κάρτα, τότε μπορείτε να φτιάξετε ένα απλό σετ λογαριασμών όπως το παρακάτω:</para>
 
       <literallayout>
 -Assets
@@ -82,10 +80,10 @@
    </literallayout>
 
       <para>In this example, if you enter your total amount charged per month
-      as a transaction between <quote>Liabilities:Credit Card</quote> and
+      as a transaction between <quote>Liabilities:Πιστωτική κάρτα</quote> and
       <quote>Expenses:Credit Card</quote>. When you make a payment, you would
-      enter a transaction between <quote>Assets:Bank</quote> and
-      <quote>Liabilities:Credit Card</quote>.</para>
+      enter a transaction between <quote>Assets:Τράπεζα</quote> and
+      <quote>Liabilities:Πιστωτική κάρτα</quote>.</para>
 
       <para>The obvious limitation of this simple credit card setup is that
       you cannot see where your money is going. All your credit card expenses
@@ -94,7 +92,7 @@
     </sect2>
 
     <sect2 id="cc-accounts-complete2">
-      <title>Complete Setup</title>
+      <title>Ολοκληρωμένη ρύθμιση</title>
 
       <para>If you want to track your expenses more completely, you should
       set up multiple expense accounts named for the various kinds of expenses
@@ -322,7 +320,7 @@
     </sect2>
 
     <sect2 id="cc-together-purchases2">
-      <title>Purchases</title>
+      <title>Αγορές</title>
 
       <para>Let's make some purchases on our visa card. Start by buying $25
       worth of food from the Greasy Spoon Cafe, $100 worth of clothing from
@@ -477,7 +475,7 @@
     </sect2>
 
     <sect2 id="cc-together-payment2">
-      <title>Payment</title>
+      <title>Πληρωμή</title>
 
       <para>Assuming you have completed reconciliation of your credit card
       account, you need to make a payment to the credit card company. In this

@@ -36,8 +36,8 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-06 00:23+0300\n"
-"PO-Revision-Date: 2010-04-18 20:55+0200\n"
-"Last-Translator: Nikos Charonitakis <nikcha@ovi.com>\n"
+"PO-Revision-Date: 2010-04-21 01:24+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1040,7 +1040,7 @@ msgstr "Προβολή/Επεξεργασία τιμολογίου"
 #: ../src/business/business-gnome/dialog-invoice.c:2667
 #, fuzzy
 msgid "View/Edit Bill"
-msgstr "Επεξεργασία Τιμολ. Αγορών"
+msgstr "Προβολή/Επεξεργασία "
 
 #. Translators: The terms 'Voucher' and 'Expense Voucher' are used
 #. interchangeably in gnucash and mean the same thing.
@@ -1192,9 +1192,8 @@ msgstr "Καταχωρήθηκε"
 #: ../src/business/business-gnome/dialog-invoice.c:2525
 #: ../src/business/business-gnome/dialog-order.c:865
 #: ../src/gnome/lot-viewer.c:634
-#, fuzzy
 msgid "Opened"
-msgstr "Άνοιγμα"
+msgstr "Άνοιξε"
 
 #. src/report/standard-reports/general-journal.scm
 #. src/report/standard-reports/register.scm
@@ -1420,9 +1419,8 @@ msgid "Date Closed"
 msgstr "Κλείσιμο"
 
 #: ../src/business/business-gnome/dialog-order.c:845
-#, fuzzy
 msgid "Is Closed?"
-msgstr "Κλείσιμο"
+msgstr "Έχει κλείσει;"
 
 #: ../src/business/business-gnome/dialog-order.c:849
 msgid "Owner Name "
@@ -1435,9 +1433,8 @@ msgstr "ID Παραγγελίας"
 
 #: ../src/business/business-gnome/dialog-order.c:863
 #: ../src/gnome/lot-viewer.c:639
-#, fuzzy
 msgid "Closed"
-msgstr "Κλείσιμο"
+msgstr "Έκλεισε"
 
 #: ../src/business/business-gnome/dialog-order.c:921
 msgid "Find Order"
@@ -4064,7 +4061,6 @@ msgstr "Προσαρμογή"
 
 #: ../src/gnome/dialog-progress.c:478
 #: ../src/gnome/dialog-progress.c:527
-#, fuzzy
 msgid "(paused)"
 msgstr " (σε παύση)"
 
@@ -4569,7 +4565,6 @@ msgid "Action Column|Split"
 msgstr "Αυτόματο Σπλιτ"
 
 #: ../src/gnome/druid-stock-split.c:492
-#, fuzzy
 msgid "Error adding price."
 msgstr "Σφάλμα κατά την εισαγωγή τιμής."
 
@@ -5691,16 +5686,15 @@ msgstr "_Νόμισμα:"
 
 #: ../src/gnome/glade/price.glade.h:8
 msgid "Delete _last price for a stock"
-msgstr ""
+msgstr "Διαγραφή _τελευταίας τιμής μετοχής"
 
 #: ../src/gnome/glade/price.glade.h:9
-#, fuzzy
 msgid "Delete _manually entered prices"
-msgstr "Επιλογή λογαριασμών"
+msgstr "_Χειροκίνητη διαγραφή εισηγμένων τιμών"
 
 #: ../src/gnome/glade/price.glade.h:10
 msgid "Delete all stock prices based upon the critera below:"
-msgstr ""
+msgstr "Διαγραφή όλων των τιμών με βάση τα παρακάτω κριτήρια:"
 
 #: ../src/gnome/glade/price.glade.h:11
 msgid "Edit the current price."
@@ -6629,7 +6623,6 @@ msgid "Months Remaining:"
 msgstr "Μήνες που Απομένουν:"
 
 #: ../src/gnome/glade/sched-xact.glade.h:113
-#, fuzzy
 msgid "Mortgage/Loan Assistant"
 msgstr "Οδηγός Υποθήκης/Δανείου"
 
@@ -6652,6 +6645,9 @@ msgid ""
 "Use previous weekday\n"
 "Use next weekday"
 msgstr ""
+"Καμμία αλλαγή\n"
+"Προηγούμενη εργάσιμη\n"
+"Επόμενη εργάσιμη"
 
 #: ../src/gnome/glade/sched-xact.glade.h:122
 msgid ""
@@ -6963,7 +6959,7 @@ msgstr "ημέρες."
 
 #: ../src/gnome/glade/sched-xact.glade.h:201
 msgid "except on weekends:"
-msgstr ""
+msgstr "εκτός σαββατοκύριακο:"
 
 #: ../src/gnome/glade/sched-xact.glade.h:202
 msgid ""
@@ -7003,7 +6999,7 @@ msgstr "<b>Λογαριασμός εσόδων</b>"
 
 #: ../src/gnome/glade/stocks.glade.h:3
 msgid "Cash In Lieu"
-msgstr ""
+msgstr "Καταβολή μετρητών"
 
 #: ../src/gnome/glade/stocks.glade.h:4
 msgid "Currenc_y:"
@@ -8144,9 +8140,8 @@ msgid "Order of columns in the dialog"
 msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:2
-#, fuzzy
 msgid "Show currencies in this dialog"
-msgstr "Άνοιγμα Βιβλίου Εκμάθησης του Gnucash"
+msgstr "Εμφάνιση νομισμάτων σε αυτό τον διάλογο"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:3
 #, fuzzy
@@ -8171,9 +8166,8 @@ msgid "Show the Quote Flag column"
 msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:8
-#, fuzzy
 msgid "Show the Quote Source column"
-msgstr "Πηγή Τιμής"
+msgstr "Εμφάνιση στήλης με την πηγή τιμών"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:9
 #, fuzzy
@@ -8190,9 +8184,8 @@ msgid "Show the fraction column"
 msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:12
-#, fuzzy
 msgid "Show the name column"
-msgstr "Εμφάνιση καθαρού κέρδους;"
+msgstr "Εμφάνιση στήλης με το όνομα"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_commodities.schemas.in.h:13
 msgid "Show the symbol column"
@@ -8357,15 +8350,15 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:7
 msgid "Position of check amount in numbers"
-msgstr ""
+msgstr "Θέση του ποσού επιταγής σε αριθμούς"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:8
 msgid "Position of check amount in words"
-msgstr ""
+msgstr "Θέση του ποσού επιταγής σε λέξεις"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:9
 msgid "Position of check on page"
-msgstr ""
+msgstr "Θέση επιταγής στην σελίδα"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:10
 msgid "Position of date line"
@@ -8377,7 +8370,7 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:12
 msgid "Position of payee name"
-msgstr ""
+msgstr "Θέση ονόματος δικαιούχου"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:13
 #, fuzzy
@@ -8390,7 +8383,7 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:15
 msgid "The default check printing font"
-msgstr ""
+msgstr "Η προεπιλεγμένη γραμματοσειρά εκτύπωσης επιταγής"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_print_checks.schemas.in.h:16
 msgid "The default font to use when printing checks. This value will be overridden by any font specified in a check description file."
@@ -8887,9 +8880,8 @@ msgid "Remove a split from a transaction"
 msgstr "Εμφάνιση όλων των διαιρέσεων της τρέχουσας συναλλαγής"
 
 #: ../src/gnome/schemas/apps_gnucash_warnings.schemas.in.h:14
-#, fuzzy
 msgid "Remove all the splits from a transaction"
-msgstr "Εμφάνιση όλων των διαιρέσεων της τρέχουσας συναλλαγής"
+msgstr "Διαγραφή όλων των διαιρέσεων μιας συναλλαγής"
 
 #: ../src/gnome/schemas/apps_gnucash_warnings.schemas.in.h:15
 msgid "This dialog is presented before allowing you to change the contents of a reconciled split. Allowing these changes can make it hard to perform future reconciliations."
@@ -9437,9 +9429,8 @@ msgid ""
 msgstr ""
 
 #: ../src/gnome-utils/dialog-commodity.c:280
-#, fuzzy
 msgid "Select security/currency"
-msgstr "Επιλογή Νόμισμα/αξιόγραφο"
+msgstr "Επιλογή αξίας/νομίσματος"
 
 #: ../src/gnome-utils/dialog-commodity.c:284
 msgid "Select security"
@@ -9450,11 +9441,8 @@ msgid "Select currency"
 msgstr "Επιλογή νομίσματος"
 
 #: ../src/gnome-utils/dialog-commodity.c:529
-#, fuzzy
 msgid "You must select a commodity. To create a new one, click \"New\""
-msgstr ""
-"Πρέπει να επιλέξετε μία αξία.\n"
-"Για να δημιουργήσετε μία νέα, "
+msgstr "Πρέπει να επιλέξετε μία αξία. Για να δημιουργήσετε μία νέα κάντε κλικ  στο \"Νέο\""
 
 #: ../src/gnome-utils/dialog-commodity.c:878
 msgid "Use local time"
@@ -9842,9 +9830,8 @@ msgid "1 /"
 msgstr "1 /"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:2
-#, fuzzy
 msgid "<b>Quote Source Information</b>"
-msgstr "Πληροφορία Τιμής"
+msgstr "<b>Πληροφορία πηγής τιμών</b>"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:3
 msgid "Enter a unique code used to identify the commodity. Or, you may safely leave this field blank."
@@ -9881,7 +9868,7 @@ msgstr "Επιλογή πληροφοριών χρήστη εδώ..."
 
 #: ../src/gnome-utils/glade/commodity.glade.h:11
 msgid "Si_ngle:"
-msgstr "_Μονό:"
+msgstr "_Μονή:"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:12
 msgid "These are F::Q quote sources that retrieve information from a single site on the internet.  If that site is unavailable, you will not be able to retrieve quotes."
@@ -9900,9 +9887,8 @@ msgid "Time_zone:"
 msgstr "_Ζώνη ώρας"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:16
-#, fuzzy
 msgid "Type of quote source:"
-msgstr "Τρόπος αναζήτησης"
+msgstr "Τύπος πηγής τιμών:"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:17
 msgid "Warning: Finance::Quote not installed properly."
@@ -9918,7 +9904,7 @@ msgstr "Online _τιμές μετοχών"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:20
 msgid "_Multiple:"
-msgstr "_Πολλαπλά:"
+msgstr "_Πολλαπλή:"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:21
 msgid "_Symbol/abbreviation:"
@@ -9926,7 +9912,7 @@ msgstr "_Σύμβολο/συντόμευση:"
 
 #: ../src/gnome-utils/glade/commodity.glade.h:23
 msgid "_Unknown:"
-msgstr "Άγ_νωστο:"
+msgstr "Άγ_νωστη:"
 
 #: ../src/gnome-utils/glade/dialog-book-close.glade.h:3
 #: ../src/gnome-utils/glade/transfer.glade.h:8
@@ -10162,9 +10148,8 @@ msgid "Finish GnuCash Datafile Import"
 msgstr "Ολοκλήρωση εισαγωγής αρχείου δεδομένων GnuCash"
 
 #: ../src/gnome-utils/glade/druid-gnc-xml-import.glade.h:13
-#, fuzzy
 msgid "GnuCash Datafile Import Assistant"
-msgstr "Βοηθός εισαγωγής αρχείων δεδομένων του GnuCash"
+msgstr "Βοηθός εισαγωγής αρχείων δεδομένων GnuCash"
 
 #: ../src/gnome-utils/glade/druid-gnc-xml-import.glade.h:14
 msgid "GnuCash data files you have loaded"
@@ -10200,9 +10185,8 @@ msgstr "_Φόρτωμα ενός άλλου αρχείου"
 
 #: ../src/gnome-utils/glade/druid-provider-multifile.glade.h:6
 #: ../src/import-export/qif-import/qif.glade.h:84
-#, fuzzy
 msgid "_Unload selected file"
-msgstr "Α_ποεπιλογή όλων"
+msgstr "_Απόρριψη φόρτωσης επιλεγμένου αρχείου"
 
 #: ../src/gnome-utils/glade/exchange-dialog.glade.h:1
 #, fuzzy
@@ -10576,7 +10560,7 @@ msgstr "Μετακίνηση στην λευκή συναλλαγή στον π�
 
 #: ../src/gnome-utils/glade/preferences.glade.h:71
 msgid "Display this many rows when a register is created."
-msgstr ""
+msgstr "Εμφάνιση αυτού του αριθμού γραμμών όταν ανοίγει ένα μητρώο."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:72
 msgid "Display toolbar items as icons only."
@@ -10588,11 +10572,11 @@ msgstr "Εμφάνιση αντικειμένων εργαλειοθήκης μ�
 
 #: ../src/gnome-utils/glade/preferences.glade.h:74
 msgid "Display toolbar items with the text label below the icon.  Labels are show for all items."
-msgstr ""
+msgstr "Εμφάνιση στοιχείων εργαλειοθήκης με ετικέτα κειμένου κάτω από το εικονίδια. Ετικέτες προβάλλονται για όλα τα στοιχεία."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:75
 msgid "Display toolbar items with the text label beside the icon.  Labels are only shown for the most important items."
-msgstr ""
+msgstr "Εμφάνιση στοιχείων εργαλειοθήκης με ετικέτα κειμένου δίπλα στο εικονίδιο. Ετικέτες εμφανίζονται για τα πιο σημαντικά στοιχεία."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:76
 msgid "Don't sign reverse any accounts."
@@ -10764,7 +10748,7 @@ msgstr "Εμφάνιση οθόνης υποδοχής στην εκκίνηση
 
 #: ../src/gnome-utils/glade/preferences.glade.h:122
 msgid "Show this many transactions in a register. A value of zero means show all transactions."
-msgstr ""
+msgstr "Εμφάνιση αυτού του αριθμού συναλλαγών στο μητρώο. Η τιμή μηδέν σημαίνει εμφάνιση όλων των συναλλαγών."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:123
 #, fuzzy
@@ -10893,7 +10877,7 @@ msgstr ""
 
 #: ../src/gnome-utils/glade/preferences.glade.h:154
 msgid "Use the system setting for displaying toolbar items."
-msgstr ""
+msgstr "Χρήση ρυθμίσεων συστήματος για την προβολή των στοιχείων της εργαλειοθήκης."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:155
 msgid "Windows"
@@ -11241,7 +11225,7 @@ msgstr "(κενό)"
 #: ../src/gnome-utils/gnc-file.c:210
 #, c-format
 msgid "No suitable backend was found for %s."
-msgstr ""
+msgstr "Δεν βρέθηκε κατάλληλη υποδομή για  %s."
 
 #: ../src/gnome-utils/gnc-file.c:215
 #, c-format
@@ -12489,9 +12473,8 @@ msgstr "<b>Καταγραφή μηνυμάτων</b>"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:4
 #: ../src/import-export/hbci/glade/hbciprefs.glade.h:1
-#, fuzzy
 msgid "<b>Online Banking</b>"
-msgstr "Εύρεση Συναλλαγών"
+msgstr "<b>Online Banking</b>"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:5
 #: ../src/import-export/hbci/glade/hbci.glade.h:4
@@ -12613,9 +12596,8 @@ msgstr "Συναλλαγές"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:28
 #: ../src/import-export/hbci/glade/hbci.glade.h:25
-#, fuzzy
 msgid "Initial Online Banking Setup"
-msgstr "Εύρεση Συναλλαγών"
+msgstr "Αρχική ρύθμιση Online Banking"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:29
 #: ../src/import-export/hbci/glade/hbci.glade.h:26
@@ -12648,9 +12630,8 @@ msgstr "Παράθυρο σύνδεσης HBCI"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:34
 #: ../src/import-export/hbci/glade/hbci.glade.h:31
-#, fuzzy
 msgid "Online Banking Setup Finished"
-msgstr "Η Ρύθμιση HBCI Ολοκληρώθηκε"
+msgstr "Η ρύθμιση Online Banking ολοκληρώθηκε"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:35
 #: ../src/import-export/hbci/glade/hbci.glade.h:33
@@ -12677,7 +12658,7 @@ msgstr "Συνθηματικό:"
 #: ../src/import-export/aqbanking/aqbanking.glade.h:39
 #: ../src/import-export/hbci/glade/hbci.glade.h:36
 msgid "Payment Purpose (only for recipient)"
-msgstr ""
+msgstr "Αιτιολογία πληρωμής (μόνο για τον παραλήπτη)"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:40
 #: ../src/import-export/hbci/glade/hbci.glade.h:37
@@ -12698,7 +12679,7 @@ msgstr "Αριθμός λογαριασμού παραλήπτη"
 #: ../src/import-export/aqbanking/aqbanking.glade.h:43
 #: ../src/import-export/hbci/glade/hbci.glade.h:40
 msgid "Recipient Bank Code"
-msgstr ""
+msgstr "Τραπεζικός κωδικός παραλήπτη"
 
 #: ../src/import-export/aqbanking/aqbanking.glade.h:44
 #: ../src/import-export/hbci/glade/hbci.glade.h:41
@@ -12953,9 +12934,8 @@ msgstr "%s ως %s"
 
 #: ../src/import-export/aqbanking/druid-ab-initial.c:817
 #: ../src/import-export/hbci/druid-hbci-initial.c:785
-#, fuzzy
 msgid "Online Banking Account Name"
-msgstr "Εύρεση Συναλλαγών"
+msgstr "Όνομα λογαριασμού Online Banking"
 
 #: ../src/import-export/aqbanking/druid-ab-initial.c:822
 #: ../src/import-export/hbci/druid-hbci-initial.c:792
@@ -13006,9 +12986,8 @@ msgstr ""
 
 #: ../src/import-export/aqbanking/gnc-ab-transfer.c:215
 #: ../src/import-export/hbci/gnc-hbci-transfer.c:267
-#, fuzzy
 msgid "Online Banking Transaction"
-msgstr "Εύρεση Συναλλαγών"
+msgstr "Συναλλαγή Online Banking"
 
 #: ../src/import-export/aqbanking/gnc-ab-transfer.c:273
 msgid ""
@@ -13102,15 +13081,14 @@ msgstr ""
 
 #: ../src/import-export/aqbanking/gnc-gwen-gui.c:1407
 msgid "The Online Banking job is still running; are you sure you want to cancel?"
-msgstr ""
+msgstr "Η εργασία Online Banking βρίσκεται σε εξέλιξη, είστε σίγουρος πως θέλετε να την ακυρώσετε;"
 
 #: ../src/import-export/aqbanking/gncmod-aqbanking.c:77
 #: ../src/import-export/gncmod-generic-import.c:62
 #: ../src/import-export/hbci/gncmod-hbci.c:74
 #: ../src/import-export/qif-import/gnc-plugin-qif-import.c:180
-#, fuzzy
 msgid "Online Banking"
-msgstr "Εύρεση Συναλλαγών"
+msgstr "Online Banking"
 
 #. Menus
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:83
@@ -13128,7 +13106,7 @@ msgstr "Εύρεση Συναλλαγών"
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:88
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:95
 msgid "Initial setup of Online Banking access (HBCI, or OFX DirectConnect, using AqBanking)"
-msgstr ""
+msgstr "Αρχική ρύθμιση πρόσβασης στο Online Banking (HBCI, ή OFX  DirectConnect, με χρήση AqBanking)"
 
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:92
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:99
@@ -13338,9 +13316,8 @@ msgstr "Σφάλματα"
 
 #. Let the user select a file.
 #: ../src/import-export/csv/gnc-csv-import.c:1102
-#, fuzzy
 msgid "Select an CSV/Fixed-Width file to import"
-msgstr "Επιλογή αρχείου για εισαγωγή"
+msgstr "Επιλογή για εισαγωγή αρχείου CSV/σταθερού-πλάτους"
 
 #: ../src/import-export/csv/gnc-csv-model.c:32
 #: ../src/import-export/gnc-import-format-gnome.c:112
@@ -13662,7 +13639,7 @@ msgstr ""
 
 #: ../src/import-export/hbci/dialog-pass.c:147
 msgid "The two passwords didn't match. Please try again."
-msgstr ""
+msgstr "Οι δύο κωδικοί δεν ταιριάζουν. Παρακαλώ δοκιμάστε ξανά."
 
 #: ../src/import-export/hbci/druid-hbci-initial.c:517
 msgid "Choose AqBanking Backend"
@@ -13906,7 +13883,7 @@ msgstr "Συμφωνία (αυτόματο) ταίριασμα"
 
 #: ../src/import-export/import-main-matcher.c:687
 msgid "Match missing!"
-msgstr ""
+msgstr "Δεν βρέθηκε ταίριασμα!"
 
 #: ../src/import-export/import-main-matcher.c:696
 msgid "Do not import (no action selected)"
@@ -14011,7 +13988,7 @@ msgstr ""
 
 #: ../src/import-export/ofx/gnc-ofx-import.c:655
 msgid "Unknown OFX savings account"
-msgstr ""
+msgstr "Άγνωστος  OFX  λογαριασμός ταμιευτηρίου"
 
 #: ../src/import-export/ofx/gnc-ofx-import.c:659
 msgid "Unknown OFX money market account"
@@ -14027,11 +14004,11 @@ msgstr ""
 
 #: ../src/import-export/ofx/gnc-ofx-import.c:671
 msgid "Unknown OFX credit card account"
-msgstr ""
+msgstr "Άγνωστος  OFX  λογαριασμός  πιστωτικής κάρτα"
 
 #: ../src/import-export/ofx/gnc-ofx-import.c:675
 msgid "Unknown OFX investment account"
-msgstr ""
+msgstr "Άγνωστος  OFX  λογαριασμός επενδύσεων"
 
 #: ../src/import-export/ofx/gnc-ofx-import.c:747
 msgid "Select an OFX/QFX file to process"
@@ -14065,11 +14042,8 @@ msgstr ""
 "Παρακαλώ επιλέξτε ένα άλλο αρχείο."
 
 #: ../src/import-export/qif-import/druid-qif-import.c:732
-#, fuzzy
 msgid "That QIF file is already loaded. Please select another file."
-msgstr ""
-"Το αρχείο QIF είναι ήδη φορτωμένο.\n"
-"Παρακαλώ επιλέξτε ένα άλλο αρχείο."
+msgstr "Το αρχείο QIF είναι ήδη φορτωμένο. Παρακαλώ επιλέξτε ένα άλλο αρχείο."
 
 #: ../src/import-export/qif-import/druid-qif-import.c:762
 msgid "GnuCash will now load your QIF file. If there are no errors or warnings, you will automatically proceed to the next step. Otherwise, the details will be shown below for your review."
@@ -14119,9 +14093,8 @@ msgstr "Ένα σφάλμα διαπιστώθηκε κατά την ανάλυ�
 
 #. The file was loaded successfully.
 #: ../src/import-export/qif-import/druid-qif-import.c:1009
-#, fuzzy
 msgid "Loading completed"
-msgstr "Φόρτωση λειτουργικών μονάδων... "
+msgstr "Η φόρτωση ολοκληρώθηκε"
 
 #. Swap the button label between pause and resume.
 #: ../src/import-export/qif-import/druid-qif-import.c:1056
@@ -14130,7 +14103,7 @@ msgstr "Φόρτωση λειτουργικών μονάδων... "
 #: ../src/import-export/qif-import/druid-qif-import.c:2814
 #, fuzzy
 msgid "_Resume"
-msgstr "_Νέα αρίθμηση"
+msgstr "Συνέ_χεια"
 
 #: ../src/import-export/qif-import/druid-qif-import.c:1432
 msgid "You must enter an account name."
@@ -14168,14 +14141,12 @@ msgid "Enter information about \"%s\""
 msgstr "Εισάγεται πληροφορίες για \"%s\""
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2239
-#, fuzzy
 msgid "_Name or description:"
-msgstr "_Περιγραφή:"
+msgstr "_Όνομα ή περιγραφή:"
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2260
-#, fuzzy
 msgid "_Ticker symbol or other abbreviation:"
-msgstr "_Σύμβολο/συντόμευση:"
+msgstr "_Σύμβολο ή άλλη συντόμευση:"
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2281
 #, fuzzy
@@ -14250,7 +14221,7 @@ msgstr "Όνομα λογαριασμού:"
 
 #: ../src/import-export/qif-import/qif.glade.h:3
 msgid "Accounts and stock holdings"
-msgstr ""
+msgstr "Λογαριασμοί και μετοχές που κατέχετε"
 
 #: ../src/import-export/qif-import/qif.glade.h:4
 msgid "Change GnuCash _Account..."
@@ -14273,12 +14244,10 @@ msgid ""
 msgstr ""
 
 #: ../src/import-export/qif-import/qif.glade.h:14
-#, fuzzy
 msgid "Enter the QIF file currency"
-msgstr "Εισαγωγή του Ποσοστού Έκπτωσης"
+msgstr "Εισαγωγή νομίσματος για το αρχείο QIF"
 
 #: ../src/import-export/qif-import/qif.glade.h:15
-#, fuzzy
 msgid ""
 "GnuCash can import financial data from QIF (Quicken Interchange Format) files written by Quicken/QuickBooks, MS Money, Moneydance, and many other programs. \n"
 "\n"
@@ -14286,17 +14255,11 @@ msgid ""
 "\n"
 "Click \"Forward\" to start loading your QIF data, or \"Cancel\" to abort the process. "
 msgstr ""
-"Το GnuCash μπορεί να εισάγει οικονομικά δεδομένα από \n"
-"αρχεία QIF (Quicken Interchange Format) που προέρχονται \n"
-"από προγράμματα όπως τα Quicken/QuickBooks, MS Money, \n"
-"Moneydance, και αρκετά άλλα. \n"
+"Το GnuCash μπορεί να εισάγει οικονομικά δεδομένα από αρχεία QIF (Quicken Interchange Format) που προέρχονται από προγράμματα όπως τα Quicken/QuickBooks, MS Money, Moneydance, και αρκετά άλλα. \n"
 "\n"
-"Η διαδικασία εισαγωγής έχει αρκετά βήματα. Οι GnuCash\n"
-"λογαριασμοί σας δε θα αλλάξουν μέχρι να κάνετε κλικ στο\n"
-"\"Τέλος\" όταν ολοκληρωθεί η διαδικασία. \n"
+"Η διαδικασία εισαγωγής έχει αρκετά βήματα. Οι GnuCash λογαριασμοί σας δε θα αλλάξουν μέχρι να κάνετε κλικ στο \"Εφαρμογή\" όταν ολοκληρωθεί η διαδικασία. \n"
 "\n"
-"Κάντε κλικ στο \"Επόμενο\" για να ξεκινήσετε τη φόρτωση των QIF \n"
-"δεδομένων σας, ή \"Άκυρο\" για να εγκαταλείψετε τη διαδικασία."
+"Κάντε κλικ στο \"Μπροστά\" για να ξεκινήσετε τη φόρτωση των QIF  δεδομένων σας, ή \"Άκυρο\" για να εγκαταλείψετε τη διαδικασία."
 
 #: ../src/import-export/qif-import/qif.glade.h:20
 msgid ""
@@ -14354,9 +14317,8 @@ msgid "Match payees/memos to GnuCash accounts"
 msgstr ""
 
 #: ../src/import-export/qif-import/qif.glade.h:42
-#, fuzzy
 msgid "Matchings selected:"
-msgstr "Δεν έχουν επιλεγεί λογαριασμοί"
+msgstr "Ταιριάσματα που επιλέχθηκαν:"
 
 #: ../src/import-export/qif-import/qif.glade.h:43
 msgid ""
@@ -14424,7 +14386,7 @@ msgstr ""
 
 #: ../src/import-export/qif-import/qif.glade.h:72
 msgid "The QIF importer cannot currently handle multi-currency QIF files. All the accounts you are importing must be denominated in the same currency.\n"
-msgstr ""
+msgstr "Η εισαγωγή QIF αυτή την στιγμή δεν υποστηρίζει αρχεία QIF πολλαπλών νομισμάτων. Όλοι οι λογαριασμοί που εισάγετε πρέπει να είναι αποτυπωμένοι στο ίδιο νόμισμα.\n"
 
 #: ../src/import-export/qif-import/qif.glade.h:74
 msgid "Tradable commodities"
@@ -14440,24 +14402,20 @@ msgid "_Imported transactions needing review:"
 msgstr "Διαγραφή Συναλλαγής"
 
 #: ../src/import-export/qif-import/qif.glade.h:78
-#, fuzzy
 msgid "_Possible matches for the selected transaction:"
-msgstr "Διαγραφή της επιλεγμένης συναλλαγής"
+msgstr "_Πιθανά ταιριάσματα για την επιλεγμένη συναλλαγή:"
 
 #: ../src/import-export/qif-import/qif.glade.h:79
-#, fuzzy
 msgid "_Select or add a GnuCash account:"
-msgstr "Επιλογή ή προσθήκη λογαριασμού GnuCash"
+msgstr "_Επιλογή ή προσθήκη ενός λογαριασμού GnuCash:"
 
 #: ../src/import-export/qif-import/qif.glade.h:80
-#, fuzzy
 msgid "_Select the currency to use for all imported transactions:"
-msgstr "Διαγραφή της επιλεγμένης συναλλαγής"
+msgstr "_Επιλέξτε το νόμισμα που θα χρησιμοποιηθεί για όλες τις συναλλαγές που θα εισαχθούν:"
 
 #: ../src/import-export/qif-import/qif.glade.h:81
-#, fuzzy
 msgid "_Select the matchings you want to change:"
-msgstr "Επιλογή λογαριασμών για σύγκριση"
+msgstr "_Επιλογή των ταιριασμάτων που θέλετε να αλλάξετε:"
 
 #: ../src/import-export/qif-import/qif.glade.h:82
 msgid "_Select..."
@@ -15088,14 +15046,12 @@ msgid "Cols"
 msgstr "Στήλες"
 
 #: ../src/report/report-gnome/dialog-custom-report.c:304
-#, fuzzy
 msgid "You must select a report to delete."
-msgstr "Πρέπει να επιλέξετε μία αξία."
+msgstr "Πρέπει να επιλέξετε μια αναφορά για διαγραφή."
 
 #: ../src/report/report-gnome/dialog-custom-report.c:325
-#, fuzzy
 msgid "You must select a report to run."
-msgstr "Πρέπει να επιλέξετε ένα νόμισμα."
+msgstr "Πρέπει να επιλέξετε μια αναφορά για εκτέλεση."
 
 #: ../src/report/report-gnome/dialog-style-sheet.c:145
 #, fuzzy, c-format
@@ -16833,17 +16789,15 @@ msgstr "Αρχείο προτύπου"
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:526
 #: ../intl-scm/guile-strings.c:1502
-#, fuzzy
 msgid "CSS stylesheet file"
-msgstr "Φύλλο στυλ"
+msgstr "Φύλλο στυλ CSS"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:528
 #: ../intl-scm/guile-strings.c:1504
-#, fuzzy
 msgid "Heading font"
-msgstr "Κεφαλίδα"
+msgstr "Γραμματοσειρά κεφαλίδας"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
@@ -17855,9 +17809,8 @@ msgstr "Ποσότητα μετοχών"
 #. src/import-export/qif-import/qif-file.scm
 #: ../intl-scm/guile-strings.c:2128
 #: ../intl-scm/guile-strings.c:2254
-#, fuzzy
 msgid "Investment action"
-msgstr "Επενδυτικό χαρτοφυλάκιο"
+msgstr "Επενδυτική ενέργεια"
 
 #. src/import-export/qif-import/qif-import/qif-file.scm
 #. src/import-export/qif-import/qif-file.scm
@@ -19656,17 +19609,15 @@ msgstr "Παθητικό"
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-balance-sheet.scm
 #: ../intl-scm/guile-strings.c:2748
 #: ../intl-scm/guile-strings.c:4290
-#, fuzzy
 msgid "Existing Liabilities"
-msgstr "Παθητικό"
+msgstr "Υπάρχουσες υποχρεώσεις"
 
 #. src/report/standard-reports/budget-balance-sheet.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-balance-sheet.scm
 #: ../intl-scm/guile-strings.c:2750
 #: ../intl-scm/guile-strings.c:4292
-#, fuzzy
 msgid "New Liabilities"
-msgstr "Παθητικό"
+msgstr "Νέες υποχρεώσεις"
 
 #. src/report/standard-reports/budget-balance-sheet.scm
 #. src/report/standard-reports/balance-sheet.scm
@@ -24607,7 +24558,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:8616
 #: ../intl-scm/guile-strings.c:8804
 msgid "Relative Date Option"
-msgstr ""
+msgstr "Σχετική επιλογή ημερομηνίας"
 
 #. src/report/utility-reports/hello-world.scm
 #. src/report/utility-reports/gnucash/report/hello-world.scm
@@ -25430,7 +25381,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:9190
 #: ../intl-scm/guile-strings.c:9476
 msgid "Do not print transactions out of specified dates"
-msgstr ""
+msgstr "Να μην εκτυπώνονται συναλλαγές εκτός του ορίου προκαθορισμένων ημερομηνιών"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -25866,9 +25817,8 @@ msgstr "<b>_Επιλεγμένες αναφορές</b>"
 #. src/report/locale-specific/us/taxtxf.scm
 #: ../intl-scm/guile-strings.c:9344
 #: ../intl-scm/guile-strings.c:9630
-#, fuzzy
 msgid "Subset of accounts"
-msgstr "Επιλογή λογαριασμών"
+msgstr "Υποσύνολο από λογαριασμούς"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -26208,9 +26158,8 @@ msgstr "Κύκλος"
 #. src/report/report-system/options-utilities.scm
 #: ../intl-scm/guile-strings.c:9786
 #: ../intl-scm/guile-strings.c:9788
-#, fuzzy
 msgid "Cross"
-msgstr "Ζημιά"
+msgstr "Σταυρός"
 
 #. src/report/report-system/options-utilities.scm
 #: ../intl-scm/guile-strings.c:9790
@@ -26322,7 +26271,7 @@ msgstr "Εμφάνιση υπολοίπων μητρικών λογαριασμ�
 #. src/report/report-system/options-utilities.scm
 #: ../intl-scm/guile-strings.c:9844
 msgid "Text book style (experimental)"
-msgstr ""
+msgstr "Στυλ Text book  (πειραματικό)"
 
 #. src/report/report-system/options-utilities.scm
 #: ../intl-scm/guile-strings.c:9846
@@ -26429,7 +26378,7 @@ msgstr "Δεν έχουν επιλεγεί λογαριασμοί"
 #. src/report/report-system/html-utilities.scm
 #: ../intl-scm/guile-strings.c:9906
 msgid "This report requires accounts to be selected."
-msgstr ""
+msgstr "Η αναφορά απαιτεί να έχουν επιλεγεί λογαριασμοί."
 
 #. src/report/report-system/html-utilities.scm
 #: ../intl-scm/guile-strings.c:9912

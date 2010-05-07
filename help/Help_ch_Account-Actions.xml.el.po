@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 01:24+0300\n"
+"PO-Revision-Date: 2010-05-08 01:28+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_ch_Account-Actions.xml:21(title)
+msgid "Setting Up, Editing &amp; Working with Accounts"
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:23(para)
+msgid "This section describes the process of setting up, editing and working with GnuCash Accounts. In GnuCash an Account is used as the basic tool to organize the recording of where money comes from and goes to. GnuCash also extends the concept of real world accounts such as a bank account or loan account to grouping income and expense accounts. This allows you to quickly see where you spent your money and what your major income and expenses are. GnuCash sets Account Types (as described in the next section) to help in organizing and grouping accounts. Account Types can be used to create a Chart of Accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:33(title)
+#, fuzzy
+msgid "Types of GnuCash Accounts"
+msgstr "Ενημέρωση των GnuCash λογαριασμών σας"
+
+#: Help_ch_Account-Actions.xml:35(para)
+msgid "GnuCash supports a number of different account types. It is recommended to choose an appropriate account type based on the list of account types described below."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:40(title)
+#, fuzzy
+msgid "Types of GnuCash Accounts."
+msgstr "Ενημέρωση των GnuCash λογαριασμών σας"
+
+#: Help_ch_Account-Actions.xml:44(para)
+#, fuzzy
+msgid "Account Type"
+msgstr "Τύπος λογαριασμού"
+
+#: Help_ch_Account-Actions.xml:45(para)
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: Help_ch_Account-Actions.xml:51(para)
+#, fuzzy
+msgid "Accounts Payable"
+msgstr "Λογαριασμοί Πληρωτέοι"
+
+#: Help_ch_Account-Actions.xml:52(para)
+msgid "Accounts Payable are used by businesses to record amounts that must be paid. Example: The business has bought something, but the business has not paid the bill until later."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:55(para)
+#: Help_ch_Account-Actions.xml:65(para)
+msgid "Previous versions of this help defined A/P and A/R the other way round."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:61(para)
+#, fuzzy
+msgid "Accounts Receivable"
+msgstr "Λογαριασμοί Εισπρακτέοι"
+
+#: Help_ch_Account-Actions.xml:62(para)
+msgid "Accounts Receivable records amounts for which money has not yet been received. Example: A business has sold something and issued a bill, but the client has not payed until later."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:71(para)
+#, fuzzy
+msgid "Asset"
+msgstr "Ενεργητικό"
+
+#: Help_ch_Account-Actions.xml:72(para)
+msgid "Asset accounts are used for tracking things that are of value and can be used or sold to pay debts. (Normally a placeholder account)"
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:78(para)
+#, fuzzy
+msgid "Bank"
+msgstr "Τράπεζα"
+
+#: Help_ch_Account-Actions.xml:79(para)
+msgid "The Bank account type denotes savings or checking accounts held at a bank or other financial institution. Some of these accounts may bear interest. This is also the appropriate account type for check (debit) cards, which directly withdraw payments from a checking account."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:86(para)
+#, fuzzy
+msgid "Cash"
+msgstr "Μετρητά"
+
+#: Help_ch_Account-Actions.xml:87(para)
+msgid "The Cash account type is used to denote the cash that you store in your wallet, shoe box, piggyback, or mattress."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:92(para)
+#, fuzzy
+msgid "Credit Card"
+msgstr "Πιστωτική κάρτα"
+
+#: Help_ch_Account-Actions.xml:93(para)
+msgid "The Credit Card account type is used to denote credit card accounts, both for cards that allow floating lines of credit (e.g. VISA, MasterCard, or Discover) and with cards that do not permit continuing balances (e.g. American Express)"
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:100(para)
+#, fuzzy
+msgid "Currency"
+msgstr "Νόμισμα"
+
+#: Help_ch_Account-Actions.xml:101(para)
+msgid "Currency Accounts were used for trading currencies, but have been replaced by the Currency Transfer pane on the Transfer Funds Window (<xref linkend=\"trans-win-enter\"/>)."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:107(para)
+#, fuzzy
+msgid "Equity"
+msgstr "Καθαρή θέση"
+
+#: Help_ch_Account-Actions.xml:108(para)
+msgid "Equity accounts are used to store the opening balances when you first start using GnuCash or start a new accounting period."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:113(para)
+#, fuzzy
+msgid "Expense"
+msgstr "Έξοδα"
+
+#: Help_ch_Account-Actions.xml:114(para)
+msgid "Any expense such as food, clothing, taxes, etc. This type is called a category in Quicken."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:119(para)
+#, fuzzy
+msgid "Income"
+msgstr "Έσοδα"
+
+#: Help_ch_Account-Actions.xml:120(para)
+msgid "Any income received from sources such as salary, interest, dividends, etc. This type is called a category in Quicken."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:125(para)
+#, fuzzy
+msgid "Liability"
+msgstr "Παθητικό"
+
+#: Help_ch_Account-Actions.xml:126(para)
+msgid "Liability accounts are used for tracking debts or financial obligations. (Normally a placeholder account)"
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:131(para)
+#, fuzzy
+msgid "Mutual Fund"
+msgstr "Αμοιβαίο κεφάλαιο"
+
+#: Help_ch_Account-Actions.xml:132(para)
+msgid "A professionally managed portfolio of stocks and bonds or other investments divided up into shares."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:137(para)
+#, fuzzy
+msgid "Stock"
+msgstr "Μετοχή"
+
+#: Help_ch_Account-Actions.xml:138(para)
+msgid "A share of ownership in a corporation, which entitles its owner to all the risks and rewards that go with it."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:145(para)
+msgid "The <emphasis role=\"bold\">New Account Hierarchy Setup</emphasis> druid described in the first section of this help is a convenient way of setting up a set of accounts to use as a framework of account types."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:149(para)
+msgid "When new accounts are created the available choices of account types are grayed out according to what type the parent account is. The following list contains the possible choices."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:154(para)
+msgid "Accounts Payable: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:158(para)
+msgid "Accounts Receivable: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:162(para)
+msgid "Asset: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:166(para)
+msgid "Bank: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:170(para)
+msgid "Cash: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:174(para)
+msgid "Credit Card: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:178(para)
+msgid "Currency: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:182(para)
+msgid "Equity: Only Equity accounts can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:186(para)
+msgid "Expense: Only Expense or Income accounts can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:190(para)
+msgid "Income: Only Expense or Income accounts can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:194(para)
+msgid "Liability: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:198(para)
+msgid "Mutual Fund: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:202(para)
+msgid "Stock: All accounts except Equity, Expense and Income can be child accounts."
+msgstr ""
+
+#: Help_ch_Account-Actions.xml:210(title)
+#, fuzzy
+msgid "Creating a Chart of Accounts"
+msgstr "Εξαγωγή σχεδίου λογαριασμών"
+
+#: Help_ch_Account-Actions.xml:212(para)
+msgid "The Chart of Accounts is like a table of contents for your finances. The best way to conceptualize a chart of accounts is as a tree. The main branches represent entire categories or groups, while the leaves of the tree denote individual bank accounts or expense categories. When a summary report is requested, typically only the main branches are shown in the report, rather than the individual accounts. For example, a chart of accounts might look like the following: Note that accounts not only have names; they may have codes, to order the accounts. When a report is generated, the sort order is determined by the numbering. It's customary to have the leaf accounts end in non-zero digits, while parent nodes have increasing numbers of zeros. GnuCash does not prevent duplicate numbering, although we would encourage you to avoid this. Account codes are treated as numbers in base-36, thus, if you run out of numbers, you can use the letters, a through z. A sample chart of accounts is shown below. Each account is of a given account type. This example is a combination of some typical business and personal accounts. Editing a Chart of Accounts Editing the Chart of Accounts is done within the Parent Account pane of the Edit Account dialog. It is possible to move an account to any part of the Chart of Account. It is recommended to keep accounts generally under the related types of accounts as described in the Types of GnuCash Accounts section. This helps to preserve the Chart of Accounts structure. To move the selected account to a different parent account just select the account in the Parent Account pane. If New top level account is selected then the account will be move to the top level. Creating a New Account The New Account properties dialog consists of two tabs, the General Information tab and the Opening Balance tab. This dialog can be accessed by going to File - New Account... or by clicking the New toolbar icon in the Account Tree Window. Creating a New Account involves planning in advance several details that are used in the New Account dialog. What type of account is needed . Where it fits in the structure of the Chart of Accounts. If there is an Opening Balance. If there is a Commodity(security/currency) needed for the account. If on-line updating of the commodity price is needed. These details are described below. General Information Tab The General Information tab is used to access the basic information about the account. It provides a way of connecting the account to stock information if it is one of the currency, mutual fund or stock account types. It can also be flagged as a Placeholder account. It displays if it is flagged as a Tax Related account (which is set through the Edit - Income Tax Options dialog). There are six panes in the Identification section of this tab. The top pane contains the Account Information. Account Name: Enter a name for the account such as First Bank Checking. Account Code: Enter an optional number code as described in the To Create a Chart of Accounts section. Description: This is an optional description for the account. Security/Currency: The Type field in the Select Security is determined by the selection of Account Type panel in the New Account screen. For accounts other than Stock or Mutual Fund this should be the default currency, USD (US Dollar) or your local currency symbol. If this account is for a foreign currency then use the Select... button to choose a different currency from the currencies pull-down list. For Accounts containing a Stock and Mutual Fund; first select \"stock\" or \"mutual fund\" in the Account Type panel, then the Parent Account, then use the Select... button, to choose the Type (usually the exchange the security is traded on) and security from the Select Security window. If the required security/fund is not on the list, and you have the correct Type you will need to create the security/fund. To create a commodity for mutual fund and stock accounts select the New... button in the Select Security screen, to bring up the New Security: screen. The options are described in detail in the Security Editor section. Fill in a name, symbol and type and Close to create the security. After the security is created select the Type: (usually the exchange the security is traded on) and the name in the Currency/security: drop down list and Close the screen. Smallest Fraction: Choose the smallest fraction that will be tracked. Notes: Free form text box. This is used for any additional notes about the account. Below the panes are check-boxes: one to show if the account is Tax Related (which is set through the Edit - Income Tax Options dialog), and two to mark the account as a Placeholder, and/or a Hidden account. The Tax Related check-box means that this account has been flagged to be included in the Tax Schedule Report. This flag is only displayed on the Edit Account dialog and is set in the Income Tax Information dialog (Edit-&gt;Income Tax Options). See the Tax Schedule Report and TXF Export section in Reports Chapter (). The check-box Placeholder marks this account as solely a placeholder in the hierarchy, it is used to enable a hierarchy or chart of accounts to be setup. A Placeholder means this account is not used for transaction data. Transactions may not be posted to this account, only to sub-accounts of this account. The check box Hidden marks this account (and any sub-accounts) to be hidden in the account tree and not appear in the pop-up account list in the register. To reset this option, you will first need to open the View - Filter By... dialog for the account tree and check the show hidden accounts option. Doing so will allow you to select the account and reopen this dialog. The next pane contains a list of Account Types. Select a type from the descriptions in the Types of GnuCash Accounts section. The next pane contains an account tree to choose a Parent Account. To create a new account tree select New top level account. If the parent account is a certain type, then several of the choices in Account Type become grayed out. For example if the Parent Account is Assets then Equity, Expense and Income become grayed. This is to help maintain a proper account structure for the Chart of Accounts. Steps to enable On-line price updating Create the Account for the mutual fund or stock with it listed in the Security/Currency field, as described above. When creating these accounts it is a good time to create income accounts to track dividends, capital gains (long and short) and expense account(s) for tracking commissions and losses (if you track losses as expenses). Create the mutual fund or stock with either the Security Editor for existing stock/funds or the New Security/Currency dialog for a new stock/fund. Select Get On-line Quotes:, Type of Quote Source and Timezone. Online currency quotes require that the check-box for Online quotes and the timezone be selected in the Security screen and the Security Editor check-box for \"get quote\" box is checked for those currencies that are to be downloaded. Get On-line Quotes: This check-box is to enable this security/fund to have quotes downloaded from an on-line source. Type of Quote Source use the radio buttons to select the type of source for the Online quotes. Multiple: quote sources like \"Europe\" should be used if fail-over to multiple sites are desirable. Single: selections will only return information from the specified source. After selecting the type of source for price quotes, select a quote source from the pull-down menu. Currently among the supported quote sources are; Yahoo, Yahoo Europe, Fidelity Investments, T. Rowe Price, the Vanguard Group, the Australian Stock Exchange (ASX) and TIAA-CREF. Note that Yahoo will provide price quotes for many mutual funds including Fidelity, T.Rowe Price and Vanguard, and that the quoted prices at Yahoo should be identical to those that may be found at the source sites. If you choose Yahoo Europe or Europe, you should append the market code for the security, such as PA for Paris, BE for Berlin, etc. Example: 12150.PA (a Peugeot security in the Paris market). below lists codes for various European markets. Pseudo-symbols for TIAA-CREF funds are listed in table . Timezone for these quotes: Select the timezone for the source of the on-line quotes you are receiving. For example, Yahoo normally quotes Eastern timezone, so choose America/New York if you use that quote source. To determine if the Perl module Finance::Quote is already installed on your system, type perldoc Finance::Quote in a terminal window and check to see if there is any documentation available. If you see the documentation, then the module is installed, if you do not see the documentation, then it has not been installed. To install Finance::Quote; Close any GnuCash applications you have running. Locate the folder where GnuCash is installed by searching for gnc-fq-update (without the quotes). Change to that directory, open a root shell and run the command gnc-fq-update (without the quotation marks). This will launch a Perl CPAN update session that will go out onto the Internet and install the Finance::Quote module on your system. The gnc-fq-update program is interactive, however, with most systems you should be able to answer no to the first question: Are you ready for manual configuration? [yes] and the update will continue automatically from that point. After installation is complete, you should run the gnc-fq-dump test program, in the same directory, distributed with GnuCash to test if Finance::Quote is installed and working properly. If you feel uncomfortable about performing any of these steps, please either email the GnuCash-user mailing list (gnucash-user@gnucash.org) for help or come to the GnuCash IRC channel on irc.gnome.org. You can also leave out this step and manually update your stock prices. Select a commodity to the Price Editor. Select Get Quotes in the Price Editor. Check the latest price for the selected security. If you wish to update price quotes from the command line, you can do so by the following command; gnucash --add-price-quotes gnucash-file-name The command gnucash --add-price-quotes gnucash-file-name can be used to fetch the current prices of your stocks. The file specified gnucash-file-name will depend on the name and location of your data file. This can be determined by the name displayed in the top frame of the GnuCash window, before the -. The file name can also be found File - pull down list, the first item, numbered 1, is the name of the currently open file. This can be automated by creating a crontab entry. For example, to update your file every Friday evening (18:00) after markets close (modify the time accordingly for your time zone), you could add the following to your personal crontab: 0 18 * * 5 gnucash --add-price-quotes $HOME/gnucash-filename /dev/null 21 Remember that Mutual Fund prices are really Net Asset Value and require several hours after the exchange closes before being available. If NAVs are downloaded before the current days NAVs are determined, yesterday's NAVs are retrieved. Opening Balance The Opening Balance tab is visible only when creating a new account. It is used to record the beginning balance for an account. This allows it to be used for two different scenarios. If using GnuCash for the first time to record transactions, it can be used as a beginning balance. If the accounts in use are closed at the end of a period and new accounts are created, it is used to close and carry balances forward. There are three panes in this tab. The top pane contains the Balance Information. Balance: Enter the balance to start the account with. Date: Choose here the date the opening balance should be recorded. The next pane is the Transfer Type pane. Use Opening Balances Equity account: This transfers the opening balance for the account from a standard Equity account called Opening Balances. Select Transfer Account: This enables the pane below so a different account can be used to transfer the opening balance. The last pane is the Transfer Account pane. Select the account to use for opening balances from the list of accounts in this pane. Editing an Account The Edit Account dialog consists of just the General Information tab. This tab has the same information that was described in To Create a New Account . To access the Edit Account dialog go to Edit - Edit Account (menu shortcut Ctrl-E) or click the Edit toolbar icon in the Account Tree Window. Renumbering Subaccounts Use \"Renumber Subaccounts\" to rewrite the account codes for all children of the current account. For example, you have the following account structure: Starting account numbers. Code Name 10 Colors 10-1 Red 10-2 Orange 10-3 Yellow. 10-4 Blue 10-5 Violet You now need to add the \"Green\" account, but you want it to sort between the Yellow and Blue accounts. Instead of having to manually renumber all the accounts starting with Blue, you can use the \"renumber subaccount\" command on the Colors account. In the pop-up dialog the prefix value should default to \"10\", the account code for the colors account. If you set an interval value of 5 and click \"Renumber\" you will end up with the following account structure: Renumbered account numbers Code Name 10 Colors 10-05 Red 10-10 Orange 10-15 Yellow. 10-20 Blue 10-25 Violet Now you have room in the account code numbering space to add the Green account with an account code to force the proper ordering. Final account numbers. Code Name 10 Colors 10-05 Red 10-10 Orange 10-15 Yellow. 10-18 Green 10-20 Blue 10-25 Violet Deleting an Account Deleting an Account means removing all transaction information and information about this account from the file. This cannot be undone. You will be prompted to verify that you wish to remove the account. If the account still contains transaction information you will be warned that this account contains transactions. A side effect of removing an account that contains transactions is that you will end up with unbalanced accounts. This will be indicated in the account by a gray check-box next to the debit and credit amounts. You can repair automatically these unbalanced accounts by using the Actions - Check Repair menu. This will automatically assign the unbalanced amounts to a new account named Imbalance. Reconciling an Account to a Statement Reconciliation of Accounts in GnuCash with statements from a bank or other institution is a way of double checking the accuracy of your (and your banks) transactions and the balance of your accounts. It also is useful to track uncleared checks and other outstanding transactions. The Summary Bar at the bottom of the Account Register Window indicates the amounts of Present (Balance), Future (Balance), Cleared (Transactions), Reconciled (Transactions) and Projected Minimum. On-line account information can be used to mark which transactions the bank has processed by changing the R (reconciliation status) column in the register from n (new) to c (cleared). The bank statement is then used with the Reconcile Window to reconcile the account which changes the R field to y (reconciled). The Reconciling Windows are accessed in the Account Tree Window or the Account Register Window by going to Actions - Reconcile... (menu shortcut Alt-A, R). Reconciling Information Window The Reconcile Information dialog is used to indicate the closing statement date and the starting (fixed from last reconciliation) and ending balance from the statement. The Include Sub-accounts check-box is used if two or more accounts are used to track a single bank account. The Enter Interest Payment button is used to add a transfer to the accounts for an interest payment. If selected a dialog will be displayed to add the interest payment to the account. There are three panes in the Interest Payment dialog. At the bottom is a button called No Auto Interest Payments for this Account which will cancel the dialog. The top pane contains the Payment Information. Amount: Enter the amount of the interest payment. Date: Select the date for the interest payment. Num: Enter a number for the transaction (optional). Description: Enter an informational description for the transaction. Memo: Enter a note about the transaction (optional). The next window contains a list of accounts for the Payment From account. If the payment is for a credit or loan account then usually this would be from an Expense account. If the payment is for a checking or savings account then usually this would be from an Income account. The Show Income/Expense check-box shows or hides the Income and Expense accounts. Select OK to enter the interest transaction and return to the initial reconciliation screen. Reconcile Window The set of unreconciled transactions in the Funds In and Funds Out panes can be changed by using the menus and toolbar to access the account and transaction information. If you wish to postpone the reconciliation until later use the Reconcile - Postpone menu item (menu shortcut Ctrl-P) or pressing the Postpone icon. If you wish to cancel the reconciliation use the Reconcile - Cancel menu item or press the Cancel icon. Select each unreconciled transaction matching a transaction on the statement so a green tick appears in the R column. The Balance pane changes to reflect each selected transaction until the Ending Balance equals the Reconciled Balance and the Difference is zero. Once this is done select the Finish button or Reconcile - Finish (menu shortcut Ctrl-F) to finish the reconcile process. Reconciling Window The \"Funds In\" pane shows all unreconciled deposits to the account. Date: The date of the unreconciled transaction. Num: The number of the unreconciled transaction. Description: The Description of the unreconciled transaction. Amount: The Amount of the unreconciled transaction. R: Shows a green tick if the transaction will be reconciled when done. The \"Funds Out\" pane shows all unreconciled expenses from the account. Date: The date of the unreconciled transaction. Num: The number of the unreconciled transaction. Description: The Description of the unreconciled transaction. Amount: The Amount of the unreconciled transaction. R: Shows a green tick if the transaction will be reconciled when done. The Balance pane shows the balances used in reconciliation. Starting Balance: The balance at the end of the last reconciliation. Ending Balance: The balance entered from the statement. Reconciled Balance: The balance of selected transactions. Difference: The difference between the Reconciled and Ending Balances."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_Account-Actions.xml:0(None)
+msgid "translator-credits"
+msgstr "Νίκος Χαρωνιτάκης <nikosx@gmail.com>"
+

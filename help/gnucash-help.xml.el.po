@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 01:14+0300\n"
+"PO-Revision-Date: 2010-05-08 01:20+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gnucash-help.xml:44(title)
+msgid "GnuCash Help Manual"
+msgstr ""
+
+#: gnucash-help.xml:46(year)
+msgid "2002-2007"
+msgstr "2002-2007"
+
+#: gnucash-help.xml:47(holder)
+msgid "Chris Lyttle"
+msgstr "Chris Lyttle"
+
+#: gnucash-help.xml:60(publishername)
+#: gnucash-help.xml:70(orgname)
+#: gnucash-help.xml:78(orgname)
+#: gnucash-help.xml:107(para)
+#: gnucash-help.xml:117(para)
+#: gnucash-help.xml:127(para)
+#: gnucash-help.xml:137(para)
+#: gnucash-help.xml:147(para)
+#: gnucash-help.xml:157(para)
+#: gnucash-help.xml:167(para)
+#: gnucash-help.xml:177(para)
+msgid "GnuCash Documentation Team"
+msgstr "Ομάδα Τεκμηρίωσης GnuCash"
+
+#: gnucash-help.xml:67(firstname)
+msgid "Chris"
+msgstr "Chris"
+
+#: gnucash-help.xml:68(surname)
+msgid "Lyttle"
+msgstr "Lyttle"
+
+#: gnucash-help.xml:71(email)
+msgid "chris@wilddev.net"
+msgstr "chris@wilddev.net"
+
+#: gnucash-help.xml:75(firstname)
+msgid "Dave"
+msgstr "Dave"
+
+#: gnucash-help.xml:76(surname)
+msgid "Herman"
+msgstr "Herman"
+
+#: gnucash-help.xml:79(email)
+msgid "dvherman@bigfoot.com"
+msgstr "dvherman@bigfoot.com"
+
+#: gnucash-help.xml:98(revnumber)
+msgid "GnuCash Help Manual V2.2.0"
+msgstr ""
+
+#: gnucash-help.xml:101(para)
+#: gnucash-help.xml:114(para)
+#: gnucash-help.xml:124(para)
+#: gnucash-help.xml:134(para)
+#: gnucash-help.xml:144(para)
+#: gnucash-help.xml:154(para)
+#: gnucash-help.xml:164(para)
+msgid "Chris Lyttle <email>chris@wilddev.net</email>"
+msgstr "Chris Lyttle <email>chris@wilddev.net</email>"
+
+#: gnucash-help.xml:104(para)
+msgid "Dave Herman <email>dvherman@bigfoot.com</email>"
+msgstr "Dave Herman <email>dvherman@bigfoot.com</email>"
+
+#: gnucash-help.xml:111(revnumber)
+msgid "GnuCash Help Manual V2.0.2"
+msgstr ""
+
+#: gnucash-help.xml:112(date)
+msgid "March 2007"
+msgstr "Μάρτιος 2007"
+
+#: gnucash-help.xml:121(revnumber)
+msgid "GnuCash Help Manual V2.0.0"
+msgstr ""
+
+#: gnucash-help.xml:122(date)
+msgid "July 2006"
+msgstr "Ιούλιος 2006"
+
+#: gnucash-help.xml:131(revnumber)
+msgid "GnuCash Help Manual V1.8.3"
+msgstr ""
+
+#: gnucash-help.xml:132(date)
+#: gnucash-help.xml:142(date)
+msgid "Aug 2003"
+msgstr "Αυγ 2003"
+
+#: gnucash-help.xml:141(revnumber)
+msgid "GnuCash Help Manual V1.8.2"
+msgstr ""
+
+#: gnucash-help.xml:151(revnumber)
+msgid "GnuCash Help Manual V1.8.1"
+msgstr ""
+
+#: gnucash-help.xml:152(date)
+msgid "May 2003"
+msgstr "Μάιος 2003"
+
+#: gnucash-help.xml:161(revnumber)
+msgid "GnuCash Help Manual V1.8.0"
+msgstr ""
+
+#: gnucash-help.xml:162(date)
+msgid "Jan 2003"
+msgstr "Ιαν 2003"
+
+#: gnucash-help.xml:171(revnumber)
+msgid "GnuCash User Manual"
+msgstr ""
+
+#: gnucash-help.xml:172(date)
+msgid "June 2002"
+msgstr "Ιούνιος 2002"
+
+#: gnucash-help.xml:174(para)
+msgid "GnuCash Developers and Documentors <email>gnucash-devel@gnucash.org</email>"
+msgstr ""
+
+#: gnucash-help.xml:182(releaseinfo)
+msgid "This manual describes how to use the GnuCash Financial software."
+msgstr ""
+
+#: gnucash-help.xml:186(title)
+msgid "Feedback"
+msgstr "Σχόλια"
+
+#: gnucash-help.xml:187(para)
+msgid "To report a bug or make a suggestion regarding this package or this manual, follow the directions at the <ulink url=\"http://bugzilla.gnome.org\">GNOME Bug Tracking System</ulink>."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: gnucash-help.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

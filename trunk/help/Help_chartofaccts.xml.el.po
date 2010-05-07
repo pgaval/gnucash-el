@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 01:31+0300\n"
+"PO-Revision-Date: 2010-05-08 01:35+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_chartofaccts.xml:11(para)
+#, fuzzy
+msgid "Checking account"
+msgstr "Άγνωστος OFX τρεχούμενος λογαριασμός "
+
+#: Help_chartofaccts.xml:16(para)
+#, fuzzy
+msgid "Money Market Account"
+msgstr "Προσθήκη λογαριασμού IM"
+
+#: Help_chartofaccts.xml:21(para)
+#: Help_chartofaccts.xml:218(para)
+#, fuzzy
+msgid "Certificate of Deposit"
+msgstr "Κατάθεση ΑΤΜ"
+
+#: Help_chartofaccts.xml:7(para)
+#, fuzzy
+msgid "Cash On Hand <placeholder-1/>"
+msgstr "Για να αυξήσετε το στοίχημα για το χέρι: <placeholder-1/>"
+
+#: Help_chartofaccts.xml:34(para)
+msgid "Furniture"
+msgstr ""
+
+#: Help_chartofaccts.xml:39(para)
+msgid "Computers"
+msgstr ""
+
+#: Help_chartofaccts.xml:44(para)
+msgid "Jewelry, Collectibles"
+msgstr ""
+
+#: Help_chartofaccts.xml:49(para)
+#, fuzzy
+msgid "Tools, Machinery"
+msgstr "Εργαλεία Χρήστη"
+
+#: Help_chartofaccts.xml:30(para)
+#, fuzzy
+msgid "Fixed Assets <placeholder-1/>"
+msgstr "<placeholder-1/> κατά την εκκίνηση"
+
+#: Help_chartofaccts.xml:62(para)
+#, fuzzy
+msgid "Stocks"
+msgstr "Μετοχές"
+
+#: Help_chartofaccts.xml:67(para)
+msgid "Bonds"
+msgstr ""
+
+#: Help_chartofaccts.xml:72(para)
+#, fuzzy
+msgid "Mutual Funds"
+msgstr "Αμοιβαία κεφάλαια"
+
+#: Help_chartofaccts.xml:77(para)
+#, fuzzy
+msgid "Real Estate"
+msgstr "Πραγματικός αριθμός"
+
+#: Help_chartofaccts.xml:58(para)
+#, fuzzy
+msgid "Investments <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:3(para)
+#, fuzzy
+msgid "Assets <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:98(para)
+#, fuzzy
+msgid "Federal Income Tax"
+msgstr "Πληροφορίες φόρου εισοδήματος"
+
+#: Help_chartofaccts.xml:103(para)
+#: Help_chartofaccts.xml:420(para)
+#, fuzzy
+msgid "Social Security"
+msgstr "Πληροφορίες ασφάλειας"
+
+#: Help_chartofaccts.xml:108(para)
+msgid "Medicare"
+msgstr ""
+
+#: Help_chartofaccts.xml:113(para)
+msgid "FUTA"
+msgstr ""
+
+#: Help_chartofaccts.xml:118(para)
+#, fuzzy
+msgid "State Income Tax"
+msgstr "Πληροφορίες φόρου εισοδήματος"
+
+#: Help_chartofaccts.xml:94(para)
+#: Help_chartofaccts.xml:416(para)
+#, fuzzy
+msgid "Taxes <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:131(para)
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: Help_chartofaccts.xml:136(para)
+msgid "Visa"
+msgstr "Visa"
+
+#: Help_chartofaccts.xml:141(para)
+#, fuzzy
+msgid "American Express"
+msgstr "Αμερικανική Σαμόα"
+
+#: Help_chartofaccts.xml:146(para)
+#, fuzzy
+msgid "Diner's Club"
+msgstr "Club-House"
+
+#: Help_chartofaccts.xml:127(para)
+#, fuzzy
+msgid "Accounts Payable <placeholder-1/>"
+msgstr "<placeholder-1/> κατά την εκκίνηση"
+
+#: Help_chartofaccts.xml:159(para)
+msgid "Debentures"
+msgstr ""
+
+#: Help_chartofaccts.xml:164(para)
+#, fuzzy
+msgid "School Loan"
+msgstr "Λογαριασμός δανείου:"
+
+#: Help_chartofaccts.xml:169(para)
+msgid "Uncle Harry's Tide-me-over"
+msgstr ""
+
+#: Help_chartofaccts.xml:155(para)
+#, fuzzy
+msgid "Loans <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:90(para)
+#, fuzzy
+msgid "Liabilities <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:186(para)
+#, fuzzy
+msgid "Retained Earnings"
+msgstr "Παρακρατηθέντα κέρδη"
+
+#: Help_chartofaccts.xml:191(para)
+#, fuzzy
+msgid "Current Year Earnings"
+msgstr "Αρχή τρέχοντος έτους"
+
+#: Help_chartofaccts.xml:196(para)
+msgid "Historical Adjustments"
+msgstr ""
+
+#: Help_chartofaccts.xml:182(para)
+#, fuzzy
+msgid "Equity <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:213(para)
+#, fuzzy
+msgid "Bank Account Interest"
+msgstr "Τραπεζικός κωδικός λογαριασμού που χρεώθηκε"
+
+#: Help_chartofaccts.xml:223(para)
+#, fuzzy
+msgid "Bond Interest"
+msgstr "Επιτόκιο"
+
+#: Help_chartofaccts.xml:209(para)
+#, fuzzy
+msgid "Interest Income <placeholder-1/>"
+msgstr "<placeholder-1/> κατά την εκκίνηση"
+
+#: Help_chartofaccts.xml:236(para)
+#, fuzzy
+msgid "Stock"
+msgstr "Έτοιμα αντικείμενα"
+
+#: Help_chartofaccts.xml:241(para)
+#, fuzzy
+msgid "Mutual Fund"
+msgstr "Αμοιβαίο κεφάλαιο"
+
+#: Help_chartofaccts.xml:232(para)
+#, fuzzy
+msgid "Dividends <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:254(para)
+#, fuzzy
+msgid "ABC Design"
+msgstr "Σχεδιασμός φόρτισης:"
+
+#: Help_chartofaccts.xml:259(para)
+msgid "PQR Infomatics"
+msgstr ""
+
+#: Help_chartofaccts.xml:250(para)
+#, fuzzy
+msgid "Consulting <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:272(para)
+#, fuzzy
+msgid "My Day Job"
+msgstr "Η δεύτερη μέρα μου"
+
+#: Help_chartofaccts.xml:268(para)
+#, fuzzy
+msgid "Salary <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:285(para)
+msgid "Royalties"
+msgstr ""
+
+#: Help_chartofaccts.xml:281(para)
+#, fuzzy
+msgid "Commissions <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:205(para)
+#, fuzzy
+msgid "Income <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:306(para)
+msgid "Rent"
+msgstr ""
+
+#: Help_chartofaccts.xml:311(para)
+msgid "Rent Late Fees"
+msgstr ""
+
+#: Help_chartofaccts.xml:316(para)
+#, fuzzy
+msgid "Electricity"
+msgstr "Ηλεκτρισμός"
+
+#: Help_chartofaccts.xml:321(para)
+#: Help_chartofaccts.xml:392(para)
+msgid "Gas"
+msgstr ""
+
+#: Help_chartofaccts.xml:326(para)
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: Help_chartofaccts.xml:331(para)
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+#: Help_chartofaccts.xml:336(para)
+#, fuzzy
+msgid "Cable TV"
+msgstr "Έξοδος τηλεόρασης"
+
+#: Help_chartofaccts.xml:302(para)
+msgid "Rent and Utilities <placeholder-1/>"
+msgstr ""
+
+#: Help_chartofaccts.xml:349(para)
+#, fuzzy
+msgid "Accounting"
+msgstr "Λογιστική περίοδος"
+
+#: Help_chartofaccts.xml:354(para)
+#, fuzzy
+msgid "Legal"
+msgstr "Legal"
+
+#: Help_chartofaccts.xml:359(para)
+#, fuzzy
+msgid "Software"
+msgstr "Λογισμικό"
+
+#: Help_chartofaccts.xml:364(para)
+msgid "Postage"
+msgstr ""
+
+#: Help_chartofaccts.xml:369(para)
+#, fuzzy
+msgid "Bank Charges"
+msgstr "Cut Bank"
+
+#: Help_chartofaccts.xml:374(para)
+#, fuzzy
+msgid "Credit Card Charges"
+msgstr "Αυτόματη _πληρωμή πιστωτικής κάρτας"
+
+#: Help_chartofaccts.xml:379(para)
+#, fuzzy
+msgid "Toner, Paper, Paper Clips"
+msgstr "Ηχογράφηση ηχητικών κλιπ"
+
+#: Help_chartofaccts.xml:345(para)
+#, fuzzy
+msgid "Office Expenses <placeholder-1/>"
+msgstr "<placeholder-1/> κατά την εκκίνηση"
+
+#: Help_chartofaccts.xml:397(para)
+#, fuzzy
+msgid "Insurance"
+msgstr "Ασφάλεια"
+
+#: Help_chartofaccts.xml:402(para)
+#, fuzzy
+msgid "Repair"
+msgstr "Διόρθωση"
+
+#: Help_chartofaccts.xml:407(para)
+msgid "Rental"
+msgstr ""
+
+#: Help_chartofaccts.xml:388(para)
+#, fuzzy
+msgid "Auto Expenses <placeholder-1/>"
+msgstr "<placeholder-1/> κατά την εκκίνηση"
+
+#: Help_chartofaccts.xml:425(para)
+msgid "Unemployment"
+msgstr ""
+
+#: Help_chartofaccts.xml:430(para)
+msgid "IRS penalties"
+msgstr ""
+
+#: Help_chartofaccts.xml:443(para)
+msgid "Consulting"
+msgstr ""
+
+#: Help_chartofaccts.xml:448(para)
+msgid "Wages"
+msgstr ""
+
+#: Help_chartofaccts.xml:453(para)
+#, fuzzy
+msgid "Health Insurance"
+msgstr "Πληρωμή ασφάλειας"
+
+#: Help_chartofaccts.xml:439(para)
+msgid "Wages and Salaries <placeholder-1/>"
+msgstr ""
+
+#: Help_chartofaccts.xml:466(para)
+#, fuzzy
+msgid "Air"
+msgstr "Air Force Academy"
+
+#: Help_chartofaccts.xml:471(para)
+msgid "Hotel"
+msgstr ""
+
+#: Help_chartofaccts.xml:476(para)
+msgid "Meals"
+msgstr ""
+
+#: Help_chartofaccts.xml:481(para)
+#, fuzzy
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: Help_chartofaccts.xml:462(para)
+#, fuzzy
+msgid "Travel <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:494(para)
+msgid "Advertising"
+msgstr ""
+
+#: Help_chartofaccts.xml:499(para)
+#, fuzzy
+msgid "Trade Shows"
+msgstr "Προβολή Sticky Notes"
+
+#: Help_chartofaccts.xml:504(para)
+#, fuzzy
+msgid "Give Aways"
+msgstr "Να εστιάζετε σε ένα παράθυρο"
+
+#: Help_chartofaccts.xml:490(para)
+#, fuzzy
+msgid "Marketing <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#: Help_chartofaccts.xml:298(para)
+#, fuzzy
+msgid "Expenses <placeholder-1/>"
+msgstr "mousetweaks <placeholder-1/>"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_chartofaccts.xml:0(None)
+#, fuzzy
+msgid "translator-credits"
+msgstr "Νίκος Χαρωνιτάκης <nikosx@gmail.com>"
+

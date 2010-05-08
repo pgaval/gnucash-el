@@ -1,0 +1,3165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 04:11+0300\n"
+"PO-Revision-Date: 2010-05-08 04:16+0200\n"
+"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: Greek <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_GUIMenus.xml:140(None)
+msgid "@@image: 'figures/Help_AccountTree_Screen.png'; md5=96765db7439d46acc48d035494447a4e"
+msgstr "@@image: 'figures/Help_AccountTree_Screen.png'; md5=96765db7439d46acc48d035494447a4e"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_GUIMenus.xml:1665(None)
+msgid "@@image: 'figures/Help_AccountReg_Screen.png'; md5=4d3bede8f3639028bc49f74bb09de0af"
+msgstr "@@image: 'figures/Help_AccountReg_Screen.png'; md5=4d3bede8f3639028bc49f74bb09de0af"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_GUIMenus.xml:3440(None)
+msgid "@@image: 'figures/Help_Report_Screen.png'; md5=f9b9fe6e70a5ea52e6171a45f1694c96"
+msgstr "@@image: 'figures/Help_Report_Screen.png'; md5=f9b9fe6e70a5ea52e6171a45f1694c96"
+
+#: Help_ch_GUIMenus.xml:21(title)
+msgid "GnuCash Windows &amp; Menus Options Overview"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:23(para)
+msgid "The main GnuCash window displays the accounts, reports, menu selections and tools you may use to process your financial data. This section gives you an overview of the different windows and sections of windows that you will see in GnuCash."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:28(para)
+msgid "Links in the various tables will lead to additional details on the topic."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:31(title)
+#, fuzzy
+msgid "GnuCash Windows and Menus"
+msgstr "Η πρόσθετη λειτουργία περιέχει μενού ή/και γραμμές εργαλείων"
+
+#: Help_ch_GUIMenus.xml:34(title)
+#, fuzzy
+msgid "Main GnuCash Window"
+msgstr "Ύψος κυρίου παραθύρου"
+
+#: Help_ch_GUIMenus.xml:36(para)
+msgid "Access to commonly used sub-windows and account tools is through this window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:39(para)
+msgid "The contents and options within the various sub-menus of the various sections of the main GnuCash window will vary dependent on the active display window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:43(para)
+msgid "When you start GnuCash, after a couple of windows (starting splash screen, and tip of the day) the main window will be displayed. This window is very similar to a typical browser, the top \"row\" displays the file that is open, the next row is the Menu bar, next is the Tool bar, then there is a row of \"tabs\" for the open reports, registers, or account trees, the next area is a major display space for the active display, near the bottom is a summary bar row and finally the bottom row is the status bar."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:52(para)
+msgid "<xref linkend=\"TableWinBars\"/> describes the components of the main GnuCash Window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:56(title)
+msgid "Display Bars of the main GnuCash Window"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:61(para)
+#, fuzzy
+msgid "Window Components"
+msgstr "Συστατικά χωρικού παραθύρου"
+
+#: Help_ch_GUIMenus.xml:63(para)
+#: Help_ch_GUIMenus.xml:228(entry)
+#: Help_ch_GUIMenus.xml:427(para)
+#: Help_ch_GUIMenus.xml:507(para)
+#: Help_ch_GUIMenus.xml:564(entry)
+#: Help_ch_GUIMenus.xml:759(para)
+#: Help_ch_GUIMenus.xml:1020(para)
+#: Help_ch_GUIMenus.xml:1384(para)
+#: Help_ch_GUIMenus.xml:1437(para)
+#: Help_ch_GUIMenus.xml:1477(para)
+#: Help_ch_GUIMenus.xml:1536(para)
+#: Help_ch_GUIMenus.xml:1760(entry)
+#: Help_ch_GUIMenus.xml:1968(para)
+#: Help_ch_GUIMenus.xml:2050(para)
+#: Help_ch_GUIMenus.xml:2177(para)
+#: Help_ch_GUIMenus.xml:2233(entry)
+#: Help_ch_GUIMenus.xml:2301(entry)
+#: Help_ch_GUIMenus.xml:2490(para)
+#: Help_ch_GUIMenus.xml:2751(para)
+#: Help_ch_GUIMenus.xml:3130(para)
+#: Help_ch_GUIMenus.xml:3183(para)
+#: Help_ch_GUIMenus.xml:3217(para)
+#: Help_ch_GUIMenus.xml:3276(para)
+#: Help_ch_GUIMenus.xml:3531(entry)
+#: Help_ch_GUIMenus.xml:3751(para)
+#: Help_ch_GUIMenus.xml:3830(para)
+#: Help_ch_GUIMenus.xml:3890(entry)
+#: Help_ch_GUIMenus.xml:3978(para)
+#: Help_ch_GUIMenus.xml:4239(para)
+#: Help_ch_GUIMenus.xml:4603(para)
+#: Help_ch_GUIMenus.xml:4649(para)
+#: Help_ch_GUIMenus.xml:4683(para)
+#: Help_ch_GUIMenus.xml:4733(para)
+#: Help_ch_GUIMenus.xml:4865(para)
+#: Help_ch_GUIMenus.xml:4921(para)
+#: Help_ch_GUIMenus.xml:4961(para)
+#: Help_ch_GUIMenus.xml:5003(para)
+#: Help_ch_GUIMenus.xml:5037(para)
+#: Help_ch_GUIMenus.xml:5067(para)
+#: Help_ch_GUIMenus.xml:5152(para)
+#: Help_ch_GUIMenus.xml:5209(para)
+#: Help_ch_GUIMenus.xml:5251(para)
+#, fuzzy
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: Help_ch_GUIMenus.xml:69(para)
+#: Help_ch_GUIMenus.xml:4871(para)
+#: Help_ch_GUIMenus.xml:5158(para)
+#, fuzzy
+msgid "Menu bar"
+msgstr "εργαλειοθήκη μενού"
+
+#: Help_ch_GUIMenus.xml:71(para)
+msgid "Contains the Menus used in the currently active Window"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:76(para)
+#, fuzzy
+msgid "Tool Bar"
+msgstr "Γραμμή Εργαλείων"
+
+#: Help_ch_GUIMenus.xml:78(para)
+msgid "Contains Icons or Text buttons used to access common tasks is the currently active window"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:83(para)
+#, fuzzy
+msgid "Tabs Bar"
+msgstr "Bar Harbor"
+
+#: Help_ch_GUIMenus.xml:85(para)
+msgid "Contains Tabs of the currently open Account Tree, Reports, Transaction Registers."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:90(para)
+#, fuzzy
+msgid "Active Display Window"
+msgstr "Οριζόντια μεγιστοποίηση του παραθύρου"
+
+#: Help_ch_GUIMenus.xml:92(para)
+msgid "Contains the display of the currently selected Tab"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:97(para)
+#: Help_ch_GUIMenus.xml:519(para)
+#: Help_ch_GUIMenus.xml:1614(title)
+#: Help_ch_GUIMenus.xml:2066(para)
+#: Help_ch_GUIMenus.xml:3389(title)
+#: Help_ch_GUIMenus.xml:3846(para)
+#: Help_ch_GUIMenus.xml:4815(title)
+#, fuzzy
+msgid "Summary Bar"
+msgstr "Θέση της γραμμής περίληψης"
+
+#: Help_ch_GUIMenus.xml:99(para)
+#, fuzzy
+msgid "Contains Summary of Financial Data"
+msgstr "Το αρχείο περιέχει κατεστραμμένα δεδομένα."
+
+#: Help_ch_GUIMenus.xml:103(para)
+#: Help_ch_GUIMenus.xml:525(para)
+#: Help_ch_GUIMenus.xml:1626(title)
+#: Help_ch_GUIMenus.xml:2075(para)
+#: Help_ch_GUIMenus.xml:3401(title)
+#: Help_ch_GUIMenus.xml:3856(para)
+#: Help_ch_GUIMenus.xml:4826(title)
+#, fuzzy
+msgid "Status Bar"
+msgstr "Γραμμή Κατάστασης"
+
+#: Help_ch_GUIMenus.xml:105(para)
+msgid "Contains a short description of Menu items and a progress bar"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:112(para)
+msgid "The \"Accounts\" tab labels a display that provides an overview of all your accounts and a summary of their balances. It groups the accounts into types based on standard accounting practice."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:116(para)
+msgid "To open an additional Account Tree go to <guilabel>File -&gt; New Accounts Page </guilabel>. This will open the account tree in the existing window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:120(para)
+msgid "To open a new window with an Account Tree go to <guilabel>Windows -&gt; New Window with Page</guilabel>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:127(title)
+#, fuzzy
+msgid "Account Tab Display"
+msgstr "Βάθος εμφάνισης λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:128(para)
+msgid "To simplify navigation the following are the topics covered in this section; <xref linkend=\"AccTree-menus\"/>, <xref linkend=\"AccTree-toolbar\"/>, <xref linkend=\"AccTree-main-bar\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:135(title)
+#, fuzzy
+msgid "An \"Account Tree\" Display."
+msgstr "Εμφάνιση δέντρου_διεργασίας"
+
+#: Help_ch_GUIMenus.xml:144(phrase)
+#, fuzzy
+msgid "Account Tree screen"
+msgstr "Άνοιγμα νέας σελίδας δένδρου λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:146(para)
+msgid "This is an screen image of the \"Accounts\" tab after creating a new file and \"select all\" of the accounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:153(title)
+#, fuzzy
+msgid "Account Tree - Menus"
+msgstr "Άνοιγμα νέας σελίδας δένδρου λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:160(para)
+msgid "<emphasis role=\"bold\">File</emphasis> - <xref linkend=\"AccTree-file-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:164(para)
+msgid "<emphasis role=\"bold\">Edit</emphasis> - <xref linkend=\"AccTree-edit-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:169(para)
+msgid "<emphasis role=\"bold\">View</emphasis> - <xref linkend=\"AccTree-view-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:174(para)
+msgid "<emphasis role=\"bold\">Action</emphasis> - <xref linkend=\"AccTree-actions-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:179(para)
+msgid "<emphasis role=\"bold\">Business</emphasis> - <xref linkend=\"AccTree-business-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:184(para)
+msgid "<emphasis role=\"bold\">Reports</emphasis> - <xref linkend=\"AccTree-reports-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:189(para)
+msgid "<emphasis role=\"bold\">Tools</emphasis> - <xref linkend=\"AccTree-tools-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:194(para)
+msgid "<emphasis role=\"bold\">Windows</emphasis> - <xref linkend=\"AccTree-windows-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:199(para)
+msgid "<emphasis role=\"bold\">Help</emphasis> - <xref linkend=\"AccTree-help-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:155(para)
+msgid "The Menu bar for the Accounts Tree window contains the following options; <placeholder-1/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:208(title)
+#, fuzzy
+msgid "Account Tree - File Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:210(para)
+#: Help_ch_GUIMenus.xml:1740(para)
+#: Help_ch_GUIMenus.xml:3511(para)
+msgid "The following table describes the options in the File Menu."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:212(para)
+#: Help_ch_GUIMenus.xml:1743(para)
+#: Help_ch_GUIMenus.xml:3514(para)
+msgid "Clicking on the File option of the Menu bar will \"pull down\" a menu of options described in the File Menu table."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:216(title)
+msgid "Access to file and account operations and printing."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:225(para)
+#: Help_ch_GUIMenus.xml:424(para)
+#: Help_ch_GUIMenus.xml:505(para)
+#: Help_ch_GUIMenus.xml:561(para)
+#: Help_ch_GUIMenus.xml:756(para)
+#: Help_ch_GUIMenus.xml:1017(para)
+#: Help_ch_GUIMenus.xml:1382(para)
+#: Help_ch_GUIMenus.xml:1435(para)
+#: Help_ch_GUIMenus.xml:1475(para)
+#: Help_ch_GUIMenus.xml:1757(para)
+#: Help_ch_GUIMenus.xml:1965(para)
+#: Help_ch_GUIMenus.xml:2047(para)
+#: Help_ch_GUIMenus.xml:2230(para)
+#: Help_ch_GUIMenus.xml:2298(para)
+#: Help_ch_GUIMenus.xml:2487(para)
+#: Help_ch_GUIMenus.xml:2748(para)
+#: Help_ch_GUIMenus.xml:3128(para)
+#: Help_ch_GUIMenus.xml:3181(para)
+#: Help_ch_GUIMenus.xml:3215(para)
+#: Help_ch_GUIMenus.xml:3528(para)
+#: Help_ch_GUIMenus.xml:3748(para)
+#: Help_ch_GUIMenus.xml:3827(para)
+#: Help_ch_GUIMenus.xml:3887(para)
+#: Help_ch_GUIMenus.xml:3975(para)
+#: Help_ch_GUIMenus.xml:4236(para)
+#: Help_ch_GUIMenus.xml:4601(para)
+#: Help_ch_GUIMenus.xml:4647(para)
+#: Help_ch_GUIMenus.xml:4681(para)
+#: Help_ch_GUIMenus.xml:4919(para)
+#: Help_ch_GUIMenus.xml:4959(para)
+#: Help_ch_GUIMenus.xml:5001(para)
+#: Help_ch_GUIMenus.xml:5035(para)
+#: Help_ch_GUIMenus.xml:5207(para)
+#, fuzzy
+msgid "Menu Item"
+msgstr "Στοιχείο Μενού"
+
+#: Help_ch_GUIMenus.xml:234(para)
+#: Help_ch_GUIMenus.xml:1766(para)
+#: Help_ch_GUIMenus.xml:3537(para)
+#, fuzzy
+msgid "New -&gt;"
+msgstr "New Bedford"
+
+#: Help_ch_GUIMenus.xml:237(para)
+#: Help_ch_GUIMenus.xml:1769(para)
+#: Help_ch_GUIMenus.xml:3540(para)
+msgid "Selects the New Account, Budget and file options sub-menu"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:242(entry)
+#: Help_ch_GUIMenus.xml:1775(entry)
+#: Help_ch_GUIMenus.xml:3546(entry)
+#, fuzzy
+msgid "New File"
+msgstr "Νέο Αρχείο"
+
+#: Help_ch_GUIMenus.xml:245(para)
+#: Help_ch_GUIMenus.xml:1778(para)
+#: Help_ch_GUIMenus.xml:3549(para)
+msgid "Creates a new data file (Starts with new Accounts and data.)"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:250(entry)
+#: Help_ch_GUIMenus.xml:1784(entry)
+#: Help_ch_GUIMenus.xml:3555(entry)
+#, fuzzy
+msgid "New Accounts Page"
+msgstr "Νέα _σελίδα λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:253(para)
+#: Help_ch_GUIMenus.xml:1787(para)
+#: Help_ch_GUIMenus.xml:3558(para)
+#, fuzzy
+msgid "Creates an copy of the Account tree"
+msgstr "Άνοιγμα νέας σελίδας δένδρου λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:257(entry)
+#: Help_ch_GUIMenus.xml:1792(entry)
+#: Help_ch_GUIMenus.xml:3563(entry)
+#, fuzzy
+msgid "New Budget"
+msgstr "Νέος προϋπολογισμός"
+
+#: Help_ch_GUIMenus.xml:260(para)
+#: Help_ch_GUIMenus.xml:1795(para)
+msgid "Starts the Creates a New budget druid."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:264(entry)
+#, fuzzy
+msgid "New Account..."
+msgstr "Νέος λογαριασμός  %s "
+
+#: Help_ch_GUIMenus.xml:267(para)
+msgid "Creates a New Account and opens the account properties."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:271(entry)
+#, fuzzy
+msgid "New Account Hierarchy ..."
+msgstr "Νέα _ιεραρχίας λογαριασμών..."
+
+#: Help_ch_GUIMenus.xml:274(para)
+msgid "Starts the Creates a New Account Hierarchy sequence."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:278(para)
+#: Help_ch_GUIMenus.xml:1800(para)
+#: Help_ch_GUIMenus.xml:3571(para)
+#, fuzzy
+msgid "Open -&gt;"
+msgstr "βιβλίο ανοικτό"
+
+#: Help_ch_GUIMenus.xml:281(para)
+#: Help_ch_GUIMenus.xml:1803(para)
+#: Help_ch_GUIMenus.xml:3574(para)
+msgid "Selects the Open sub-menu options described below"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:286(para)
+#: Help_ch_GUIMenus.xml:1810(para)
+#: Help_ch_GUIMenus.xml:3581(para)
+#, fuzzy
+msgid "Open ..."
+msgstr "Ά_νοιγμα %s"
+
+#: Help_ch_GUIMenus.xml:289(para)
+#: Help_ch_GUIMenus.xml:1814(para)
+#: Help_ch_GUIMenus.xml:3585(para)
+msgid "Starts the \"Open another data file\" process."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:294(para)
+#: Help_ch_GUIMenus.xml:1820(para)
+#: Help_ch_GUIMenus.xml:3591(para)
+#, fuzzy
+msgid "Open Budget"
+msgstr "Άνοιγμα προϋπολογισμού"
+
+#: Help_ch_GUIMenus.xml:297(para)
+#: Help_ch_GUIMenus.xml:1824(para)
+#: Help_ch_GUIMenus.xml:3595(para)
+#, fuzzy
+msgid "Opens an existing budget."
+msgstr "Άνοιγμα παλαιότερου προϋπολογισμού"
+
+#: Help_ch_GUIMenus.xml:302(para)
+#: Help_ch_GUIMenus.xml:4967(para)
+#, fuzzy
+msgid "Open Account"
+msgstr "Άνοιγμα _λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:305(para)
+msgid "When an account is selected in the Account Tree opens the register for that account. (Shortcut Alt-F,O,A)"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:311(para)
+#, fuzzy
+msgid "Open Sub-Accounts"
+msgstr "Νέα αρίθμηση θυγατρικών λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:314(para)
+msgid "When an account is selected in the Account Tree opens a General Ledger register for that account and all sub-accounts. (Shortcut Alt-F,O,A)"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:320(para)
+#: Help_ch_GUIMenus.xml:1829(para)
+#: Help_ch_GUIMenus.xml:3600(para)
+#, fuzzy
+msgid "Import -&gt;"
+msgstr "Εισαγωγή ICS"
+
+#: Help_ch_GUIMenus.xml:323(para)
+#: Help_ch_GUIMenus.xml:1832(para)
+#: Help_ch_GUIMenus.xml:3603(para)
+msgid "Opens the Import sub-menu to import files from other financial programs."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:329(para)
+#: Help_ch_GUIMenus.xml:1839(para)
+#: Help_ch_GUIMenus.xml:3610(para)
+#, fuzzy
+msgid "Import QIF ..."
+msgstr "Εισαγωγή _QIF..."
+
+#: Help_ch_GUIMenus.xml:332(para)
+#: Help_ch_GUIMenus.xml:1843(para)
+#: Help_ch_GUIMenus.xml:3614(para)
+msgid "Starts the QIF file Import process."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:337(para)
+#: Help_ch_GUIMenus.xml:1849(para)
+#: Help_ch_GUIMenus.xml:3620(para)
+#, fuzzy
+msgid "Import OFX/QFX ..."
+msgstr "Εισαγωγή _OFX/QFX..."
+
+#: Help_ch_GUIMenus.xml:340(para)
+#: Help_ch_GUIMenus.xml:1853(para)
+#: Help_ch_GUIMenus.xml:3624(para)
+#, fuzzy
+msgid "Starts the OFX/QFX file Import process."
+msgstr "Επιλογή ενός αρχείου OFX/QFX για επεξεργασία"
+
+#: Help_ch_GUIMenus.xml:345(para)
+#: Help_ch_GUIMenus.xml:1859(para)
+#: Help_ch_GUIMenus.xml:3630(para)
+#, fuzzy
+msgid "Replay GnuCash .log file..."
+msgstr "To %s δεν είναι αρχείο καταγραφών."
+
+#: Help_ch_GUIMenus.xml:348(para)
+#: Help_ch_GUIMenus.xml:1863(para)
+#: Help_ch_GUIMenus.xml:3634(para)
+msgid "Starts the replaying of a GnuCash log file. Used for data recovery from \"crashes\"."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:353(para)
+#: Help_ch_GUIMenus.xml:1869(para)
+#: Help_ch_GUIMenus.xml:3640(para)
+#, fuzzy
+msgid "Save (Ctrl-S)"
+msgstr "αποθήκευση ως"
+
+#: Help_ch_GUIMenus.xml:356(para)
+#: Help_ch_GUIMenus.xml:1872(para)
+#: Help_ch_GUIMenus.xml:3643(para)
+msgid "Saves the currently open file. Menu shortcut Ctrl-S"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:360(para)
+#: Help_ch_GUIMenus.xml:1878(para)
+#: Help_ch_GUIMenus.xml:3649(para)
+#, fuzzy
+msgid "Save As ... (Shift+Ctrl+S)"
+msgstr "Αποθήκευση αρχείου πληκτρολογίου ως"
+
+#: Help_ch_GUIMenus.xml:363(para)
+#: Help_ch_GUIMenus.xml:1881(para)
+#: Help_ch_GUIMenus.xml:3652(para)
+msgid "Saves the currently opened file with a different name. Menu shortcut Shift+Ctrl+S"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:365(para)
+#: Help_ch_GUIMenus.xml:1883(para)
+#: Help_ch_GUIMenus.xml:3654(para)
+msgid "Do NOT store your data file in ~/.gnucash/books."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:370(para)
+#: Help_ch_GUIMenus.xml:962(para)
+#: Help_ch_GUIMenus.xml:1896(para)
+#: Help_ch_GUIMenus.xml:2693(para)
+#: Help_ch_GUIMenus.xml:3667(para)
+#: Help_ch_GUIMenus.xml:4181(para)
+#, fuzzy
+msgid "Export -&gt;"
+msgstr "Εξαγωγή ονόματος αρχείου"
+
+#: Help_ch_GUIMenus.xml:373(para)
+#: Help_ch_GUIMenus.xml:1899(para)
+msgid "Exports ..."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:378(para)
+#: Help_ch_GUIMenus.xml:1904(para)
+#: Help_ch_GUIMenus.xml:3686(para)
+#, fuzzy
+msgid "Export Accounts"
+msgstr "Εξαγωγή _λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:381(para)
+#: Help_ch_GUIMenus.xml:1907(para)
+#: Help_ch_GUIMenus.xml:3690(para)
+msgid "Exports your account hierarchy to a new file. Does not export data."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:386(para)
+#: Help_ch_GUIMenus.xml:1912(para)
+#: Help_ch_GUIMenus.xml:3696(para)
+#, fuzzy
+msgid "Properties (Alt+Return)"
+msgstr "Πιέστε <keycombo><keycap>Alt</keycap><keycap>Return</keycap></keycombo>."
+
+#: Help_ch_GUIMenus.xml:389(para)
+#: Help_ch_GUIMenus.xml:1915(para)
+#: Help_ch_GUIMenus.xml:3699(para)
+msgid "Sets options for this GnuCash data file."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:393(para)
+#: Help_ch_GUIMenus.xml:1920(para)
+#: Help_ch_GUIMenus.xml:3704(para)
+#, fuzzy
+msgid "Recently opened files"
+msgstr "Τα αρχεία μπορούν να ανοιχτούν"
+
+#: Help_ch_GUIMenus.xml:396(para)
+#: Help_ch_GUIMenus.xml:1923(para)
+#: Help_ch_GUIMenus.xml:3707(para)
+msgid "Numbered list of most recently opened GnuCash data files."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:400(para)
+#: Help_ch_GUIMenus.xml:1940(para)
+#: Help_ch_GUIMenus.xml:3722(para)
+#, fuzzy
+msgid "Quit (Ctrl+Q)"
+msgstr "Έξοδος από το GOK"
+
+#: Help_ch_GUIMenus.xml:403(para)
+#: Help_ch_GUIMenus.xml:1943(para)
+#: Help_ch_GUIMenus.xml:3725(para)
+msgid "Exits GnuCash. Menu shortcut Ctrl-Q"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:411(title)
+#, fuzzy
+msgid "Account Tree - Edit Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:414(title)
+msgid "Account Tree - Edit Menu - Access to file and account editing operations and preferences."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:433(para)
+#, fuzzy
+msgid "Edit Account (Ctrl+E)"
+msgstr "Επεξεργασία των πληροφοριών λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:436(para)
+#: Help_ch_GUIMenus.xml:4975(para)
+msgid "Modify name or characteristic of selected account. <xref linkend=\"acct-edit\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:441(para)
+#, fuzzy
+msgid "Delete Account ..."
+msgstr "Διαγραφή λογαριασμού;"
+
+#: Help_ch_GUIMenus.xml:444(para)
+msgid "Remove an account. See <xref linkend=\"acct-delete\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:448(para)
+#, fuzzy
+msgid "Renumber Sub-account ..."
+msgstr "Νέα αρίθμηση θυγατρικών λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:451(para)
+msgid "Starts the Renumber Account druid. See <xref linkend=\"chart-renumber\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:456(para)
+#: Help_ch_GUIMenus.xml:1993(para)
+#: Help_ch_GUIMenus.xml:3766(para)
+#, fuzzy
+msgid "Find ... (Ctrl+F)"
+msgstr "Αδύνατη η εύρεση \"%s\"."
+
+#: Help_ch_GUIMenus.xml:459(para)
+#: Help_ch_GUIMenus.xml:1996(para)
+#: Help_ch_GUIMenus.xml:3769(para)
+msgid "Set criteria for a search for a specific transaction. See <xref linkend=\"tool-find\"/> for specifics on searches."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:465(para)
+#: Help_ch_GUIMenus.xml:2003(para)
+#: Help_ch_GUIMenus.xml:3776(para)
+#, fuzzy
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: Help_ch_GUIMenus.xml:468(para)
+#: Help_ch_GUIMenus.xml:2006(para)
+#: Help_ch_GUIMenus.xml:3779(para)
+msgid "Customize GnuCash for location, style, and numerous other preferences. See <xref linkend=\"set-prefs\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:473(para)
+#: Help_ch_GUIMenus.xml:2012(para)
+#: Help_ch_GUIMenus.xml:3785(para)
+#, fuzzy
+msgid "Style Sheets"
+msgstr "<b>Διαθέσιμα φύλλα στυλ</b>"
+
+#: Help_ch_GUIMenus.xml:476(para)
+msgid "Modify/customize Style Sheets. See <xref linkend=\"change-style\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:480(para)
+#: Help_ch_GUIMenus.xml:2020(para)
+#: Help_ch_GUIMenus.xml:3802(para)
+#, fuzzy
+msgid "Income Tax Options"
+msgstr "Πληροφορίες φόρου εισοδήματος"
+
+#: Help_ch_GUIMenus.xml:483(para)
+#: Help_ch_GUIMenus.xml:3805(para)
+msgid "Set tax characteristics on account(s) (US). Assign tax form and line to account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:494(title)
+#, fuzzy
+msgid "Account Tree - View Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:497(title)
+msgid "Account Tree - View Menu - Changes display window view."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:513(para)
+#: Help_ch_GUIMenus.xml:2057(para)
+#: Help_ch_GUIMenus.xml:3837(para)
+#, fuzzy
+msgid "Toolbar"
+msgstr "Γραμμή Εργαλείων"
+
+#: Help_ch_GUIMenus.xml:515(para)
+#: Help_ch_GUIMenus.xml:2060(para)
+#: Help_ch_GUIMenus.xml:3840(para)
+msgid "Check-box to Enable/Disable display of Toolbar."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:521(para)
+#: Help_ch_GUIMenus.xml:2069(para)
+msgid "Check-box to Enable/Disable display of Summary Bar."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:527(para)
+#: Help_ch_GUIMenus.xml:2078(para)
+#: Help_ch_GUIMenus.xml:3859(para)
+msgid "Check-box to Enable/Disable display of Status Bar."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:531(para)
+#: Help_ch_GUIMenus.xml:2200(para)
+#, fuzzy
+msgid "Filter by ..."
+msgstr "Φίλτρο κατά..."
+
+#: Help_ch_GUIMenus.xml:533(para)
+msgid "Set filter for accounts displayed in the Account Tree display."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:538(para)
+#: Help_ch_GUIMenus.xml:2207(para)
+#: Help_ch_GUIMenus.xml:3865(para)
+#, fuzzy
+msgid "Refresh (Ctrl+R)"
+msgstr "Αυτόματη _ενημέτωση"
+
+#: Help_ch_GUIMenus.xml:540(para)
+#: Help_ch_GUIMenus.xml:2209(para)
+#: Help_ch_GUIMenus.xml:3867(para)
+#, fuzzy
+msgid "Repaint the display screen."
+msgstr "Η οθόνη %d στην προβολή '%s' δεν είναι έγκυρη\n"
+
+#: Help_ch_GUIMenus.xml:548(title)
+#, fuzzy
+msgid "Account Tree - Actions Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:551(title)
+#: Help_ch_GUIMenus.xml:2287(title)
+msgid "Actions Menu - Setup scheduled transactions, repair accounts, perform stock splits, transfer and reconcile transactions."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:570(para)
+#, fuzzy
+msgid "Online Actions -&gt;"
+msgstr "Αδυναμία αρχικοποίησης ενεργειών."
+
+#: Help_ch_GUIMenus.xml:572(entry)
+msgid "If Online Banking was enabled for GnuCash the following sub-menus will be displayed"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:578(para)
+#, fuzzy
+msgid "Get Balance"
+msgstr "Λήψη _υπόλοιπου"
+
+#: Help_ch_GUIMenus.xml:586(para)
+#, fuzzy
+msgid "Get Transactions"
+msgstr "Λήψη _συναλλαγών..."
+
+#: Help_ch_GUIMenus.xml:589(para)
+msgid "Download transactions from online accounts"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:594(para)
+#, fuzzy
+msgid "Issue Transaction ..."
+msgstr "_Εισαγωγή συναλλαγής..."
+
+#: Help_ch_GUIMenus.xml:597(para)
+#, fuzzy
+msgid "Upload transaction(s) to online account ??"
+msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμό"
+
+#: Help_ch_GUIMenus.xml:602(para)
+#, fuzzy
+msgid "Direct Debit ..."
+msgstr "Χρεωστικός λογαριασμός"
+
+#: Help_ch_GUIMenus.xml:609(para)
+#: Help_ch_GUIMenus.xml:2307(para)
+#: Help_ch_GUIMenus.xml:3896(para)
+#, fuzzy
+msgid "Scheduled Transactions -&gt;"
+msgstr "Η λίστα των προγραμματισμένων συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:611(entry)
+#: Help_ch_GUIMenus.xml:2309(entry)
+#: Help_ch_GUIMenus.xml:3898(entry)
+#, fuzzy
+msgid "Scheduled Transactions sub-menus"
+msgstr "Όλες οι συναλλαγές των υπολογαριασμών θα διαγραφούν."
+
+#: Help_ch_GUIMenus.xml:617(para)
+#: Help_ch_GUIMenus.xml:2315(para)
+#: Help_ch_GUIMenus.xml:3904(para)
+#, fuzzy
+msgid "Scheduled Transaction Editor"
+msgstr "Διορθωτής _προγραμματισμένων συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:620(para)
+#: Help_ch_GUIMenus.xml:2319(para)
+#: Help_ch_GUIMenus.xml:3908(para)
+msgid "Invoke tool to edit scheduled transactions. See <xref linkend=\"sched-editor\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:626(para)
+#: Help_ch_GUIMenus.xml:2326(para)
+#: Help_ch_GUIMenus.xml:3915(para)
+#, fuzzy
+msgid "Since Last Run..."
+msgstr "Από την τελευταία εκτέλεση..."
+
+#: Help_ch_GUIMenus.xml:629(para)
+#: Help_ch_GUIMenus.xml:2330(para)
+#: Help_ch_GUIMenus.xml:3919(para)
+msgid "Display Scheduled transactions since last running of GnuCash. <xref linkend=\"trans-sched-slr\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:635(para)
+msgid "Mortgage &amp; Loan Repayment Setup"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:638(para)
+#: Help_ch_GUIMenus.xml:2341(para)
+#: Help_ch_GUIMenus.xml:3930(para)
+msgid "Starts the Mortgage &amp; Loan Repayment druid for setting up repayments. <xref linkend=\"trans-sched-loans\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:652(para)
+#: Help_ch_GUIMenus.xml:2347(para)
+#: Help_ch_GUIMenus.xml:4980(para)
+#, fuzzy
+msgid "Transfer..."
+msgstr "Μεταφορά"
+
+#: Help_ch_GUIMenus.xml:655(para)
+#: Help_ch_GUIMenus.xml:2350(para)
+msgid "Starts the Transfer druid for transfer between accounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:659(para)
+#: Help_ch_GUIMenus.xml:2356(para)
+#, fuzzy
+msgid "Reconcile..."
+msgstr "Επαλήθευση"
+
+#: Help_ch_GUIMenus.xml:662(para)
+#: Help_ch_GUIMenus.xml:2359(para)
+msgid "Starts the Account Reconcile druid. <xref linkend=\"tool-reconcile\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:666(para)
+#: Help_ch_GUIMenus.xml:2364(para)
+#, fuzzy
+msgid "Stock Split..."
+msgstr "Σπλιτ Μετοχής"
+
+#: Help_ch_GUIMenus.xml:669(para)
+#: Help_ch_GUIMenus.xml:2367(para)
+msgid "Starts the Stock Split druid. Additional details <xref linkend=\"stock-split\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:674(para)
+#, fuzzy
+msgid "View Lots..."
+msgstr "Προβολή _πακέτων..."
+
+#: Help_ch_GUIMenus.xml:677(para)
+msgid "Opens the \"Lots in Account\" form."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:684(para)
+#: Help_ch_GUIMenus.xml:2419(para)
+#, fuzzy
+msgid "Check &amp; Repair -&gt;"
+msgstr "Έλεγχος και διόρθωση υπολογαριασμών"
+
+#: Help_ch_GUIMenus.xml:687(para)
+#: Help_ch_GUIMenus.xml:2422(para)
+#, fuzzy
+msgid "Check &amp; Repair Submenus"
+msgstr "Έλεγχος και διόρθωση υπολογαριασμών"
+
+#: Help_ch_GUIMenus.xml:692(para)
+#, fuzzy
+msgid "Check &amp; Repair Account"
+msgstr "Έλεγχος και διόρθωση υπολογαριασμών"
+
+#: Help_ch_GUIMenus.xml:695(para)
+#: Help_ch_GUIMenus.xml:2432(para)
+msgid "Check for and repair unbalanced transactions and orphan splits in this account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:701(para)
+msgid "Check &amp; Repair Sub-accounts"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:704(para)
+msgid "Check for and repair unbalanced transactions and orphan splits in this account and its subaccounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:710(para)
+#, fuzzy
+msgid "Check &amp; Repair All"
+msgstr "Έλεγχος και διόρθωση υπολογαριασμών"
+
+#: Help_ch_GUIMenus.xml:713(para)
+msgid "Check for and repair unbalanced transactions and orphan splits in all accounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:718(para)
+#: Help_ch_GUIMenus.xml:2448(para)
+#: Help_ch_GUIMenus.xml:3936(para)
+#, fuzzy
+msgid "Reset Warnings..."
+msgstr "Επαναφορά προειδοποιήσεων"
+
+#: Help_ch_GUIMenus.xml:721(para)
+msgid "GnuCash gives warnings when certain operations are attempted, such as removing a transaction or removing the splits of a transaction. The warning message gives you the option to not give you these warnings when attempting the operation. Check-boxes labeled \"Remember and don't ask me again\" and \"Remember and don't ask me again this session\" allow disabling the warnings. This option permits reseting the warnings to the default, IE make the warning happen. Warnings may be selectivly enabled."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:732(para)
+#: Help_ch_GUIMenus.xml:2462(para)
+#: Help_ch_GUIMenus.xml:3950(para)
+#, fuzzy
+msgid "Rename Page"
+msgstr "Μετονομασία αυτής της σελίδας."
+
+#: Help_ch_GUIMenus.xml:735(para)
+#: Help_ch_GUIMenus.xml:2465(para)
+#: Help_ch_GUIMenus.xml:3953(para)
+msgid "Open the form to rename the current page/tab."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:744(title)
+#, fuzzy
+msgid "Account Tree - Business Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:747(title)
+#: Help_ch_GUIMenus.xml:2477(title)
+#: Help_ch_GUIMenus.xml:3965(title)
+msgid "Business Menu - Access small business features of GnuCash."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:765(para)
+#, fuzzy
+msgid "Customer -&gt;"
+msgstr "Σημαντικός Πελάτης"
+
+#: Help_ch_GUIMenus.xml:768(para)
+#: Help_ch_GUIMenus.xml:2499(para)
+#: Help_ch_GUIMenus.xml:3987(para)
+msgid "Select customer related activities."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:773(para)
+#: Help_ch_GUIMenus.xml:2504(para)
+#: Help_ch_GUIMenus.xml:3992(para)
+#, fuzzy
+msgid "New Customer..."
+msgstr "Νέος πελάτης"
+
+#: Help_ch_GUIMenus.xml:776(para)
+#: Help_ch_GUIMenus.xml:2507(para)
+#: Help_ch_GUIMenus.xml:3995(para)
+msgid "Start the form to create a new customer."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:781(para)
+#: Help_ch_GUIMenus.xml:2512(para)
+#: Help_ch_GUIMenus.xml:4000(para)
+#, fuzzy
+msgid "Find Customer..."
+msgstr "Εύρεση πελάτη"
+
+#: Help_ch_GUIMenus.xml:784(para)
+#: Help_ch_GUIMenus.xml:2515(para)
+#: Help_ch_GUIMenus.xml:4003(para)
+msgid "Start the druid to search for a customer."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:789(para)
+#: Help_ch_GUIMenus.xml:2520(para)
+#: Help_ch_GUIMenus.xml:4008(para)
+#, fuzzy
+msgid "New Invoice..."
+msgstr "Νέο τιμολόγιο"
+
+#: Help_ch_GUIMenus.xml:792(para)
+#: Help_ch_GUIMenus.xml:2523(para)
+#: Help_ch_GUIMenus.xml:4011(para)
+msgid "Start the form to create a new invoice."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:797(para)
+#: Help_ch_GUIMenus.xml:2528(para)
+#: Help_ch_GUIMenus.xml:4016(para)
+#, fuzzy
+msgid "Find Invoice..."
+msgstr "Εύρεση τιμολογίου"
+
+#: Help_ch_GUIMenus.xml:800(para)
+#: Help_ch_GUIMenus.xml:2531(para)
+#: Help_ch_GUIMenus.xml:4019(para)
+msgid "Start the druid to search for a invoice."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:805(para)
+#: Help_ch_GUIMenus.xml:869(para)
+#: Help_ch_GUIMenus.xml:2536(para)
+#: Help_ch_GUIMenus.xml:2600(para)
+#: Help_ch_GUIMenus.xml:4024(para)
+#: Help_ch_GUIMenus.xml:4088(para)
+#, fuzzy
+msgid "New Job..."
+msgstr "Νέα εργασία"
+
+#: Help_ch_GUIMenus.xml:808(para)
+#: Help_ch_GUIMenus.xml:872(para)
+#: Help_ch_GUIMenus.xml:2539(para)
+#: Help_ch_GUIMenus.xml:2603(para)
+#: Help_ch_GUIMenus.xml:4027(para)
+#: Help_ch_GUIMenus.xml:4091(para)
+msgid "Start the form to create a new job."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:813(para)
+#: Help_ch_GUIMenus.xml:877(para)
+#: Help_ch_GUIMenus.xml:2544(para)
+#: Help_ch_GUIMenus.xml:2608(para)
+#: Help_ch_GUIMenus.xml:4032(para)
+#: Help_ch_GUIMenus.xml:4096(para)
+#, fuzzy
+msgid "Find Job..."
+msgstr "Εύρεση εργασίας"
+
+#: Help_ch_GUIMenus.xml:816(para)
+#: Help_ch_GUIMenus.xml:880(para)
+#: Help_ch_GUIMenus.xml:2547(para)
+#: Help_ch_GUIMenus.xml:2611(para)
+#: Help_ch_GUIMenus.xml:4035(para)
+#: Help_ch_GUIMenus.xml:4099(para)
+msgid "Start the druid to search for a job."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:821(para)
+#: Help_ch_GUIMenus.xml:885(para)
+#: Help_ch_GUIMenus.xml:933(para)
+#: Help_ch_GUIMenus.xml:2552(para)
+#: Help_ch_GUIMenus.xml:2616(para)
+#: Help_ch_GUIMenus.xml:2664(para)
+#: Help_ch_GUIMenus.xml:4040(para)
+#: Help_ch_GUIMenus.xml:4104(para)
+#: Help_ch_GUIMenus.xml:4152(para)
+#, fuzzy
+msgid "Process Payment..."
+msgstr "Διαδικασία Πληρωμής"
+
+#: Help_ch_GUIMenus.xml:824(para)
+#: Help_ch_GUIMenus.xml:888(para)
+#: Help_ch_GUIMenus.xml:936(para)
+#: Help_ch_GUIMenus.xml:2555(para)
+#: Help_ch_GUIMenus.xml:2619(para)
+#: Help_ch_GUIMenus.xml:2667(para)
+#: Help_ch_GUIMenus.xml:4043(para)
+#: Help_ch_GUIMenus.xml:4107(para)
+#: Help_ch_GUIMenus.xml:4155(para)
+msgid "Starts the Process Payment druid. Requires an account of type \"A/Payable\" before running druid."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:829(para)
+#: Help_ch_GUIMenus.xml:2560(para)
+#: Help_ch_GUIMenus.xml:4048(para)
+#, fuzzy
+msgid "Vendor -&gt;"
+msgstr "Ετικέτα κατασκευαστή:"
+
+#: Help_ch_GUIMenus.xml:832(para)
+#: Help_ch_GUIMenus.xml:2563(para)
+#: Help_ch_GUIMenus.xml:4051(para)
+msgid "Select vendor related activities."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:837(para)
+#: Help_ch_GUIMenus.xml:2568(para)
+#: Help_ch_GUIMenus.xml:4056(para)
+#, fuzzy
+msgid "New Vendor..."
+msgstr "Νέος προμηθευτής"
+
+#: Help_ch_GUIMenus.xml:840(para)
+#: Help_ch_GUIMenus.xml:2571(para)
+#: Help_ch_GUIMenus.xml:4059(para)
+msgid "Start the form to create a new vendor."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:845(para)
+#: Help_ch_GUIMenus.xml:2576(para)
+#: Help_ch_GUIMenus.xml:4064(para)
+#, fuzzy
+msgid "Find Vendor..."
+msgstr "Εύρεση προμηθευτή"
+
+#: Help_ch_GUIMenus.xml:848(para)
+#: Help_ch_GUIMenus.xml:2579(para)
+#: Help_ch_GUIMenus.xml:4067(para)
+msgid "Start the druid to search for a vendor."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:853(para)
+#: Help_ch_GUIMenus.xml:2584(para)
+#: Help_ch_GUIMenus.xml:4072(para)
+#, fuzzy
+msgid "New Bill..."
+msgstr "Νέο τιμολόγιο αγορών"
+
+#: Help_ch_GUIMenus.xml:856(para)
+#: Help_ch_GUIMenus.xml:2587(para)
+#: Help_ch_GUIMenus.xml:4075(para)
+msgid "Start the form to create a new bill."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:861(para)
+#: Help_ch_GUIMenus.xml:2592(para)
+#: Help_ch_GUIMenus.xml:4080(para)
+#, fuzzy
+msgid "Find Bill..."
+msgstr "Εύρεση τιμολογίου αγοράς"
+
+#: Help_ch_GUIMenus.xml:864(para)
+#: Help_ch_GUIMenus.xml:2595(para)
+#: Help_ch_GUIMenus.xml:4083(para)
+msgid "Start the druid to search for a bill."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:893(para)
+#: Help_ch_GUIMenus.xml:2624(para)
+#: Help_ch_GUIMenus.xml:4112(para)
+#, fuzzy
+msgid "Employee -&gt;"
+msgstr "Επεξεργασία υπαλλήλου"
+
+#: Help_ch_GUIMenus.xml:896(para)
+#: Help_ch_GUIMenus.xml:2627(para)
+#: Help_ch_GUIMenus.xml:4115(para)
+msgid "Select employee related activities."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:901(para)
+#: Help_ch_GUIMenus.xml:2632(para)
+#: Help_ch_GUIMenus.xml:4120(para)
+#, fuzzy
+msgid "New Employee..."
+msgstr "Νέος υπάλληλος"
+
+#: Help_ch_GUIMenus.xml:904(para)
+#: Help_ch_GUIMenus.xml:2635(para)
+#: Help_ch_GUIMenus.xml:4123(para)
+msgid "Start the form to create a new employee."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:909(para)
+#: Help_ch_GUIMenus.xml:2640(para)
+#: Help_ch_GUIMenus.xml:4128(para)
+#, fuzzy
+msgid "Find Employee..."
+msgstr "Εύρεση υπαλλήλου"
+
+#: Help_ch_GUIMenus.xml:912(para)
+#: Help_ch_GUIMenus.xml:2643(para)
+#: Help_ch_GUIMenus.xml:4131(para)
+msgid "Start the druid to search for a employee."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:917(para)
+#: Help_ch_GUIMenus.xml:2648(para)
+#: Help_ch_GUIMenus.xml:4136(para)
+#, fuzzy
+msgid "New Expense Voucher..."
+msgstr "Νέο παραστατικό δαπάνης"
+
+#: Help_ch_GUIMenus.xml:920(para)
+#: Help_ch_GUIMenus.xml:2651(para)
+#: Help_ch_GUIMenus.xml:4139(para)
+msgid "Start the form to create a new expense voucher."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:925(para)
+#: Help_ch_GUIMenus.xml:2656(para)
+#: Help_ch_GUIMenus.xml:4144(para)
+#, fuzzy
+msgid "Find Expense Voucher..."
+msgstr "Εύρεση Παραστατικού Δαπάνης"
+
+#: Help_ch_GUIMenus.xml:928(para)
+#: Help_ch_GUIMenus.xml:2659(para)
+#: Help_ch_GUIMenus.xml:4147(para)
+msgid "Start the druid to search for a expense voucher."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:941(para)
+#: Help_ch_GUIMenus.xml:2672(para)
+#: Help_ch_GUIMenus.xml:4160(para)
+#, fuzzy
+msgid "Tax Table Editor"
+msgstr "Διορθωτής πίνακα _φόρου"
+
+#: Help_ch_GUIMenus.xml:944(para)
+#: Help_ch_GUIMenus.xml:2675(para)
+#: Help_ch_GUIMenus.xml:4163(para)
+#, fuzzy
+msgid "View and edit the list of tax tables."
+msgstr "Προβολή και επεξεργασία της λίστας των Πινάκων Φόρου"
+
+#: Help_ch_GUIMenus.xml:948(para)
+#: Help_ch_GUIMenus.xml:2679(para)
+#: Help_ch_GUIMenus.xml:4167(para)
+#, fuzzy
+msgid "Billing Terms Editor"
+msgstr "Επεξεργασία όρων _συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:951(para)
+#: Help_ch_GUIMenus.xml:2682(para)
+#: Help_ch_GUIMenus.xml:4170(para)
+#, fuzzy
+msgid "View and edit the list of Billing Terms."
+msgstr "Προβολή και επεξεργασία της λίστας των Όρων Συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:955(para)
+#: Help_ch_GUIMenus.xml:2686(para)
+#: Help_ch_GUIMenus.xml:4174(para)
+#, fuzzy
+msgid "Bills Due Reminder"
+msgstr "Υπομνήσεις _ληγμένων λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:958(para)
+#: Help_ch_GUIMenus.xml:2689(para)
+#: Help_ch_GUIMenus.xml:4177(para)
+msgid "View and edit the list of Bills Due Reminder."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:969(para)
+#: Help_ch_GUIMenus.xml:2700(para)
+#: Help_ch_GUIMenus.xml:4188(para)
+#, fuzzy
+msgid "QSF Invoice..."
+msgstr "_Τιμολόγιο QSF..."
+
+#: Help_ch_GUIMenus.xml:972(para)
+#: Help_ch_GUIMenus.xml:2703(para)
+#: Help_ch_GUIMenus.xml:4191(para)
+#, fuzzy
+msgid "Export one or more Invoice(s) to QSF."
+msgstr "Εξαγωγή ενός ή περισσοτέρων τιμολογίων σε QSF"
+
+#: Help_ch_GUIMenus.xml:976(para)
+#: Help_ch_GUIMenus.xml:2707(para)
+#: Help_ch_GUIMenus.xml:4195(para)
+#, fuzzy
+msgid "QSF Customer..."
+msgstr "_Πελάτης QSF..."
+
+#: Help_ch_GUIMenus.xml:979(para)
+#: Help_ch_GUIMenus.xml:2710(para)
+#: Help_ch_GUIMenus.xml:4198(para)
+#, fuzzy
+msgid "Export one or more Customer(s) to QSF."
+msgstr "Εξαγωγή ενός ή περισσοτέρων τιμολογίων σε QSF"
+
+#: Help_ch_GUIMenus.xml:983(para)
+#: Help_ch_GUIMenus.xml:2714(para)
+#: Help_ch_GUIMenus.xml:4202(para)
+#, fuzzy
+msgid "QSF Vendor..."
+msgstr "Π_ρομηθευτής QSF..."
+
+#: Help_ch_GUIMenus.xml:986(para)
+#: Help_ch_GUIMenus.xml:2717(para)
+#: Help_ch_GUIMenus.xml:4205(para)
+#, fuzzy
+msgid "Export one or more Vendor(s) to QSF."
+msgstr "Εξαγωγή ενός ή περισσοτέρων τιμολογίων σε QSF"
+
+#: Help_ch_GUIMenus.xml:990(para)
+#: Help_ch_GUIMenus.xml:2721(para)
+#: Help_ch_GUIMenus.xml:4209(para)
+#, fuzzy
+msgid "QSF Employee..."
+msgstr "_Υπάλληλος QSF..."
+
+#: Help_ch_GUIMenus.xml:993(para)
+#: Help_ch_GUIMenus.xml:2724(para)
+#: Help_ch_GUIMenus.xml:4212(para)
+#, fuzzy
+msgid "Export one or more Employee(s) to QSF."
+msgstr "Εξαγωγή ενός ή περισσοτέρων τιμολογίων σε QSF"
+
+#: Help_ch_GUIMenus.xml:1001(title)
+#, fuzzy
+msgid "Account Tree - Reports Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:1003(para)
+msgid "This is only a brief listing of each of the available reports and graphs. Each report or graph may be customized by the <guilabel>Options</guilabel> Icon and the \"Stylesheet\" used."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1008(title)
+#: Help_ch_GUIMenus.xml:2739(title)
+#: Help_ch_GUIMenus.xml:4227(title)
+msgid "Reports Menu - Access GnuCash Reports and Charts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1027(para)
+#: Help_ch_GUIMenus.xml:2758(para)
+#: Help_ch_GUIMenus.xml:4246(para)
+#, fuzzy
+msgid "Account Summary"
+msgstr "Περίληψη λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:1030(para)
+#: Help_ch_GUIMenus.xml:2761(para)
+#: Help_ch_GUIMenus.xml:4249(para)
+#, fuzzy
+msgid "Report showing the balance of selected accounts."
+msgstr "Η αναφορά απαιτεί να έχουν επιλεγεί λογαριασμοί."
+
+#: Help_ch_GUIMenus.xml:1035(para)
+#: Help_ch_GUIMenus.xml:2766(para)
+#: Help_ch_GUIMenus.xml:4254(para)
+#, fuzzy
+msgid "Assets &amp; Liabilities -&gt;"
+msgstr "Προβολή παθητικού και καθαρής θέσης κάτω από το ενεργητικό"
+
+#: Help_ch_GUIMenus.xml:1043(para)
+#: Help_ch_GUIMenus.xml:2774(para)
+#: Help_ch_GUIMenus.xml:4262(para)
+#, fuzzy
+msgid "Advanced Portfolio"
+msgstr "Προχωρημένο χαρτοφυλάκιο"
+
+#: Help_ch_GUIMenus.xml:1051(para)
+#: Help_ch_GUIMenus.xml:2782(para)
+#: Help_ch_GUIMenus.xml:4270(para)
+#, fuzzy
+msgid "Asset Bar chart"
+msgstr "Ανάγνωση κομματιού διαγράμματος"
+
+#: Help_ch_GUIMenus.xml:1059(para)
+#: Help_ch_GUIMenus.xml:2790(para)
+#: Help_ch_GUIMenus.xml:4278(para)
+#, fuzzy
+msgid "Asset Pie chart"
+msgstr "Ανάγνωση κομματιού διαγράμματος"
+
+#: Help_ch_GUIMenus.xml:1067(para)
+#: Help_ch_GUIMenus.xml:2798(para)
+#: Help_ch_GUIMenus.xml:4286(para)
+#, fuzzy
+msgid "Average Balance"
+msgstr "Μέσο Υπόλοιπο"
+
+#: Help_ch_GUIMenus.xml:1075(para)
+#: Help_ch_GUIMenus.xml:2806(para)
+#: Help_ch_GUIMenus.xml:4294(para)
+msgid "Balance Sheet"
+msgstr "Ισολογισμός"
+
+#: Help_ch_GUIMenus.xml:1083(para)
+#: Help_ch_GUIMenus.xml:2814(para)
+#: Help_ch_GUIMenus.xml:4302(para)
+#, fuzzy
+msgid "General Journal"
+msgstr "Γενικό ημερολόγιο"
+
+#: Help_ch_GUIMenus.xml:1091(para)
+#: Help_ch_GUIMenus.xml:1417(para)
+#: Help_ch_GUIMenus.xml:2822(para)
+#: Help_ch_GUIMenus.xml:3163(para)
+#: Help_ch_GUIMenus.xml:4310(para)
+#: Help_ch_GUIMenus.xml:4629(para)
+#, fuzzy
+msgid "General Ledger"
+msgstr "Γενικό Καθολικό"
+
+#: Help_ch_GUIMenus.xml:1100(para)
+#: Help_ch_GUIMenus.xml:2830(para)
+#: Help_ch_GUIMenus.xml:4318(para)
+#, fuzzy
+msgid "Investment Portfolio"
+msgstr "Επενδυτικό χαρτοφυλάκιο"
+
+#: Help_ch_GUIMenus.xml:1108(para)
+#: Help_ch_GUIMenus.xml:2838(para)
+#: Help_ch_GUIMenus.xml:4326(para)
+#, fuzzy
+msgid "Liability Bar chart"
+msgstr "Ανάγνωση κομματιού διαγράμματος"
+
+#: Help_ch_GUIMenus.xml:1116(para)
+#: Help_ch_GUIMenus.xml:2846(para)
+#: Help_ch_GUIMenus.xml:4334(para)
+#, fuzzy
+msgid "Liability Pie chart"
+msgstr "Ανάγνωση κομματιού διαγράμματος"
+
+#: Help_ch_GUIMenus.xml:1124(para)
+#: Help_ch_GUIMenus.xml:2854(para)
+#: Help_ch_GUIMenus.xml:4342(para)
+#, fuzzy
+msgid "Net Worth Bar chart"
+msgstr "Εμφάνιση ακίδας Καθαρής Θέσης;"
+
+#: Help_ch_GUIMenus.xml:1132(para)
+#: Help_ch_GUIMenus.xml:2862(para)
+#: Help_ch_GUIMenus.xml:4350(para)
+#, fuzzy
+msgid "Price Scatter plot"
+msgstr "Προσθήκη νέας τιμής."
+
+#: Help_ch_GUIMenus.xml:1139(para)
+#: Help_ch_GUIMenus.xml:2869(para)
+#: Help_ch_GUIMenus.xml:4357(para)
+#, fuzzy
+msgid "Business Reports -&gt;"
+msgstr "Το όνομα της εταιρίας σας"
+
+#: Help_ch_GUIMenus.xml:1147(para)
+#: Help_ch_GUIMenus.xml:2877(para)
+#: Help_ch_GUIMenus.xml:4365(para)
+#, fuzzy
+msgid "Customer Report"
+msgstr "Αναφορά πελάτη"
+
+#: Help_ch_GUIMenus.xml:1155(para)
+#: Help_ch_GUIMenus.xml:2885(para)
+#: Help_ch_GUIMenus.xml:4373(para)
+#, fuzzy
+msgid "Easy Invoice"
+msgstr "Νέο τιμολόγιο"
+
+#: Help_ch_GUIMenus.xml:1163(para)
+#: Help_ch_GUIMenus.xml:2893(para)
+#: Help_ch_GUIMenus.xml:4381(para)
+#, fuzzy
+msgid "Employee Report"
+msgstr "Αναφορά υπαλλήλου"
+
+#: Help_ch_GUIMenus.xml:1171(para)
+#: Help_ch_GUIMenus.xml:2901(para)
+#: Help_ch_GUIMenus.xml:4389(para)
+#, fuzzy
+msgid "Fancy Invoice"
+msgstr "Φανταχτερό τιμολόγιο"
+
+#: Help_ch_GUIMenus.xml:1179(para)
+#: Help_ch_GUIMenus.xml:2909(para)
+#: Help_ch_GUIMenus.xml:4397(para)
+#, fuzzy
+msgid "Payable Aging"
+msgstr "Καθυστερήσεις πληρωμών"
+
+#: Help_ch_GUIMenus.xml:1187(para)
+#: Help_ch_GUIMenus.xml:2917(para)
+#: Help_ch_GUIMenus.xml:4405(para)
+#, fuzzy
+msgid "Printable Invoice"
+msgstr "Εκτυπώσιμο τιμολόγιο"
+
+#: Help_ch_GUIMenus.xml:1195(para)
+#: Help_ch_GUIMenus.xml:2925(para)
+#: Help_ch_GUIMenus.xml:4413(para)
+#, fuzzy
+msgid "Receivable Aging"
+msgstr "Καθυστερήσεις εισπράξεων"
+
+#: Help_ch_GUIMenus.xml:1203(para)
+#: Help_ch_GUIMenus.xml:2933(para)
+#: Help_ch_GUIMenus.xml:4421(para)
+#, fuzzy
+msgid "Vendor Report"
+msgstr "Αναφορά προμηθευτή"
+
+#: Help_ch_GUIMenus.xml:1210(para)
+#: Help_ch_GUIMenus.xml:2940(para)
+#: Help_ch_GUIMenus.xml:4428(para)
+#, fuzzy
+msgid "Income &amp; Expense -&gt;"
+msgstr "Κατηγορίες εσόδων και εξόδων"
+
+#: Help_ch_GUIMenus.xml:1218(para)
+#: Help_ch_GUIMenus.xml:2948(para)
+#: Help_ch_GUIMenus.xml:4436(para)
+#, fuzzy
+msgid "Budget Report"
+msgstr "Αναφορά προϋπολογισμού"
+
+#: Help_ch_GUIMenus.xml:1226(para)
+#: Help_ch_GUIMenus.xml:2956(para)
+#: Help_ch_GUIMenus.xml:4444(para)
+#, fuzzy
+msgid "Cash Flow"
+msgstr "Ταμειακή ροή"
+
+#: Help_ch_GUIMenus.xml:1234(para)
+#: Help_ch_GUIMenus.xml:2964(para)
+#: Help_ch_GUIMenus.xml:4452(para)
+#, fuzzy
+msgid "Equity Statement"
+msgstr "Include Statement"
+
+#: Help_ch_GUIMenus.xml:1242(para)
+#: Help_ch_GUIMenus.xml:2972(para)
+#: Help_ch_GUIMenus.xml:4460(para)
+#, fuzzy
+msgid "Expense Bar chart"
+msgstr "Διάγραμμα Εσόδων/Εξόδων"
+
+#: Help_ch_GUIMenus.xml:1250(para)
+#: Help_ch_GUIMenus.xml:2980(para)
+#: Help_ch_GUIMenus.xml:4468(para)
+#, fuzzy
+msgid "Expense Pie chart"
+msgstr "Διάγραμμα Εσόδων/Εξόδων"
+
+#: Help_ch_GUIMenus.xml:1258(para)
+#: Help_ch_GUIMenus.xml:2988(para)
+#: Help_ch_GUIMenus.xml:4476(para)
+#, fuzzy
+msgid "Expense vs Day of Week"
+msgstr "Έσοδα ανά ημέρα εβδομάδας"
+
+#: Help_ch_GUIMenus.xml:1266(para)
+#: Help_ch_GUIMenus.xml:2996(para)
+#: Help_ch_GUIMenus.xml:4484(para)
+#, fuzzy
+msgid "Income Bar chart"
+msgstr "Διάγραμμα Εσόδων/Εξόδων"
+
+#: Help_ch_GUIMenus.xml:1274(para)
+#: Help_ch_GUIMenus.xml:3004(para)
+#: Help_ch_GUIMenus.xml:4492(para)
+#, fuzzy
+msgid "Income &amp; Expense Chart"
+msgstr "Κατηγορίες εσόδων και εξόδων"
+
+#: Help_ch_GUIMenus.xml:1282(para)
+#: Help_ch_GUIMenus.xml:3012(para)
+#: Help_ch_GUIMenus.xml:4500(para)
+#, fuzzy
+msgid "Income Pie chart"
+msgstr "Διάγραμμα Εσόδων/Εξόδων"
+
+#: Help_ch_GUIMenus.xml:1290(para)
+#: Help_ch_GUIMenus.xml:3020(para)
+#: Help_ch_GUIMenus.xml:4508(para)
+#, fuzzy
+msgid "Income Statement"
+msgstr "Κατάσταση εσόδων εξόδων"
+
+#: Help_ch_GUIMenus.xml:1298(para)
+#: Help_ch_GUIMenus.xml:3028(para)
+#: Help_ch_GUIMenus.xml:4516(para)
+#, fuzzy
+msgid "Income vs Day of Week"
+msgstr "Έσοδα ανά ημέρα εβδομάδας"
+
+#: Help_ch_GUIMenus.xml:1306(para)
+#: Help_ch_GUIMenus.xml:3036(para)
+#: Help_ch_GUIMenus.xml:4524(para)
+#, fuzzy
+msgid "Trial Balance"
+msgstr "Προσωρινό ισοζύγιο"
+
+#: Help_ch_GUIMenus.xml:1314(para)
+#: Help_ch_GUIMenus.xml:3044(para)
+#: Help_ch_GUIMenus.xml:4532(para)
+#, fuzzy
+msgid "Sample &amp; Custom -&gt;"
+msgstr "Το ύψος του προσαρμοσμένου ταμπλό, 101 &gt; ύψος &gt; 3."
+
+#: Help_ch_GUIMenus.xml:1322(para)
+#: Help_ch_GUIMenus.xml:3051(para)
+#: Help_ch_GUIMenus.xml:4539(para)
+#, fuzzy
+msgid "Custom Multicolumn Report"
+msgstr "Προσαρμοσμένη προβολή πολλαπλών στηλών"
+
+#: Help_ch_GUIMenus.xml:1330(para)
+#: Help_ch_GUIMenus.xml:3059(para)
+#: Help_ch_GUIMenus.xml:4547(para)
+#, fuzzy
+msgid "Sample Graphs"
+msgstr "Ρυθμός δειγματοληψίας:"
+
+#: Help_ch_GUIMenus.xml:1338(para)
+#: Help_ch_GUIMenus.xml:3067(para)
+#: Help_ch_GUIMenus.xml:4555(para)
+#, fuzzy
+msgid "Sample Report With Examples"
+msgstr "Δείγμα αναφοράς με παραδείγματα"
+
+#: Help_ch_GUIMenus.xml:1346(para)
+#: Help_ch_GUIMenus.xml:3075(para)
+#: Help_ch_GUIMenus.xml:4563(para)
+#, fuzzy
+msgid "Welcome Sample Report"
+msgstr "Εισαγωγικό δείγμα αναφοράς"
+
+#: Help_ch_GUIMenus.xml:1354(para)
+#: Help_ch_GUIMenus.xml:3083(para)
+#: Help_ch_GUIMenus.xml:4571(para)
+msgid "Tax Schedule Report &amp; TXF Export"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1357(para)
+#: Help_ch_GUIMenus.xml:3086(para)
+#: Help_ch_GUIMenus.xml:4574(para)
+msgid "Create a Tax report (US) and/or export data for tax preparation software. (TXF)"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1363(para)
+#: Help_ch_GUIMenus.xml:3092(para)
+#: Help_ch_GUIMenus.xml:4580(para)
+#, fuzzy
+msgid "Transaction Report"
+msgstr "Αναφορά συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:1374(title)
+#, fuzzy
+msgid "Account Tree - Tools Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:1377(title)
+#: Help_ch_GUIMenus.xml:3122(title)
+#: Help_ch_GUIMenus.xml:4595(title)
+msgid "Tools Menu - Access to miscellaneous tools and editors"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1390(para)
+#: Help_ch_GUIMenus.xml:3136(para)
+#, fuzzy
+msgid "Online Banking Setup ..."
+msgstr "Ρύθμιση _Online Banking..."
+
+#: Help_ch_GUIMenus.xml:1392(para)
+#: Help_ch_GUIMenus.xml:3138(para)
+msgid "Starts \"On-line\" banking setup wizard, if GnuCash was built to support on-line banking. <xref linkend=\"tools-on-line-banking\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1397(para)
+#: Help_ch_GUIMenus.xml:3143(para)
+#: Help_ch_GUIMenus.xml:4609(para)
+#, fuzzy
+msgid "Price Editor"
+msgstr "Διορθωτής τιμών"
+
+#: Help_ch_GUIMenus.xml:1399(para)
+#: Help_ch_GUIMenus.xml:3145(para)
+#: Help_ch_GUIMenus.xml:4611(para)
+msgid "Tool to enter or modify Stock/Fund prices. Details at <xref linkend=\"tool-price\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1404(para)
+#: Help_ch_GUIMenus.xml:3150(para)
+#: Help_ch_GUIMenus.xml:4616(para)
+#, fuzzy
+msgid "Security Editor"
+msgstr "Επεξεργασία _χρεογράφων"
+
+#: Help_ch_GUIMenus.xml:1406(para)
+#: Help_ch_GUIMenus.xml:3152(para)
+#: Help_ch_GUIMenus.xml:4618(para)
+msgid "Tool to enter or modify Stock or commodities. Details at <xref linkend=\"tool-security-edit\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1411(para)
+#: Help_ch_GUIMenus.xml:3157(para)
+#: Help_ch_GUIMenus.xml:4623(para)
+msgid "Financial Calculator"
+msgstr "Οικονομική αριθμομηχανή"
+
+#: Help_ch_GUIMenus.xml:1413(para)
+#: Help_ch_GUIMenus.xml:3159(para)
+#: Help_ch_GUIMenus.xml:4625(para)
+msgid "Details at <xref linkend=\"tool-calc\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1419(para)
+#: Help_ch_GUIMenus.xml:2825(para)
+#: Help_ch_GUIMenus.xml:3165(para)
+#: Help_ch_GUIMenus.xml:4313(para)
+#: Help_ch_GUIMenus.xml:4631(para)
+msgid "See <xref linkend=\"general-ledger\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1427(title)
+#: Help_ch_GUIMenus.xml:1430(title)
+#, fuzzy
+msgid "Account Tree - Windows Menu"
+msgstr "Το δέντρο μενού είναι κενό"
+
+#: Help_ch_GUIMenus.xml:1443(para)
+#: Help_ch_GUIMenus.xml:3189(para)
+#: Help_ch_GUIMenus.xml:4655(para)
+#, fuzzy
+msgid "New Window"
+msgstr "Νέο παράθυρο"
+
+#: Help_ch_GUIMenus.xml:1445(para)
+#: Help_ch_GUIMenus.xml:3191(para)
+#: Help_ch_GUIMenus.xml:4657(para)
+msgid "Opens a new GnuCash window, window is empty."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1449(para)
+#: Help_ch_GUIMenus.xml:3195(para)
+#: Help_ch_GUIMenus.xml:4661(para)
+#, fuzzy
+msgid "New Window with Page"
+msgstr "Νέο παράθυρο με _σελίδα"
+
+#: Help_ch_GUIMenus.xml:1451(para)
+#: Help_ch_GUIMenus.xml:3197(para)
+#: Help_ch_GUIMenus.xml:4663(para)
+msgid "Opens the current tab in a new window, moves the tab to the new window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1466(title)
+#: Help_ch_GUIMenus.xml:3206(title)
+#: Help_ch_GUIMenus.xml:4672(title)
+#, fuzzy
+msgid "Help Menu"
+msgstr "αποσπώμενο μενού"
+
+#: Help_ch_GUIMenus.xml:1469(title)
+msgid "Account Tree - Help Menu - Access to this help and the Tutorial and Concepts Guide."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1483(para)
+#: Help_ch_GUIMenus.xml:3223(para)
+#: Help_ch_GUIMenus.xml:4689(para)
+#, fuzzy
+msgid "Tutorial &amp; Concepts Guide"
+msgstr "_Οδηγός εκμάθησης "
+
+#: Help_ch_GUIMenus.xml:1485(para)
+#: Help_ch_GUIMenus.xml:3225(para)
+#: Help_ch_GUIMenus.xml:4691(para)
+msgid "Detailed document \"How to\" in GnuCash"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1489(para)
+#: Help_ch_GUIMenus.xml:3229(para)
+#: Help_ch_GUIMenus.xml:4695(para)
+#, fuzzy
+msgid "Tips Of The Day"
+msgstr "_Συμβουλή της ημέρας"
+
+#: Help_ch_GUIMenus.xml:1491(para)
+#, fuzzy
+msgid "Display Tip of Day."
+msgstr "Εμφάνιση παραθύρου \"_συμβουλής της ημέρας\""
+
+#: Help_ch_GUIMenus.xml:1495(para)
+#: Help_ch_GUIMenus.xml:3236(para)
+#: Help_ch_GUIMenus.xml:4702(para)
+msgid "Contents"
+msgstr "Περιεχόμενα"
+
+#: Help_ch_GUIMenus.xml:1497(para)
+#: Help_ch_GUIMenus.xml:3238(para)
+#: Help_ch_GUIMenus.xml:4704(para)
+#, fuzzy
+msgid "Display this Help file"
+msgstr "Αδυναμία προβολής αρχείου βοήθειας"
+
+#: Help_ch_GUIMenus.xml:1501(para)
+#: Help_ch_GUIMenus.xml:3242(para)
+#: Help_ch_GUIMenus.xml:4708(para)
+#, fuzzy
+msgid "About"
+msgstr "Περί"
+
+#: Help_ch_GUIMenus.xml:1503(para)
+#: Help_ch_GUIMenus.xml:3244(para)
+#: Help_ch_GUIMenus.xml:4710(para)
+msgid "Display version, License and Credits"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1514(title)
+msgid "Account Tree - Tool Bar Icons/Buttons"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1518(para)
+msgid "The GnuCash main Window has a number of Icons/Buttons in tool bar to quickly access some common functions used with the specific active tab. The Tool Bar can be hidden or shown by selecting the Toolbar item on the View menu. The specific options displayed in the tool bar varies by the functions available to the \"active tab\"."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1524(para)
+#: Help_ch_GUIMenus.xml:3262(para)
+msgid "A brief description of the function of an icon is displayed when the mouse pointer is placed over the icon for a couple of seconds."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1529(title)
+msgid "Account Tree - Window Tool Bar"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1534(para)
+#: Help_ch_GUIMenus.xml:3274(para)
+#, fuzzy
+msgid "Tool Bar Icons"
+msgstr "Στυλ εργαλειο_θήκης"
+
+#: Help_ch_GUIMenus.xml:1542(para)
+#: Help_ch_GUIMenus.xml:3282(para)
+#: Help_ch_GUIMenus.xml:4739(para)
+#: Help_ch_GUIMenus.xml:5275(para)
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: Help_ch_GUIMenus.xml:1544(para)
+#: Help_ch_GUIMenus.xml:3284(para)
+msgid "Perform a save on the data file, commit all transactions to the data file."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1549(para)
+#: Help_ch_GUIMenus.xml:1929(para)
+#: Help_ch_GUIMenus.xml:3289(para)
+#: Help_ch_GUIMenus.xml:3713(para)
+#: Help_ch_GUIMenus.xml:4745(para)
+#: Help_ch_GUIMenus.xml:5281(para)
+#, fuzzy
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: Help_ch_GUIMenus.xml:1551(para)
+msgid "This icon is not available for the first Accounts tab, it is available for additional Account Tree displays."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1556(para)
+#: Help_ch_GUIMenus.xml:5091(para)
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: Help_ch_GUIMenus.xml:1558(para)
+msgid "Open a transaction register of the selected account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1562(para)
+#: Help_ch_GUIMenus.xml:5015(para)
+#: Help_ch_GUIMenus.xml:5079(para)
+#: Help_ch_GUIMenus.xml:5221(para)
+#: Help_ch_GUIMenus.xml:5263(para)
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: Help_ch_GUIMenus.xml:1564(para)
+msgid "Edit the characteristics for the selected account. <xref linkend=\"acct-edit\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1569(para)
+#: Help_ch_GUIMenus.xml:5009(para)
+#: Help_ch_GUIMenus.xml:5073(para)
+#: Help_ch_GUIMenus.xml:5215(para)
+#: Help_ch_GUIMenus.xml:5257(para)
+msgid "New"
+msgstr "Νέο"
+
+#: Help_ch_GUIMenus.xml:1571(para)
+msgid "Start the druid for creating a new account. <xref linkend=\"acct-create\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1575(para)
+#: Help_ch_GUIMenus.xml:3301(para)
+#: Help_ch_GUIMenus.xml:5021(para)
+#: Help_ch_GUIMenus.xml:5085(para)
+#: Help_ch_GUIMenus.xml:5227(para)
+#: Help_ch_GUIMenus.xml:5269(para)
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: Help_ch_GUIMenus.xml:1577(para)
+msgid "Remove the selected account. <xref linkend=\"acct-delete\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1585(title)
+#: Help_ch_GUIMenus.xml:3366(title)
+#: Help_ch_GUIMenus.xml:4787(title)
+#, fuzzy
+msgid "Tab Bar"
+msgstr "Να εμφανίζεται πάντα η εργαλειοθήκη καρτέλας"
+
+#: Help_ch_GUIMenus.xml:1587(para)
+msgid "The Tab Bar displays \"file/notebook folder\" style tabs for open transaction registers, and reports."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1593(title)
+#, fuzzy
+msgid "Account Tree - Display"
+msgstr "Εμφάνιση δέντρου_διεργασίας"
+
+#: Help_ch_GUIMenus.xml:1595(para)
+msgid "The Account Tree displays the list of your accounts in hierarchical format. This enables you to organize your accounts by account type."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1599(para)
+msgid "The triangle shape beside the account name is used to open and close the account tree. When you click on the triangle, it changes from right pointing into a down pointing sign to indicate that the tree is opened. You will then see offset below the account name either a list of the sub account(s) or another triangle to the left of an account. This indicates another lower level of the account tree."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1606(para)
+msgid "The default display for the Account Tree Window is in Notebook mode. This is indicated by the tab in the Tab row of the main window. Other tabs will appear beside this one when you open reports, Account Registers or additional Account Trees."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1616(para)
+#: Help_ch_GUIMenus.xml:3391(para)
+#: Help_ch_GUIMenus.xml:4817(para)
+msgid "The Summary Bar displays balances appropriate for the opened account type at a glance. Usually accounts display today's account balance, any balance for future dates, a balance for cleared items and a reconciled balance. Stock accounts, however, display shares totals and their value. The Summary Bar can be hidden or shown by selecting the Summary Bar item on the View menu."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1628(para)
+#: Help_ch_GUIMenus.xml:3403(para)
+#: Help_ch_GUIMenus.xml:4828(para)
+msgid "The Status Bar displays tool-tips for the menus that give more explanation to a menu item. It also shows a progress bar when opening or saving a GnuCash data file or generating reports. The Status Bar can be hidden or shown by selecting the Status Bar item on the View menu."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1638(title)
+#, fuzzy
+msgid "Account Register/General Ledger"
+msgstr "Άνοιγμα παραθύρου γενικού καθολικού"
+
+#: Help_ch_GUIMenus.xml:1639(para)
+msgid "To simplify navigation the following are the topics covered in this section; <xref linkend=\"Trans-menus\"/>, <xref linkend=\"Trans-toolbar\"/>, <xref linkend=\"Trans-display-main\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1646(title)
+msgid "Account Register &amp; General Ledger Window"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1648(para)
+msgid "This window is used to enter and edit your account data. It also provides tools for scheduling future transactions, finding and reporting on transactions and printing checks."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1652(para)
+msgid "To open the Account Register Window for an account, select the account in the Account Tree then go to <guilabel>File -&gt; Open Account</guilabel> or press Ctrl-O. This will open a new window with the Account Register. Pressing the Open button on the Tool Bar in the Account Tree Window or the Jump button in the Account Register Window are alternate methods."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1660(title)
+#, fuzzy
+msgid "An Account Register Window."
+msgstr "Οριζόντια μεγιστοποίηση του παραθύρου"
+
+#: Help_ch_GUIMenus.xml:1669(phrase)
+#, fuzzy
+msgid "Account Register screen"
+msgstr "Πληκτρολόγιο Οθόνης"
+
+#: Help_ch_GUIMenus.xml:1671(para)
+msgid "This is an screen image of the \"Account Register\" tab after several transactions in the account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1680(title)
+#, fuzzy
+msgid "Account Register Menus"
+msgstr "<b>Μενού και Εργαλειοθήκες</b>"
+
+#: Help_ch_GUIMenus.xml:1682(para)
+msgid "The Menu bar for the Transaction Register window contains the following options;"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1687(para)
+msgid "<emphasis role=\"bold\">File</emphasis> - <xref linkend=\"Trans-file-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1692(para)
+msgid "<emphasis role=\"bold\">Edit</emphasis> - <xref linkend=\"Trans-edit-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1697(para)
+msgid "<emphasis role=\"bold\">View</emphasis> - <xref linkend=\"Trans-view-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1702(para)
+msgid "<emphasis role=\"bold\">Transaction</emphasis> - <xref linkend=\"Trans-transaction-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1707(para)
+msgid "<emphasis role=\"bold\">Action</emphasis> - <xref linkend=\"Trans-actions-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1712(para)
+msgid "<emphasis role=\"bold\">Business</emphasis> - <xref linkend=\"Trans-business-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1717(para)
+msgid "<emphasis role=\"bold\">Reports</emphasis> - <xref linkend=\"Trans-reports-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1722(para)
+msgid "<emphasis role=\"bold\">Tools</emphasis> - <xref linkend=\"Trans-tools-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1727(para)
+msgid "<emphasis role=\"bold\">Windows</emphasis> - <xref linkend=\"Trans-windows-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1732(para)
+msgid "<emphasis role=\"bold\">Help</emphasis> - <xref linkend=\"Trans-help-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1738(title)
+#, fuzzy
+msgid "Account Register - File Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:1747(title)
+#: Help_ch_GUIMenus.xml:3518(title)
+msgid "File Menu - Access to file and account operations and printing."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1888(para)
+#, fuzzy
+msgid "Print Check ..."
+msgstr "Εκτύπωση επιταγής"
+
+#: Help_ch_GUIMenus.xml:1891(para)
+msgid "Starts the \"Print Check\" druid. See <xref linkend=\"print-check\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1932(para)
+msgid "Closes the current open account tree, transaction register or report. <emphasis>In the initial Account tree this item is not available - it will be grayed out. </emphasis> Menu shortcut Ctrl-W"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1952(title)
+#, fuzzy
+msgid "Account Register - Edit Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:1955(title)
+msgid "Account Register - Edit Menu - Access to file and account editing operations and preferences."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1975(para)
+msgid "Paste"
+msgstr "Επικόλληση"
+
+#: Help_ch_GUIMenus.xml:1978(para)
+msgid "Performs a standard Paste operation. Menu shortcut Ctrl-V"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:1984(para)
+#: Help_ch_GUIMenus.xml:4973(para)
+msgid "Edit Account"
+msgstr "Επεξεργασία λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:1987(para)
+msgid "Open form to edit/modify account characteristics and parameters."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2015(para)
+#: Help_ch_GUIMenus.xml:3788(para)
+#, fuzzy
+msgid "Modify/customize Style Sheets."
+msgstr "Επεξεργασία φύλλου στυλ της αναφοράς"
+
+#: Help_ch_GUIMenus.xml:2023(para)
+msgid "Set tax characteristics on account(s) (US). Assign tax form and line to account. See <xref linkend=\"set-tax-options\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2033(title)
+#, fuzzy
+msgid "Account Register - View Menu"
+msgstr "Είναι σημειωμένο το αντικείμενο μενού στο Προβολή/Κρυφ.Κοιν."
+
+#: Help_ch_GUIMenus.xml:2036(title)
+msgid "Account Register - View Menu - Changes GnuCash display Window characteristics."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2084(para)
+#, fuzzy
+msgid "Basic Ledger"
+msgstr "_Βασικό Καθολικό"
+
+#: Help_ch_GUIMenus.xml:2087(para)
+#: Help_ch_GUIMenus.xml:2094(para)
+#: Help_ch_GUIMenus.xml:2101(para)
+msgid "Radio button to select register display mode."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2091(para)
+#, fuzzy
+msgid "Auto-Split Ledger"
+msgstr "Καθολικό _Αυτόματου Σπλιτ"
+
+#: Help_ch_GUIMenus.xml:2098(para)
+#, fuzzy
+msgid "Transaction Journal"
+msgstr "_Ημερολόγιο συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:2105(para)
+#, fuzzy
+msgid "Double Line"
+msgstr "_Διπλή γραμμή"
+
+#: Help_ch_GUIMenus.xml:2108(para)
+msgid "Check-box to Enable/Disable display of Double Line display."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2112(para)
+#, fuzzy
+msgid "Sort by ..."
+msgstr "_Ταξινόμηση κατά"
+
+#: Help_ch_GUIMenus.xml:2115(para)
+msgid "Set the sort order of the transactions display. Requires \"click\" to start options form. Option form requires Cancel/OK to close."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2121(para)
+#, fuzzy
+msgid "Standard Order"
+msgstr "_Τυπική Σειρά"
+
+#: Help_ch_GUIMenus.xml:2124(para)
+#, fuzzy
+msgid "Keep normal account order"
+msgstr "Διατήρηση κανονικής ταξινόμησης λογαριασμών"
+
+#: Help_ch_GUIMenus.xml:2129(para)
+#, fuzzy
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: Help_ch_GUIMenus.xml:2132(para)
+#, fuzzy
+msgid "Sort by date"
+msgstr "Ταξινόμηση κατά ημερομηνία"
+
+#: Help_ch_GUIMenus.xml:2137(para)
+#, fuzzy
+msgid "Date of Entry."
+msgstr "Ημ/νια _καταχώρησης"
+
+#: Help_ch_GUIMenus.xml:2140(para)
+#, fuzzy
+msgid "Sort by date of entry."
+msgstr "Ταξινόμηση βάσει ημ/νίας εισαγωγής"
+
+#: Help_ch_GUIMenus.xml:2145(para)
+#, fuzzy
+msgid "Statement Date"
+msgstr "_Ημερομηνία αντίγραφου κινήσεως:"
+
+#: Help_ch_GUIMenus.xml:2148(para)
+#, fuzzy
+msgid "Sort by the statement date (unreconciled items last)."
+msgstr "Ταξινόμηση βάσει ημ/νίας αναφοράς (μη συμφωνημένα στοιχεία στο τέλος)"
+
+#: Help_ch_GUIMenus.xml:2153(para)
+#, fuzzy
+msgid "Number"
+msgstr "Αριθμός"
+
+#: Help_ch_GUIMenus.xml:2156(para)
+#, fuzzy
+msgid "Sort by number."
+msgstr "Ταξινόμηση κατά Αριθμό"
+
+#: Help_ch_GUIMenus.xml:2161(para)
+#, fuzzy
+msgid "Amount"
+msgstr "Ποσό"
+
+#: Help_ch_GUIMenus.xml:2164(para)
+#, fuzzy
+msgid "Sort by amount."
+msgstr "Ταξινόμηση κατά Ποσό"
+
+#: Help_ch_GUIMenus.xml:2169(para)
+#, fuzzy
+msgid "Memo"
+msgstr "Memo"
+
+#: Help_ch_GUIMenus.xml:2172(para)
+#, fuzzy
+msgid "Sort by memo."
+msgstr "Ταξινόμηση κατά Υπόμνηση"
+
+#: Help_ch_GUIMenus.xml:2180(para)
+#, fuzzy
+msgid "Sort by Description."
+msgstr "Ταξινόμηση κατά Περιγραφή"
+
+#: Help_ch_GUIMenus.xml:2185(para)
+#, fuzzy
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: Help_ch_GUIMenus.xml:2188(para)
+#, fuzzy
+msgid "Sort by action field"
+msgstr "Ταξινόμηση βάσει πεδίου ενέργειας"
+
+#: Help_ch_GUIMenus.xml:2193(para)
+#, fuzzy
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+#: Help_ch_GUIMenus.xml:2196(para)
+#, fuzzy
+msgid "Sort by notes field"
+msgstr "Ταξινόμηση βάσει πεδίου σημειώσεων"
+
+#: Help_ch_GUIMenus.xml:2202(para)
+msgid "Set filtering for accounts displayed in the Account Tree or transactions in Register display."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2218(title)
+#, fuzzy
+msgid "Account Register - Transaction Menu"
+msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμό"
+
+#: Help_ch_GUIMenus.xml:2221(title)
+#, fuzzy
+msgid "Transaction Menu - ."
+msgstr "αποσπώμενο μενού"
+
+#: Help_ch_GUIMenus.xml:2239(para)
+#, fuzzy
+msgid "Cut Transaction"
+msgstr "Αποκοπή συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2240(para)
+#, fuzzy
+msgid "Cut the selected transaction into the clipboard."
+msgstr "Αποκοπή της επιλεγμένης συναλλαγής στο πρόχειρο"
+
+#: Help_ch_GUIMenus.xml:2243(para)
+#, fuzzy
+msgid "Copy Transaction"
+msgstr "Αντιγραφή συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2244(para)
+#, fuzzy
+msgid "Copy the selected transaction into the clipboard."
+msgstr "Αντιγραφή της επιλεγμένης συναλλαγής στο πρόχειρο"
+
+#: Help_ch_GUIMenus.xml:2247(para)
+#, fuzzy
+msgid "Paste Transaction"
+msgstr "Επικόλληση συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2248(para)
+#, fuzzy
+msgid "Paste the selected transaction from the clipboard."
+msgstr "Αποκοπή της επιλεγμένης συναλλαγής στο πρόχειρο"
+
+#: Help_ch_GUIMenus.xml:2251(para)
+#, fuzzy
+msgid "Duplicate Transaction"
+msgstr "Αντίγραφο συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2255(para)
+#, fuzzy
+msgid "Delete Transaction"
+msgstr "_Διαγραφή συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2256(para)
+#, fuzzy
+msgid "Delete the selected transaction."
+msgstr "Διαγραφή της επιλεγμένης συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2259(para)
+#, fuzzy
+msgid "Remove Transaction Splits"
+msgstr "Διαγραφή Διαιρέσεων Συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2263(para)
+#, fuzzy
+msgid "Enter Transaction"
+msgstr "Ει_σαγωγή συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2267(para)
+#, fuzzy
+msgid "Cancel Transaction"
+msgstr "Ακύρωση της τρέχουσας συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2271(para)
+#, fuzzy
+msgid "Void Transaction"
+msgstr "Ακύρωση συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2275(para)
+#, fuzzy
+msgid "Add Reversing Account"
+msgstr "Προσθήκη λογαριασμού IM"
+
+#: Help_ch_GUIMenus.xml:2284(title)
+#, fuzzy
+msgid "Account Register - Action Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:2337(para)
+#: Help_ch_GUIMenus.xml:3926(para)
+#, fuzzy
+msgid "Mortgage &amp; Loan Repayment ..."
+msgstr "Ρύθμιση Αποπληρωμής Υποθήκης/Δανείου"
+
+#: Help_ch_GUIMenus.xml:2373(para)
+#, fuzzy
+msgid "Lot Viewer..."
+msgstr "Προβολή πακέτων"
+
+#: Help_ch_GUIMenus.xml:2376(para)
+msgid "Starts the \"Lots in Account\" form."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2383(para)
+#, fuzzy
+msgid "Blank Transaction"
+msgstr "_Κενή συναλλαγή"
+
+#: Help_ch_GUIMenus.xml:2386(para)
+#, fuzzy
+msgid "Move to the blank transaction at the bottom of the register"
+msgstr "Μετακίνηση στην λευκή συναλλαγή στον πυθμένα του μητρώου"
+
+#: Help_ch_GUIMenus.xml:2391(para)
+#, fuzzy
+msgid "Split Transaction"
+msgstr "Διαίρεση συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:2397(para)
+#, fuzzy
+msgid "Edit Exchange Rate"
+msgstr "Διόρθωση Ισοτιμίας"
+
+#: Help_ch_GUIMenus.xml:2400(para)
+msgid "Edit the exchange rate for the current transaction."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2404(para)
+#, fuzzy
+msgid "Schedule..."
+msgstr "Πρόγραμμα..."
+
+#: Help_ch_GUIMenus.xml:2407(para)
+#: Help_ch_GUIMenus.xml:3341(para)
+#, fuzzy
+msgid "Create a Scheduled Transaction with the current transaction as a template."
+msgstr "Δημιουργία Προγραμματισμένης Συναλλαγής με την τρέχουσα συναλλαγή ως πρότυπο"
+
+#: Help_ch_GUIMenus.xml:2412(para)
+#: Help_ch_GUIMenus.xml:3332(para)
+msgid "Jump"
+msgstr "Μετάβαση"
+
+#: Help_ch_GUIMenus.xml:2415(para)
+#, fuzzy
+msgid "Jump to the corresponding transaction in the other account."
+msgstr "Μετάβαση στη σχετική συναλλαγή του άλλου λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:2428(para)
+#, fuzzy
+msgid "All Transactions"
+msgstr "Ό_λες οι συναλλαγές"
+
+#: Help_ch_GUIMenus.xml:2439(para)
+#, fuzzy
+msgid "This Transaction"
+msgstr "_Αυτή η συναλλαγή"
+
+#: Help_ch_GUIMenus.xml:2443(para)
+msgid "Check for and repair splits in this transaction."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2451(para)
+#: Help_ch_GUIMenus.xml:3939(para)
+msgid "GnuCash gives warnings when certain operations are attempted, such as removing a transaction or removing the splits of a transaction. The warning message gives you the option to not give you these warnings when attempting the operation. Check-boxes labeled \"Remember and don't ask me again\" and \"Remember and don't ask me again this session\" allow disabling the warnings. This option resets the warning's to the default, IE make all the warning's happen."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:2474(title)
+#, fuzzy
+msgid "Account Register - Business Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:2496(para)
+#: Help_ch_GUIMenus.xml:3984(para)
+#, fuzzy
+msgid "Customers -&gt;"
+msgstr "Εξαγωγή πελατών σε XML"
+
+#: Help_ch_GUIMenus.xml:2732(title)
+#, fuzzy
+msgid "Account Register - Reports Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:2734(para)
+#: Help_ch_GUIMenus.xml:4222(para)
+msgid "This is only a brief listing of the available reports and graphs. Each report may be customized by the <guilabel>Options</guilabel> Icon and the \"Stylesheet\" used."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3100(para)
+#, fuzzy
+msgid "Account Report"
+msgstr "Αναφορά λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:3108(para)
+#, fuzzy
+msgid "Account Transaction Report"
+msgstr "Αναφορά συναλλαγών λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:3119(title)
+#, fuzzy
+msgid "Account Register - Tools Menu"
+msgstr "Αυτό το μητρώο λογαριασμού είναι μόνο για ανάγνωση."
+
+#: Help_ch_GUIMenus.xml:3173(title)
+#: Help_ch_GUIMenus.xml:3176(title)
+#, fuzzy
+msgid "Account Register - Windows Menu"
+msgstr "Εναλλαγή μεταξύ ανοικτών παραθύρων με τη χρήση μενού"
+
+#: Help_ch_GUIMenus.xml:3209(title)
+msgid "Account Register - Help Menu - Access to this help and the Tutorial and Concepts Guide."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3231(para)
+#: Help_ch_GUIMenus.xml:4697(para)
+msgid "Display Tip of Day or enable/disable display on start-up."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3254(title)
+msgid "Account Register - Tool Bar Icons/Buttons"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3256(para)
+msgid "The GnuCash main Window has a number of Icons/Buttons in the tool bar to quickly access some common functions used with the specific active tab. The Tool Bar can be hidden or shown by selecting the Toolbar item on the View menu. The specific options displayed in the tool bar varies by the functions available to the \"active tab\"."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3269(title)
+msgid "Account Register (Transaction Register) Window Tool Bar"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3291(para)
+#, fuzzy
+msgid "Close this register."
+msgstr "Κλείσιμο αυτού του φακέλου"
+
+#: Help_ch_GUIMenus.xml:3295(para)
+#, fuzzy
+msgid "Duplicate"
+msgstr "Αντίγραφο"
+
+#: Help_ch_GUIMenus.xml:3297(para)
+#, fuzzy
+msgid "Make a copy of the current transaction."
+msgstr "Δημιουργία αντιγράφου της τρέχουσας συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:3303(para)
+msgid "Delete the current transaction in this register."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3307(para)
+#, fuzzy
+msgid "Enter"
+msgstr "Enter"
+
+#: Help_ch_GUIMenus.xml:3309(para)
+#, fuzzy
+msgid "Record the current transaction."
+msgstr "Καταγραφή τρέχουσας συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:3313(para)
+#: Help_ch_GUIMenus.xml:4945(para)
+#: Help_ch_GUIMenus.xml:5108(para)
+#, fuzzy
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: Help_ch_GUIMenus.xml:3315(para)
+#, fuzzy
+msgid "Cancel the current transaction."
+msgstr "Ακύρωση της τρέχουσας συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:3319(para)
+#, fuzzy
+msgid "Blank"
+msgstr "Κενό"
+
+#: Help_ch_GUIMenus.xml:3321(para)
+#, fuzzy
+msgid "Move to a blank transaction at bottom of register."
+msgstr "Μετακίνηση στην λευκή συναλλαγή στον πυθμένα του μητρώου"
+
+#: Help_ch_GUIMenus.xml:3325(para)
+#, fuzzy
+msgid "Split"
+msgstr "Σπλιτ"
+
+#: Help_ch_GUIMenus.xml:3327(para)
+msgid "Show all splits in the current transaction. Not highlighted if <guilabel>View -&gt; Auto-Split Ledger</guilabel> already set."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3334(para)
+#, fuzzy
+msgid "Jump to the corresponding transaction in the other account"
+msgstr "Μετάβαση στη σχετική συναλλαγή του άλλου λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:3339(para)
+#, fuzzy
+msgid "Schedule"
+msgstr "Προγραμματισμός"
+
+#: Help_ch_GUIMenus.xml:3346(para)
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+#: Help_ch_GUIMenus.xml:3348(para)
+msgid "Start the transfer druid to transfer funds from one account to another."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3353(para)
+#, fuzzy
+msgid "Reconcile"
+msgstr "Επαλήθευση"
+
+#: Help_ch_GUIMenus.xml:3355(para)
+msgid "Start the Reconcile process for the selected account. <xref linkend=\"tool-reconcile\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3368(para)
+#: Help_ch_GUIMenus.xml:4789(para)
+msgid "The Tab Bar displays \"notebook/file folder\" style tabs for open transaction registers, account trees and reports."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3373(title)
+#, fuzzy
+msgid "List of Transactions"
+msgstr "Η λίστα των προγραμματισμένων συναλλαγών"
+
+#: Help_ch_GUIMenus.xml:3375(para)
+msgid "The List of Transactions displays transactions you have entered and a running balance. It also provides a blank transaction to enter new transactions. The column headings vary according to what type of account you have opened. Common headings are Date, Description, Transfer and Balance."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3381(para)
+msgid "The View menu can be used to alter the appearance of the List of Transactions. Possible changes are limiting the number of transactions shown, using a different sort order and changing the style to more easily see transactions. The split button also provides quick access to view all the parts of a transaction."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3413(title)
+#, fuzzy
+msgid "Report Window"
+msgstr "Επιλογέας παραθύρων"
+
+#: Help_ch_GUIMenus.xml:3414(para)
+msgid "To simplify navigation the following are the topics covered in this section; <xref linkend=\"Report-menus\"/>, <xref linkend=\"Report-tool-bar\"/>, <xref linkend=\"report-main\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3421(title)
+#, fuzzy
+msgid "Report Display Window"
+msgstr "Άνοιγμα αναφοράς σε νέο _παράθυρο"
+
+#: Help_ch_GUIMenus.xml:3423(para)
+msgid "This window is shown whenever a report or chart is selected from the Reports menu."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3426(para)
+msgid "To open the Report Window, select a report from the <guilabel>Menu Bar -&gt; Reports</guilabel> list. This will open a new window with the report displayed. It provides a web browser type display with active links to account data."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3430(para)
+msgid "Depending on the report there may be a delay while the report is generated. An approximation of the progress to completion is displayed in the \"Status Bar\", if has not been opted out of displaying."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3435(title)
+#, fuzzy
+msgid "A \"Report Window\""
+msgstr "Επιλογέας παραθύρων"
+
+#: Help_ch_GUIMenus.xml:3444(phrase)
+#, fuzzy
+msgid "Report screen"
+msgstr "Αριθμός οθόνης: %d\n"
+
+#: Help_ch_GUIMenus.xml:3446(para)
+msgid "This is an screen image of the \"Account Summary\" tab after creating a new file and \"select all\" of the accounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3456(title)
+#, fuzzy
+msgid "Report Menus"
+msgstr "Τα Μενού Έχουν Εικονίδια"
+
+#: Help_ch_GUIMenus.xml:3458(para)
+msgid "The Menu bar for the Report window contains the following options;"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3463(para)
+msgid "<emphasis role=\"bold\">File</emphasis> - <xref linkend=\"Report-file-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3468(para)
+msgid "<emphasis role=\"bold\">Edit</emphasis> - <xref linkend=\"Report-edit-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3473(para)
+msgid "<emphasis role=\"bold\">View</emphasis> - <xref linkend=\"Report-view-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3478(para)
+msgid "<emphasis role=\"bold\">Action</emphasis> - <xref linkend=\"Report-actions-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3483(para)
+msgid "<emphasis role=\"bold\">Business</emphasis> - <xref linkend=\"Report-business-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3488(para)
+msgid "<emphasis role=\"bold\">Reports</emphasis> - <xref linkend=\"Report-reports-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3493(para)
+msgid "<emphasis role=\"bold\">Tools</emphasis> - <xref linkend=\"Report-tools-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3498(para)
+msgid "<emphasis role=\"bold\">Windows</emphasis> - <xref linkend=\"Report-windows-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3503(para)
+msgid "<emphasis role=\"bold\">Help</emphasis> - <xref linkend=\"Report-help-menu\"/>"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3509(title)
+#, fuzzy
+msgid "Reports - File Menu"
+msgstr "Μενού <guimenu>Αρχείο</guimenu> "
+
+#: Help_ch_GUIMenus.xml:3566(para)
+msgid "Starts the Creates a New Budget druid."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3659(para)
+#, fuzzy
+msgid "Print Report..."
+msgstr "_Εκτύπωση αναφοράς..."
+
+#: Help_ch_GUIMenus.xml:3662(para)
+#, fuzzy
+msgid "Prints the Report"
+msgstr "Δελτίο καιρού"
+
+#: Help_ch_GUIMenus.xml:3670(para)
+#: Help_ch_GUIMenus.xml:4763(para)
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: Help_ch_GUIMenus.xml:3676(para)
+#, fuzzy
+msgid "Export Report"
+msgstr "Εξαγωγή _αναφοράς"
+
+#: Help_ch_GUIMenus.xml:3680(para)
+#: Help_ch_GUIMenus.xml:4765(para)
+#, fuzzy
+msgid "Exports HTML formatted report to a file."
+msgstr "Εξαγωγή της HTML αναφοράς σε αρχείο"
+
+#: Help_ch_GUIMenus.xml:3716(para)
+msgid "Closes the current report. Menu shortcut Ctrl-W"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3735(title)
+#, fuzzy
+msgid "Reports - Edit Menu"
+msgstr "Το μενού <guimenu>Επεξεργασία</guimenu>"
+
+#: Help_ch_GUIMenus.xml:3738(title)
+msgid "Reports - Edit Menu - Access to file and account editing operations and preferences."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3758(para)
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: Help_ch_GUIMenus.xml:3793(para)
+#, fuzzy
+msgid "Report Options"
+msgstr "_Επιλογές αναφοράς"
+
+#: Help_ch_GUIMenus.xml:3796(para)
+msgid "Open form to edit/modify report selection criteria, stylesheets, date ranges, and other parameters."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3815(title)
+#, fuzzy
+msgid "Reports - View Menu"
+msgstr "αντικείμενο μενού radio"
+
+#: Help_ch_GUIMenus.xml:3818(title)
+msgid "Report - View Menu - Changes display window view."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3849(para)
+msgid "Check-box to Enable/Disable display of Summary Bar. The summary bar is not displayed in reports, however the check-box is effective in other tab displays."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3875(title)
+#, fuzzy
+msgid "Reports - Action Menu"
+msgstr "αντικείμενο μενού radio"
+
+#: Help_ch_GUIMenus.xml:3878(title)
+msgid "Actions Menu - Setup scheduled transactions."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:3962(title)
+#, fuzzy
+msgid "Reports - Business Menu"
+msgstr "αντικείμενο μενού radio"
+
+#: Help_ch_GUIMenus.xml:4220(title)
+#, fuzzy
+msgid "Reports - Reports Menu"
+msgstr "αποσπώμενο μενού"
+
+#: Help_ch_GUIMenus.xml:4592(title)
+#, fuzzy
+msgid "Reports - Tools Menu"
+msgstr "αντικείμενο μενού radio"
+
+#: Help_ch_GUIMenus.xml:4639(title)
+#: Help_ch_GUIMenus.xml:4642(title)
+#, fuzzy
+msgid "Reports - Windows Menu"
+msgstr "αντικείμενο μενού radio"
+
+#: Help_ch_GUIMenus.xml:4675(title)
+msgid "Reports - Help Menu - Access to this help and the Tutorial and Concepts Guide."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4719(title)
+msgid "Reports - Tool Bar Icons/Buttons"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4721(para)
+msgid "The Report Window has a tool bar to access quickly the functions used with reports. The Tool Bar can be hidden or shown by selecting the Toolbar item on the View menu."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4726(title)
+msgid "Reports - Tool Bar Buttons"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4731(para)
+#: Help_ch_GUIMenus.xml:5065(para)
+#: Help_ch_GUIMenus.xml:5249(para)
+#, fuzzy
+msgid "Tool Bar Button"
+msgstr "Προσθήκη Κουμπιού Εργαλείων (Tool Button)"
+
+#: Help_ch_GUIMenus.xml:4747(para)
+msgid "Closes the current report displayed."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4751(para)
+#, fuzzy
+msgid "Reload"
+msgstr "Ανανέωση"
+
+#: Help_ch_GUIMenus.xml:4753(para)
+#, fuzzy
+msgid "Reload (rerun) current report."
+msgstr "Επαναφόρτωση αρχείου scheme της αναφοράς"
+
+#: Help_ch_GUIMenus.xml:4757(para)
+msgid "Stop"
+msgstr "Διακοπή"
+
+#: Help_ch_GUIMenus.xml:4759(para)
+#, fuzzy
+msgid "Stops the"
+msgstr "<b>Η στήλη σταματάει</b>"
+
+#: Help_ch_GUIMenus.xml:4769(para)
+msgid "Options"
+msgstr "Επιλογές"
+
+#: Help_ch_GUIMenus.xml:4771(para)
+msgid "Edit options specific to selected report."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4775(para)
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#: Help_ch_GUIMenus.xml:4777(para)
+msgid "Queues the current report for printing."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4795(title)
+#, fuzzy
+msgid "Report Main Display"
+msgstr "Εμφάνιση ως αναφορά δύο στυλών"
+
+#: Help_ch_GUIMenus.xml:4797(para)
+msgid "This is where the report or chart you have selected is shown. The properties of this window are editable in two ways. Selecting the Options button on the toolbar lets you edit what the report is showing and which accounts the information is drawn from. Selecting <guilabel>Edit -&gt; Style Sheets...</guilabel> lets you select the properties of the web page that displays your report."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4804(para)
+msgid "The report is able to act like a web browser if your report contains links to external web pages. The toolbar buttons allow you to move back and forward through web pages. It will also open account information in the register window when you click on links contained in the report."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4810(para)
+msgid "You can also save your report to a file and print the report through the toolbar buttons."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4838(title)
+#, fuzzy
+msgid "Reconcile Window"
+msgstr "Επιλογέας παραθύρων"
+
+#: Help_ch_GUIMenus.xml:4839(para)
+msgid "To simplify navigation the following are the topics covered in this section; <xref linkend=\"reconcile-display\"/>, <xref linkend=\"reconcile-menus\"/>, <xref linkend=\"reconcile-toolbar\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4845(para)
+msgid "The detailed explaination of \"Reconciling an Account\" is described in <xref linkend=\"acct-reconcile\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4849(title)
+#, fuzzy
+msgid "Reconcile Display Window"
+msgstr "Οριζόντια μεγιστοποίηση του παραθύρου"
+
+#: Help_ch_GUIMenus.xml:4851(para)
+msgid "To open the Reconcile Window, select <guilabel>Actions -&gt; Reconcile</guilabel> from the Menu Bar or <guilabel>Reconcile</guilabel> Icon from a transaction window. This will open a small window <guilabel>Reconcile Information</guilabel>. This displays requests the \"Statement Date\", and \"Ending Balance\" for the reconciliation, completing the form by pressing the <guilabel>OK</guilabel> will open a tab display with the main reconcile window displayed."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4858(title)
+#, fuzzy
+msgid "Components of the Reconcile Window."
+msgstr "Συστατικά χωρικού παραθύρου"
+
+#: Help_ch_GUIMenus.xml:4863(para)
+#: Help_ch_GUIMenus.xml:5150(para)
+#, fuzzy
+msgid "Component"
+msgstr "Στοιχείο"
+
+#: Help_ch_GUIMenus.xml:4873(para)
+msgid "Contains the Menus used in the Reconcile Window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4878(para)
+#: Help_ch_GUIMenus.xml:5167(para)
+msgid "Tool (Icons and/or Text) Bar"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4880(para)
+msgid "Contains buttons used to access common Reconcile Account Window tasks."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4885(para)
+#, fuzzy
+msgid "Funds In"
+msgstr "Εισροή κεφαλαίων"
+
+#: Help_ch_GUIMenus.xml:4887(para)
+msgid "Contains a list of funds deposited in the account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4892(para)
+#, fuzzy
+msgid "Funds Out"
+msgstr "Εκροή κεφαλαίων"
+
+#: Help_ch_GUIMenus.xml:4894(para)
+msgid "Contains a list of funds withdrawn from the account."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4899(para)
+#, fuzzy
+msgid "Balance Pane"
+msgstr "_Πλευρική στήλη"
+
+#: Help_ch_GUIMenus.xml:4901(para)
+msgid "Contains a list of balances to use in reconciling."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4909(title)
+#, fuzzy
+msgid "Menus"
+msgstr "Μενού"
+
+#: Help_ch_GUIMenus.xml:4911(para)
+msgid "The following tables describe menus in the Reconcile Window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4914(title)
+msgid "Reconcile Menu - Access to Reconcile Information and finishing or postponing."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4927(para)
+#, fuzzy
+msgid "Reconcile Information"
+msgstr "<b>Πληροφορία συμφωνίας</b>"
+
+#: Help_ch_GUIMenus.xml:4929(para)
+#, fuzzy
+msgid "Opens the Reconciling Information Window."
+msgstr "Άγνωστη αίτηση πληροφορίας παραθύρου: %d"
+
+#: Help_ch_GUIMenus.xml:4933(para)
+#: Help_ch_GUIMenus.xml:5097(para)
+#, fuzzy
+msgid "Finish"
+msgstr "Τέλος"
+
+#: Help_ch_GUIMenus.xml:4935(para)
+#: Help_ch_GUIMenus.xml:5099(para)
+#, fuzzy
+msgid "Complete the reconciliation of this account."
+msgstr "Αναβολή της συμφωνίας αυτού του λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:4939(para)
+#: Help_ch_GUIMenus.xml:5103(para)
+#, fuzzy
+msgid "Postpone"
+msgstr "Αναβολή"
+
+#: Help_ch_GUIMenus.xml:4941(para)
+#: Help_ch_GUIMenus.xml:5105(para)
+#, fuzzy
+msgid "Postpone the reconciliation of this account."
+msgstr "Αναβολή της συμφωνίας αυτού του λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:4947(para)
+#: Help_ch_GUIMenus.xml:5110(para)
+#, fuzzy
+msgid "Cancel the reconciliation of this account."
+msgstr "Ακύρωση της συμφωνίας αυτού του λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:4954(title)
+#, fuzzy
+msgid "Account Menu - Access to account operations."
+msgstr "Μενού για γρήγορη πρόσβαση σε απομακρυσμένα συστήματα"
+
+#: Help_ch_GUIMenus.xml:4969(para)
+msgid "Opens a transaction register for the accounts"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4982(para)
+msgid "Opens a Transfer druid for entering a transfer transaction between any two accounts."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4987(para)
+#, fuzzy
+msgid "Check &amp; Repair"
+msgstr "Έλεγχος και διόρθωση _λογαριασμού"
+
+#: Help_ch_GUIMenus.xml:4989(para)
+msgid "Verify &amp; Repair this account if necessary."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:4996(title)
+msgid "Transaction Menu - Access to transaction editing operations."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5011(para)
+#: Help_ch_GUIMenus.xml:5075(para)
+#, fuzzy
+msgid "Add a new transaction to the account."
+msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμό"
+
+#: Help_ch_GUIMenus.xml:5017(para)
+#: Help_ch_GUIMenus.xml:5081(para)
+#: Help_ch_GUIMenus.xml:5223(para)
+#: Help_ch_GUIMenus.xml:5265(para)
+#, fuzzy
+msgid "Edit the currently selected transaction."
+msgstr "Επεξεργασία της επιλεγμένης προγραμματισμένης συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:5023(para)
+#: Help_ch_GUIMenus.xml:5087(para)
+#: Help_ch_GUIMenus.xml:5229(para)
+#: Help_ch_GUIMenus.xml:5271(para)
+#, fuzzy
+msgid "Remove the currently selected transaction."
+msgstr "Απομάκρυνση της επιλεγμένης πηγής λεξικού"
+
+#: Help_ch_GUIMenus.xml:5030(title)
+#, fuzzy
+msgid "Help Menu - Access to help."
+msgstr "Μενού για γρήγορη πρόσβαση σε απομακρυσμένα συστήματα"
+
+#: Help_ch_GUIMenus.xml:5043(para)
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: Help_ch_GUIMenus.xml:5045(para)
+#, fuzzy
+msgid "Open this Help text file."
+msgstr "Αδύνατο το άνοιγμα του αρχείου βοήθειας."
+
+#: Help_ch_GUIMenus.xml:5054(title)
+#, fuzzy
+msgid "Tool Bar Buttons"
+msgstr "Στυλ εργαλειο_θήκης"
+
+#: Help_ch_GUIMenus.xml:5056(para)
+msgid "The Reconcile Window has a tool bar to access quickly some common functions used with reconciliation."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5060(title)
+#, fuzzy
+msgid "Reconcile Window Tool Bar"
+msgstr "Κυρίως παράθυρο Εργαλείου Διαχείρισης Χρηστών"
+
+#: Help_ch_GUIMenus.xml:5093(para)
+#, fuzzy
+msgid "Open an Account transaction window."
+msgstr "Αυτό θα ανοίξει %d διαφορετικό παράθυρο."
+
+#: Help_ch_GUIMenus.xml:5122(title)
+#, fuzzy
+msgid "Schedule Transaction Window"
+msgstr "Οριζόντια μεγιστοποίηση του παραθύρου"
+
+#: Help_ch_GUIMenus.xml:5123(para)
+msgid "To simplify navigation the following are the topics covered in this section; <xref linkend=\"tools-SX-menus\"/>, <xref linkend=\"tools-SX-toolbar\"/>, <xref linkend=\"sched-trans-win\"/>. <xref linkend=\"sched-editor\"/>,"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5130(para)
+msgid "The detailed explaination of \"Scheduling Transactions\" is described in <xref linkend=\"trans-sched\"/>."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5134(title)
+msgid "Scheduled Transactions Main Display Window"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5136(para)
+msgid "This window is shown when <guimenu>Actions -&gt; Scheduled Transactions -&gt; Scheduled Transactions Editor</guimenu> is selected from a <guilabel>Menu Bar</guilabel>. This will open a new tab window with the Scheduled Transactions displayed."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5142(title)
+msgid "Scheduled Transaction Main Window Components"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5145(title)
+#, fuzzy
+msgid "Components of the Schedule Transactions Window."
+msgstr "Τα συστατικά του παραθύρου Περιηγητής Αρχείων"
+
+#: Help_ch_GUIMenus.xml:5160(para)
+msgid "Contains the Menus used in the Schedule Transactions Window. It provides the standard list of menu bar options and an additional option, <guilabel>Scheduled</guilabel>, which presents options; New, Edit or Delete. If no transaction is highlighted Edit and Delete will be \"grayed out\"."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5169(para)
+msgid "Contains buttons used to access Schedule Transitions tasks."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5173(para)
+#, fuzzy
+msgid "Tabs"
+msgstr "Στηλοθέτες"
+
+#: Help_ch_GUIMenus.xml:5175(para)
+msgid "Tabs to switch between open displays."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5179(para)
+#, fuzzy
+msgid "Transactions"
+msgstr "<b>Συναλλαγές</b>"
+
+#: Help_ch_GUIMenus.xml:5181(para)
+msgid "Contains a list of transactions scheduled and related characteristics."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5185(para)
+#, fuzzy
+msgid "Calendar Pane"
+msgstr "_Πλευρική στήλη"
+
+#: Help_ch_GUIMenus.xml:5187(para)
+msgid "Contains a calendar of the next 12 months and the dates the active scheduled transactions are scheduled."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5197(title)
+#, fuzzy
+msgid "Schedule Menu"
+msgstr "αποσπώμενο μενού"
+
+#: Help_ch_GUIMenus.xml:5199(para)
+msgid "The following table describe Schedule menu options Schedule Transaction Window."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5202(title)
+msgid "Schedule Menu - Access to scheduled transaction editing operations."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5217(para)
+#, fuzzy
+msgid "Add a new schedule transaction."
+msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμό"
+
+#: Help_ch_GUIMenus.xml:5238(title)
+msgid "Schedule Transaction Tool Bar Buttons"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5240(para)
+msgid "The Schedule Transaction Window has a tool bar to access quickly some common functions used with reconciliation."
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5244(title)
+msgid "Schedule Transaction Window Tool Bar"
+msgstr ""
+
+#: Help_ch_GUIMenus.xml:5259(para)
+#, fuzzy
+msgid "Add a new scheduled transaction."
+msgstr "Δημιουργία νέας προγραμματισμένης συναλλαγής"
+
+#: Help_ch_GUIMenus.xml:5277(para)
+#, fuzzy
+msgid "Save the current schedule of transactions."
+msgstr "Αποθήκευση τρέχουσας προσαρμοσμένης προβολής"
+
+#: Help_ch_GUIMenus.xml:5283(para)
+#, fuzzy
+msgid "Close the Schedule Transaction Editor."
+msgstr "%s  Δεν έχετε κάνει αλλαγές. Να τερματιστεί ο επεξεργαστής;"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_GUIMenus.xml:0(None)
+#, fuzzy
+msgid "translator-credits"
+msgstr ""
+"Δημήτρης Γλέζος <dimitris@glezos.com>, 2006, 2007 \n"
+"Νίκος Χαρωνιτάκης <nikosx@gmail.com>, 2006 \n"
+"Τέτα Μπιλιανού <tetonio@gmail.com>, 2006, 2007 \n"
+"Σταύρος Γιαννούρης <stavrosg@hellug.gr>, 2007"
+

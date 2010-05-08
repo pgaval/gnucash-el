@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 03:48+0300\n"
+"PO-Revision-Date: 2010-05-08 04:00+0200\n"
+"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_ch_Intro.xml:23(title)
+msgid "Introduction to GnuCash"
+msgstr "Εισαγωγή στο GnuCash"
+
+#: Help_ch_Intro.xml:24(subtitle)
+msgid "What is GnuCash?"
+msgstr "Τι είναι το GnuCash;"
+
+#: Help_ch_Intro.xml:26(para)
+msgid "GnuCash is a personal and small business finance application. Its designed to be easy to use, yet powerful and flexible. GnuCash allows you to track your income and expenses, reconcile bank accounts, monitor stock portfolios and manage your small business finances. It is based on professional accounting principles to ensure balanced books and accurate reports."
+msgstr "Το Gnucash είναι μια οικονομική εφαρμογή για ιδιώτες ή μικρές επιχειρήσεις. Είναι σχεδιασμένο για να είναι εύκολο στη χρήση αλλά ταυτόχρονα να παραμένει ισχυρό και ευέλικτο. To GnuCash σας επιτρέπει να παρακολουθείτε τα έσοδα και έξοδα σας, να ελέγχετε τους τραπεζικους σας λογαριασμούς, να παρακολουθείτε το χαρτοφυλάκιο μετοχών σας και να διαχειρίζεστε τα οικονομικά της μικρής σας επιχείρησης. Είναι βασισμένο σε αναγνωρισμένες λογιστικές αρχές με στόχο να εξασφαλίσει ακριβής αναφορές και ισοζυγισμένα βιβλία."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_Intro.xml:0(None)
+msgid "translator-credits"
+msgstr "Νίκος Χαρωνιτάκης <nikosx@gmail.com>"
+

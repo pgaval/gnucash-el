@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-05-08 03:36+0300\n"
+"PO-Revision-Date: 2010-05-08 03:37+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: Greek <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_ch_Reports.xml:22(title)
+#, fuzzy
+msgid "Reports And Charts"
+msgstr "Διαχείριση και εκτέλεση προσαρμοσμένων αναφορών"
+
+#: Help_ch_Reports.xml:24(para)
+msgid "This section is a \"work in process\" all of the material has not been reviewed for V2.0. While it may not be strictly accurate, it is at least a \"guide\"."
+msgstr ""
+
+#: Help_ch_Reports.xml:27(para)
+msgid "Reports and Charts give GnuCash the ability to present an overview of financial data in various ways. This can range from a simple summary of account totals to an advanced portfolio view. This section will present an explanation of the main GnuCash reports and how to adjust them."
+msgstr ""
+
+#: Help_ch_Reports.xml:32(para)
+msgid "GnuCash has classified the main types of reports into four major classes. These are all available under the Reports menu."
+msgstr ""
+
+#: Help_ch_Reports.xml:36(title)
+#, fuzzy
+msgid "General Reports"
+msgstr "<b>_Διαθέσιμες αναφορές</b>"
+
+#: Help_ch_Reports.xml:38(para)
+msgid "The General Reports includes the Tax Schedule Report and TXF Export, the Account Summary and the Transaction Reports and also the reports in the Sample &amp; Custom menu."
+msgstr ""
+
+#: Help_ch_Reports.xml:43(para)
+#, fuzzy
+msgid "Account Summary:"
+msgstr "Περίληψη λογαριασμού"
+
+#: Help_ch_Reports.xml:47(para)
+msgid "Tax Schedule Report and TXF Export: The income tax schedule report is used to export all tax related Income and Expenses to a TXF (Tax eXchange Format) file. This is in addition to the HTML format that all reports allow. The TXF file can be imported into tax filing programs such as TaxCut or TurboTax."
+msgstr ""
+
+#: Help_ch_Reports.xml:52(para)
+msgid "For this to work, the user has to segregate taxable and non taxable income to different accounts, as well as deductible and non deductible expenses. The Income Tax Information dialog is used for this. To access the Income Tax Information dialog go to <guimenu>Edit -&gt; Income Tax Options</guimenu>. The user also must set the TXF category of each tax related account. The Income Tax Information dialog is described in the Setting Income Tax Options section."
+msgstr ""
+
+#: Help_ch_Reports.xml:62(para)
+#, fuzzy
+msgid "Transaction Report:"
+msgstr "Αναφορά συναλλαγής"
+
+#: Help_ch_Reports.xml:66(para)
+#, fuzzy
+msgid "Welcome Sample Report:"
+msgstr "Εισαγωγικό δείγμα αναφοράς"
+
+#: Help_ch_Reports.xml:70(para)
+msgid "Custom Multicolumn Report: This report is used to place multiple reports into a single report window to examine a set of financial information at a glance."
+msgstr ""
+
+#: Help_ch_Reports.xml:75(para)
+#, fuzzy
+msgid "Sample Graphs"
+msgstr "Ρυθμός δειγματοληψίας:"
+
+#: Help_ch_Reports.xml:79(para)
+#, fuzzy
+msgid "Sample Report with Examples:"
+msgstr "Δείγμα αναφοράς με παραδείγματα"
+
+#: Help_ch_Reports.xml:86(title)
+#, fuzzy
+msgid "Assets &amp; Liabilities"
+msgstr "Χρονική εξέλιξη παθητικού"
+
+#: Help_ch_Reports.xml:88(para)
+msgid "The Assets &amp; Liabilities reports includes the Balance Sheet report, Investment reports and the Net Worth report."
+msgstr ""
+
+#: Help_ch_Reports.xml:93(para)
+#, fuzzy
+msgid "Advanced Portfolio:"
+msgstr "Προχωρημένο χαρτοφυλάκιο"
+
+#: Help_ch_Reports.xml:97(para)
+#, fuzzy
+msgid "Asset Barchart:"
+msgstr "Ακιδωτό διάγραμμα ενεργητικού"
+
+#: Help_ch_Reports.xml:101(para)
+#, fuzzy
+msgid "Asset Piechart:"
+msgstr "Κυκλικό διάγραμμα ενεργητικού"
+
+#: Help_ch_Reports.xml:105(para)
+#, fuzzy
+msgid "Average Balance:"
+msgstr "Μέσο Υπόλοιπο"
+
+#: Help_ch_Reports.xml:109(para)
+msgid "Balance Sheet: This report summarizes assets, liabilities, and equity. When properly maintained, assets should equal the sum of liabilities and equity. If that is not the case, there is some kind of internal imbalance in the accounts."
+msgstr ""
+
+#: Help_ch_Reports.xml:116(para)
+#, fuzzy
+msgid "General Journal:"
+msgstr "Γενικό ημερολόγιο"
+
+#: Help_ch_Reports.xml:120(para)
+#, fuzzy
+msgid "General Ledger:"
+msgstr "Γενικό Καθολικό"
+
+#: Help_ch_Reports.xml:124(para)
+msgid "Investment Portfolio: This report summarizes the value of the stocks in the current portfolio."
+msgstr ""
+
+#: Help_ch_Reports.xml:129(para)
+#, fuzzy
+msgid "Liability Barchart:"
+msgstr "Ακιδωτό διάγραμμα παθητικού"
+
+#: Help_ch_Reports.xml:133(para)
+#, fuzzy
+msgid "Liability Piechart:"
+msgstr "Κυκλικό διάγραμμα παθητικού"
+
+#: Help_ch_Reports.xml:137(para)
+msgid "Net Worth Barchart: Net worth is the difference between the value of assets or liabilities."
+msgstr ""
+
+#: Help_ch_Reports.xml:142(para)
+#, fuzzy
+msgid "Price Scatterplot:"
+msgstr "Γράφημα διακύμανσης τιμής"
+
+#: Help_ch_Reports.xml:148(title)
+#, fuzzy
+msgid "Income &amp; Expense"
+msgstr "Εμφάνιση Εσόδων/Εξόδων"
+
+#: Help_ch_Reports.xml:150(para)
+msgid "The Income &amp; Expense reports includes the Cash Flow and Income Statement reports."
+msgstr ""
+
+#: Help_ch_Reports.xml:154(para)
+#, fuzzy
+msgid "Budget Report:"
+msgstr "Αναφορά προϋπολογισμού"
+
+#: Help_ch_Reports.xml:158(para)
+#, fuzzy
+msgid "Cash Flow:"
+msgstr "Ταμειακή ροή"
+
+#: Help_ch_Reports.xml:162(para)
+#, fuzzy
+msgid "Equity Statement:"
+msgstr "Include Statement"
+
+#: Help_ch_Reports.xml:166(para)
+#, fuzzy
+msgid "Expense Barchart:"
+msgstr "Ακιδωτό διάγραμμα εξόδων"
+
+#: Help_ch_Reports.xml:170(para)
+#, fuzzy
+msgid "Expense Piechart:"
+msgstr "Κυκλικό διάγραμμα εξόδων"
+
+#: Help_ch_Reports.xml:174(para)
+#, fuzzy
+msgid "Expense vs Day of Week:"
+msgstr "Έσοδα ανά ημέρα εβδομάδας"
+
+#: Help_ch_Reports.xml:178(para)
+#, fuzzy
+msgid "Income Barchart:"
+msgstr "Ακιδωτό διάγραμμα εσόδων"
+
+#: Help_ch_Reports.xml:182(para)
+#, fuzzy
+msgid "Income &amp; Expense Chart:"
+msgstr "Κατηγορίες εσόδων και εξόδων"
+
+#: Help_ch_Reports.xml:186(para)
+msgid "Income Statement: This report summarizes sources of income and expenditure. (This report was called Profit &amp; Loss in gnucash-1.8.)"
+msgstr ""
+
+#: Help_ch_Reports.xml:191(para)
+#, fuzzy
+msgid "Income Statement:"
+msgstr "Κατάσταση εσόδων εξόδων"
+
+#: Help_ch_Reports.xml:195(para)
+#, fuzzy
+msgid "Income vs Day of Week:"
+msgstr "Έσοδα ανά ημέρα εβδομάδας"
+
+#: Help_ch_Reports.xml:199(para)
+msgid "Trial Balance: This report summarizes sources of income and expenditure."
+msgstr ""
+
+#: Help_ch_Reports.xml:206(title)
+#, fuzzy
+msgid "Business Reports"
+msgstr "<b>_Διαθέσιμες αναφορές</b>"
+
+#: Help_ch_Reports.xml:208(para)
+msgid "The Business Reports includes Customer and Vendor Reports and Printable Invoices as well as Aging reports."
+msgstr ""
+
+#: Help_ch_Reports.xml:213(para)
+#, fuzzy
+msgid "Customer Report:"
+msgstr "Αναφορά πελάτη"
+
+#: Help_ch_Reports.xml:217(para)
+#, fuzzy
+msgid "Easy Invoice:"
+msgstr "Νέο τιμολόγιο"
+
+#: Help_ch_Reports.xml:221(para)
+#, fuzzy
+msgid "Employee Report:"
+msgstr "Αναφορά υπαλλήλου"
+
+#: Help_ch_Reports.xml:225(para)
+#, fuzzy
+msgid "Fancy Invoice:"
+msgstr "Φανταχτερό τιμολόγιο"
+
+#: Help_ch_Reports.xml:229(para)
+#, fuzzy
+msgid "Payable Aging:"
+msgstr "Καθυστερήσεις πληρωμών"
+
+#: Help_ch_Reports.xml:233(para)
+#, fuzzy
+msgid "Printable Invoice:"
+msgstr "Εκτυπώσιμο τιμολόγιο"
+
+#: Help_ch_Reports.xml:237(para)
+#, fuzzy
+msgid "Receivable Aging:"
+msgstr "Καθυστερήσεις εισπράξεων"
+
+#: Help_ch_Reports.xml:241(para)
+#, fuzzy
+msgid "Vendor Report:"
+msgstr "Αναφορά προμηθευτή"
+
+#: Help_ch_Reports.xml:248(title)
+#, fuzzy
+msgid "Customizing Reports and Graphs"
+msgstr "Διαχείριση και εκτέλεση προσαρμοσμένων αναφορών"
+
+#: Help_ch_Reports.xml:250(para)
+msgid "GnuCash reports have many options for customization. To access report options choose the Options button on the toolbar."
+msgstr ""
+
+#: Help_ch_Reports.xml:253(para)
+msgid "Check changed Graphic Engine Options and describe Saving Customized Reports"
+msgstr ""
+
+#. suggest how to save report options E.g. Choose definite options when you
+#. want to see an Income Statement, so you want to save them for future and
+#. not to choose all the time.
+#.
+#. File -> Add Report   (in 2.0.5).
+#. But first, you must change the title of the report in the options.
+#: Help_ch_Reports.xml:262(para)
+msgid "Many reports share similar sorts of options. Some common ones include:"
+msgstr ""
+
+#: Help_ch_Reports.xml:266(para)
+msgid "Report Name: Set the title of the report. This is also used to print the report for later viewing."
+msgstr ""
+
+#: Help_ch_Reports.xml:271(para)
+msgid "Date Options: Reports typically specify either a single date, or a date range, for the report. Dates can be specified in two ways, either directly (using the date selector), or by selecting a relative date from the menu. Relative dates allow you to specify dates like \"Beginning of this year\" or \"Today\"."
+msgstr ""
+
+#: Help_ch_Reports.xml:279(para)
+msgid "Step Size: This option is used on bar charts to determine the interval which each bar represents. Typical values are daily, weekly, monthly, and yearly."
+msgstr ""
+
+#: Help_ch_Reports.xml:284(para)
+msgid "Accounts: Select the appropriate accounts for the report. Note that in some reports only certain types of accounts can be selected. For example, an expense piechart only allows expense accounts to be selected."
+msgstr ""
+
+#: Help_ch_Reports.xml:290(para)
+msgid "Show Long Account Names: This option allows displaying either short account names (for example, Power) or long account names (for example, Utilities:Power)."
+msgstr ""
+
+#: Help_ch_Reports.xml:296(para)
+msgid "Include Subaccounts?: Summary reports typically have an include all subaccounts option, which if selected ensures that all subaccounts are included if the parent account is."
+msgstr ""
+
+#: Help_ch_Reports.xml:302(para)
+msgid "Depth: This option allows the selection of how many levels the report displays subaccounts. If the subaccounts go deeper than selected, an overall value for all the subaccounts is calculated and included in a total. To make sure every account selected is individually displayed, select All."
+msgstr ""
+
+#: Help_ch_Reports.xml:309(para)
+msgid "Style Sheet: Select a Style Sheet. Style sheets control how reports are displayed. At the moment, there are three style sheets, \"default\", \"Easy\" and \"technicolor\". You can customize each of these from the Edit -&gt; Style Sheets... menu item. This is described in the Changing Style Sheets section. <xref linkend=\"change-style\"/>"
+msgstr ""
+
+#: Help_ch_Reports.xml:316(para)
+msgid "Plot Dimensions: There are width and height options for most graphs, which specify the displayed dimensions (in pixels)."
+msgstr ""
+
+#: Help_ch_Reports.xml:321(para)
+msgid "Report Currency: Select the report currency. Generally, values will be converted to this currency for display."
+msgstr ""
+
+#: Help_ch_Reports.xml:326(para)
+msgid "Price Source: Select how stock and currency prices are calculated in this report. Choose between a weighted average of prices over all transactions, prices at current values, or prices at the time of the report date."
+msgstr ""
+
+#: Help_ch_Reports.xml:332(para)
+msgid "Totals: Charts display totals in the chart legend if this option is selected."
+msgstr ""
+
+#: Help_ch_Reports.xml:337(para)
+msgid "Maximum Slices: Controls the maximum number of slices displayed in a piechart - other accounts will be placed in a slice marked Other."
+msgstr ""
+
+#: Help_ch_Reports.xml:342(para)
+msgid "Maximum Bars: Controls the maximum number of bars displayed in a barchart."
+msgstr ""
+
+#: Help_ch_Reports.xml:347(para)
+msgid "Display Columns: Choose columns to show from the register."
+msgstr ""
+
+#: Help_ch_Reports.xml:353(title)
+msgid "Printing or Exporting Reports and Graphs"
+msgstr ""
+
+#: Help_ch_Reports.xml:355(para)
+msgid "Verify !!! How customize printing with Gnome?"
+msgstr ""
+
+#: Help_ch_Reports.xml:357(para)
+msgid "GnuCash is able to print reports and to export the reports to HTML (web) pages. The Print GnuCash Document dialog is accessed from the Print button on the toolbar or go to File -&gt; Print in the menu. To Export a report to a web page (HTML) select the Export button on the toolbar and type in a file name."
+msgstr ""
+
+#: Help_ch_Reports.xml:363(para)
+msgid "The Print GnuCash Document dialog is used to select which Printer to send the print job to or to print to a File. It also contains a Preview button to view the document before printing. Press Print to send the job to the selected printer or Cancel to dismiss the Print dialog."
+msgstr ""
+
+#: Help_ch_Reports.xml:369(para)
+msgid "Printing from an open register prints the Account Report, which is also called the Register Report. This lists transactions in the account with a total. Other reports print as viewed in the Report screen."
+msgstr ""
+
+#: Help_ch_Reports.xml:375(title)
+#, fuzzy
+msgid "Creating Reports and Graphs"
+msgstr "Διαχείριση και εκτέλεση προσαρμοσμένων αναφορών"
+
+#: Help_ch_Reports.xml:377(para)
+msgid "This section may need updating !!!"
+msgstr ""
+
+#: Help_ch_Reports.xml:379(para)
+msgid "It is possible to write reports if the current ones are not suitable. To do this you will need to know Scheme (a LISP-like programming language), and it is an excellent idea to have a copy of the GnuCash source code available."
+msgstr ""
+
+#: Help_ch_Reports.xml:383(para)
+msgid "The reporting interface is documented in the source code file src/report/report-system/doc/report-html.txt. The file src/report/utility-reports/hello-world.scm in the GnuCash source distribution provides a good example of how reports are developed."
+msgstr ""
+
+#: Help_ch_Reports.xml:388(para)
+msgid "It is also necessary to access data from the engine to get information for your report. This is performed by a set of Scheme wrapper functions that are documented in the file src/g-wrap/gnc.html. Examine some of the other reports in src/scm/report for an indication of how they are used."
+msgstr ""
+
+#: Help_ch_Reports.xml:393(para)
+msgid "At present, reports are produced by calling a HTML-generation API, which outputs a dialect of HTML and rendering this with a HTML widget. This has limitations, particularly when trying to align objects precisely, as might be necessary for printing onto pre-printed invoices for example."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_Reports.xml:0(None)
+msgid "translator-credits"
+msgstr "Νίκος Χαρωνιτάκης <nikosx@gmail.com>"
+

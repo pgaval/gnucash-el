@@ -36,7 +36,7 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-22 16:56+0300\n"
-"PO-Revision-Date: 2010-06-21 17:18+0200\n"
+"PO-Revision-Date: 2010-06-22 20:25+0200\n"
 "Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
@@ -2715,7 +2715,7 @@ msgstr "_Καταχώρηση τιμολογίου"
 #: ../src/business/business-gnome/gnc-plugin-page-invoice.c:138
 #, fuzzy
 msgid "Post this Invoice to your Chart of Accounts"
-msgstr "Καταχώρηση αυτού του τιμολογίου στο Δένδρο των λογαριασμών σας"
+msgstr "Καταχώρηση αυτού του τιμολογίου στο δένδρο των λογαριασμών σας"
 
 #: ../src/business/business-gnome/gnc-plugin-page-invoice.c:142
 msgid "_Unpost Invoice"
@@ -8868,7 +8868,7 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_window_pages_account_tree.schemas.in.h:3
 msgid "If active, non currency commodities (stocks) will be shown. Otherwise they will be hidden."
-msgstr ""
+msgstr "Αν είναι ενεργό, μη νομισματικές αξίες (μετοχές) θα εμφανίζονται. Διαφορετικά θα αποκρύπτονται."
 
 #: ../src/gnome/schemas/apps_gnucash_window_pages_account_tree.schemas.in.h:4
 msgid "Profit/loss ending date type"
@@ -8880,7 +8880,7 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_window_pages_account_tree.schemas.in.h:6
 msgid "Show a grand total of all accounts converted to the default report currency"
-msgstr ""
+msgstr "Εμφάνιση του γενικού συνόλου όλων των λογαριασμών στο προεπιλεγμένο νόμισμα της αναφοράς"
 
 #: ../src/gnome/schemas/apps_gnucash_window_pages_account_tree.schemas.in.h:7
 msgid "Show non currency commodities"
@@ -9222,6 +9222,8 @@ msgid ""
 "Error: Failure saving state file.\n"
 "  %s"
 msgstr ""
+"Σφάλμα: Αδυναμία αποθήκευσης αρχείου κατάστασης.\n"
+" %s"
 
 #: ../src/gnome-utils/dialog-account.c:455
 msgid "Could not create opening balance."
@@ -9236,7 +9238,7 @@ msgstr "Ορισμός των θυγατρικών σε ίδιο τύπο;"
 #: ../src/gnome-utils/dialog-account.c:667
 #, c-format
 msgid "The children of the edited account have to be changed to type \"%s\" to make them compatible."
-msgstr ""
+msgstr "Ο θυγατρικός λογαριασμός του υπό επεξεργασία λογαριασμού πρέπει να αλλάξει τον τύπο του σε \"%s\" για να είναι μεταξύ τους συμβατοί."
 
 #. children
 #: ../src/gnome-utils/dialog-account.c:678
@@ -9322,6 +9324,8 @@ msgid ""
 "\n"
 "Exchange code (ISIN, CUSIP or similar): "
 msgstr ""
+"\n"
+"Κωδικός (ISIN, CUSIP ή παρόμοιος): "
 
 #: ../src/gnome-utils/dialog-commodity.c:184
 msgid ""
@@ -12818,7 +12822,7 @@ msgstr ""
 #: ../src/import-export/hbci/druid-hbci-initial.c:145
 #, c-format
 msgid "%s at %s (code %s)"
-msgstr ""
+msgstr "%s σε %s (κωδικός %s)"
 
 #: ../src/import-export/aqbanking/druid-ab-initial.c:540
 #: ../src/import-export/hbci/druid-hbci-initial.c:150
@@ -13106,9 +13110,8 @@ msgstr "Μορφή εισαγόμενων δεδομένων CSV"
 
 #: ../src/import-export/aqbanking/schemas/apps_gnucash_dialog_hbci.schemas.in.h:2
 #: ../src/import-export/hbci/schemas/apps_gnucash_dialog_hbci.schemas.in.h:2
-#, fuzzy
 msgid "Close window when finished"
-msgstr "Κλείσιμο αυτού του παραθύρου"
+msgstr "Κλείσιμο αυτού του παραθύρου στο τέλος"
 
 #: ../src/import-export/aqbanking/schemas/apps_gnucash_dialog_hbci.schemas.in.h:3
 #: ../src/import-export/hbci/schemas/apps_gnucash_dialog_hbci.schemas.in.h:3
@@ -13262,9 +13265,9 @@ msgid "No balance, deposit, or withdrawal column."
 msgstr "Χωρίς στήλη για υπόλοιπο, κατάθεση ή ανάληψη."
 
 #: ../src/import-export/csv/gnc-csv-model.c:1043
-#, fuzzy, c-format
+#, c-format
 msgid "%s column could not be understood."
-msgstr "Το αρχείο δεν μπόρεσε να ανοιχτεί ξανά."
+msgstr "η %s στήλη δεν μπορεί να κατανοηθεί."
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:1
 msgid "Colon (:)"
@@ -13833,9 +13836,8 @@ msgid "The log file you selected cannot be read.  The file header was not recogn
 msgstr "Το αρχείο καταγραφών που επιλέξατε δεν μπορεί να αναγνωσθεί. Η κεφαλίδα του αρχείου δεν αναγνωρίσθηκε."
 
 #: ../src/import-export/log-replay/gnc-plugin-log-replay.c:47
-#, fuzzy
 msgid "_Replay GnuCash .log file..."
-msgstr "Ανάγνωση αρχείου..."
+msgstr "_Αναπαραγωγή αρχείου .log του GnuCash..."
 
 #: ../src/import-export/log-replay/gnc-plugin-log-replay.c:48
 msgid "Replay a GnuCash log file after a crash.  This cannot be undone."
@@ -14272,9 +14274,8 @@ msgid "Update your GnuCash accounts"
 msgstr "Ενημέρωση των GnuCash λογαριασμών σας"
 
 #: ../src/import-export/qif-import/qif.glade.h:76
-#, fuzzy
 msgid "_Imported transactions needing review:"
-msgstr "Οι εισαγμένες συναλλαγές χρειάζονται"
+msgstr "_Εισαγόμενες συναλλαγές που χρειάζονται έλεγχο:"
 
 #: ../src/import-export/qif-import/qif.glade.h:78
 msgid "_Possible matches for the selected transaction:"
@@ -14840,6 +14841,9 @@ msgid ""
 "\n"
 "'%s'"
 msgstr ""
+"Δεν είναι δυνατή η διαγραφή της συναλλαγής. Αυτή η συναλλαγή έχει οριστεί μόνο για ανάγνωση γιατί:\n"
+"\n"
+"'%s'"
 
 #: ../src/register/ledger-core/split-register-model.c:1942
 #, fuzzy
@@ -16824,9 +16828,8 @@ msgstr "Πλάτος του λογότυπου στην μορφή CSS, πχ 10%
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
 #: ../intl-scm/guile-strings.c:598
 #: ../intl-scm/guile-strings.c:1574
-#, fuzzy
 msgid "Payment received, thank you"
-msgstr "Πληρωμή, ευχαριστούμε"
+msgstr "Έγινε η είσπραξη της πληρωμής, ευχαριστούμε"
 
 #. src/business/business-reports/taxinvoice.scm
 #. src/business/business-reports/gnucash/report/taxinvoice.scm
@@ -17981,7 +17984,7 @@ msgstr ""
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2436
 msgid "End of previous quarterly accounting period"
-msgstr ""
+msgstr "Τέλος της λογιστικής περιόδου προηγούμενο τριμήνου"
 
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2440
@@ -18354,7 +18357,7 @@ msgstr "Προτίμηση όπου είναι δυνατό της χρήσης 
 #: ../intl-scm/guile-strings.c:4270
 #, fuzzy
 msgid "Display the ticker symbols"
-msgstr "Να εμφανιστούν τα σύνολα;"
+msgstr "Εμφάνιση συμβόλων αξιών"
 
 #. src/report/standard-reports/advanced-portfolio.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/advanced-portfolio.scm
@@ -20285,9 +20288,8 @@ msgstr "Εμφάνιση δύο στηλών"
 #. src/report/standard-reports/gnucash/report/standard-reports/register.scm
 #: ../intl-scm/guile-strings.c:3076
 #: ../intl-scm/guile-strings.c:4712
-#, fuzzy
 msgid "Display the value in transaction currency?"
-msgstr "Εμφάνιση της περιγραφής"
+msgstr "Display the value in transaction currency?"
 
 #. src/report/standard-reports/register.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/register.scm
@@ -20910,7 +20912,7 @@ msgstr "Τύπος Φίλτρου"
 #: ../intl-scm/guile-strings.c:5946
 #: ../intl-scm/guile-strings.c:6642
 msgid "Void Transactions?"
-msgstr "Ακύρωση συναλλαγών;"
+msgstr "Ακυρωμένες συναλλαγές;"
 
 #. src/report/standard-reports/general-ledger.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/general-ledger.scm
@@ -21981,7 +21983,7 @@ msgstr "Προοδευτική άθροιση"
 #: ../intl-scm/guile-strings.c:3912
 #: ../intl-scm/guile-strings.c:5548
 msgid "Calculate as running sum?"
-msgstr ""
+msgstr "Υπολογισμός ως προοδευτικό άθροισμα;"
 
 #. src/report/standard-reports/budget-barchart.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-barchart.scm

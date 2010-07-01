@@ -36,7 +36,7 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-22 16:56+0300\n"
-"PO-Revision-Date: 2010-06-22 20:25+0200\n"
+"PO-Revision-Date: 2010-06-29 00:16+0200\n"
 "Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
@@ -495,9 +495,8 @@ msgstr "Δημιουργήθηκε από τιμολόγιο. Δοκιμάστε
 
 #. Translators: This is the memo of an auto-created split
 #: ../src/business/business-core/gncInvoice.c:1464
-#, fuzzy
 msgid "Automatic Payment Forward"
-msgstr "Αυτόματη πληρωμή"
+msgstr "Προώθηση αυτόματης πληρωμής"
 
 #: ../src/business/business-core/gncInvoice.c:1465
 msgid "Auto Split"
@@ -2904,7 +2903,6 @@ msgid "Show bills due reminder at startup"
 msgstr "Εμφάνιση κατά την εκκίνηση του διαλόγου υπενθύμισης "
 
 #: ../src/business/business-gnome/schemas/apps_gnucash_dialog_business_common.schemas.in.h:11
-#, fuzzy
 msgid "Show bills due within this many days"
 msgstr "Εμφάνιση λογαριασμών που λήγουν σε αυτό τον αριθμό ημερών"
 
@@ -3308,7 +3306,7 @@ msgstr ""
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:593
 msgid "Enter the Entry Description"
-msgstr "Εισαγετε την περιγραφή της καταχώρησης"
+msgstr "Εισάγετε την περιγραφή της καταχώρησης"
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:609
 msgid "Enter the Discount Amount"
@@ -3352,15 +3350,15 @@ msgstr "Επιλογή του τρόπου υπολογισμού της Έκπ�
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:678
 msgid "Enter the unit-Price for this Entry"
-msgstr "Εισάγετε την Τιμή-τεμαχίου για αυτή την Καταχώρηση"
+msgstr "Εισάγετε την τιμή τεμαχίου για αυτή την καταχώρηση"
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:690
 msgid "Enter the Quantity of units for this Entry"
-msgstr "Εισάγετε την Ποσότητα των τεμαχίων για αυτή την Καταχώρηση"
+msgstr "Εισάγετε την ποσότητα των τεμαχίων για αυτή την καταχώρηση"
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:702
 msgid "Enter the Tax Table to apply to this entry"
-msgstr "Εισάγετε τον Πίνακα Φόρου που εφαρμόζεται σε αυτή την καταχώρηση"
+msgstr "Εισάγετε τον πίνακα φόρου που εφαρμόζεται σε αυτή την καταχώρηση"
 
 #: ../src/business/business-ledger/gncEntryLedgerModel.c:711
 msgid "Is this entry taxable?"
@@ -3418,7 +3416,7 @@ msgstr "Ο Πίνακας Φόρου \"%s\" χρησιμοποιείται ήδ�
 
 #: ../src/business/dialog-tax-table/dialog-tax-table.c:616
 msgid "You cannot remove the last entry from the tax table. Try deleting the tax table if you want to do that."
-msgstr ""
+msgstr "Δεν μπορείτε να διαγράψετε την τελευταία καταχώρηση από τον πίνακα φόρων. Δοκιμάστε να διαγράψετε τον πίνακα φόρων αν το επιθυμείτε αυτό."
 
 #: ../src/business/dialog-tax-table/dialog-tax-table.c:623
 msgid "Are you sure you want to delete this entry?"
@@ -3524,7 +3522,7 @@ msgstr ""
 "το αρχείο και εκκινήστε ξανά το GnuCash.\n"
 
 #: ../src/core-utils/gnc-filepath-utils.c:239
-#, c-format
+#, fuzzy, c-format
 msgid ""
 "An unknown error occurred when validating that the\n"
 "  %s\n"
@@ -3532,6 +3530,11 @@ msgid ""
 "problem and restart GnuCash.  The reported error \n"
 "was '%s' (errno %d)."
 msgstr ""
+"Συνέβει άγνωστο σφάλμα κατά την εξέταση εγκυρότητας του\n"
+"  %s\n"
+"καταλόγου Παρακαλώ διορθώστε το πρόβλημα\n"
+"και επανεκκινησετε το GnuCash. Το αναφερόμενο σφάλμα\n"
+"ήταν '%s' (errno %d)."
 
 #: ../src/core-utils/gnc-filepath-utils.c:264
 #, c-format
@@ -4168,9 +4171,8 @@ msgid "Never"
 msgstr "Ποτέ"
 
 #: ../src/gnome/dialog-sx-since-last-run.c:521
-#, fuzzy
 msgid "(Need Value)"
-msgstr "Νέα αξία"
+msgstr "(Χρειάζεται τιμή)"
 
 #. Translators: %d is the number of transactions. This is a
 #. ngettext(3) message.
@@ -5622,6 +5624,7 @@ msgid "Add a new price."
 msgstr "Προσθήκη νέας τιμής."
 
 #: ../src/gnome/glade/price.glade.h:2
+#, fuzzy
 msgid ""
 "Bid\n"
 "Ask\n"
@@ -5629,6 +5632,11 @@ msgid ""
 "Net Asset Value\n"
 "Unknown"
 msgstr ""
+"Bid\n"
+"Ask\n"
+"Last\n"
+"Net Asset Value\n"
+"Άγνωστο"
 
 #: ../src/gnome/glade/price.glade.h:7
 #: ../src/gnome-utils/dialog-commodity.c:290
@@ -5732,7 +5740,7 @@ msgstr "Βαθμοί"
 
 #: ../src/gnome/glade/print.glade.h:10
 msgid "Enter a title for this custom format.  This title will appear in the \"Check format\" selector of the Print Check dialog.  Using the title of an existing custom format will cause that format to be overwritten."
-msgstr ""
+msgstr "Εισάγετε ένα όνομα για αυτή την προσαρμοσμένη μορφή. Αυτό το όνομα θα εφαρμοστή στην λίστα επιλογής μορφής επιταγής. Η χρήση ενός ονόματος μορφής που υπάρχει ήδη θα προκαλέσει την αντικατάσταση αυτού."
 
 #: ../src/gnome/glade/print.glade.h:11
 msgid ""
@@ -8128,7 +8136,7 @@ msgstr "Στήλες που χρησιμοποιούνται στην ταξιν
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_common.schemas.in.h:2
 msgid "Default to 'new search' if fewer than this number of items is returned"
-msgstr ""
+msgstr "Προεπιλογή σε 'νέα αναζήτηση' αν επιστρέφονται λιγότερα αποτελέσματα από αυτόν τον αριθμό"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_common.schemas.in.h:3
 msgid "If active, the \"New Hierarchy\" window will be shown whenever the \"New File\" menu item is chosen. Otherwise it will not be shown."
@@ -8348,9 +8356,8 @@ msgid "Which check position to print"
 msgstr "Ποια περιοχή της επιταγής θα εκτυπωθεί"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_reconcile.schemas.in.h:1
-#, fuzzy
 msgid "Always reconcile to today"
-msgstr "Εμφάνιση της ημερομηνίας συμφωνίας;"
+msgstr "Πάντα συμφωνία στην τρέχουσα ημερομηνία"
 
 #: ../src/gnome/schemas/apps_gnucash_dialog_reconcile.schemas.in.h:2
 msgid "If active, after reconciling a credit card account, prompt the user to enter a credit card payment. Otherwise do not prompt the user for this."
@@ -8430,12 +8437,11 @@ msgstr "Η επόμενη συμβουλή που θα εμφανιστεί."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:1
 msgid "\"Enter\" key moves to bottom of register"
-msgstr ""
+msgstr "Το πλήκτρο \"Enter\" μετακινεί στο κάτω μέρος του μητρώο"
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:2
-#, fuzzy
 msgid "Accounts to reverse the balance"
-msgstr "Λογαριασμοί Μετοχών για αναφορά"
+msgstr "Λογαριασμοί για αντιστροφή υπόλοιπου"
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:3
 msgid "Allow file incompatibility with older versions."
@@ -8459,7 +8465,7 @@ msgstr "Χαρακτήρας που θα χρησιμοποιηθεί ως δι�
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:8
 msgid "Closing a tab moves to the most recently visited tab."
-msgstr ""
+msgstr "Το κλείσιμο μιας καρτέλας σας μετακινεί στην πιο πρόσφατα καρτέλα που έχετε επισκεφθεί."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:9
 msgid "Color all lines of a transaction the same"
@@ -8565,7 +8571,7 @@ msgstr ""
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:34
 msgid "If active, pressing the enter key will move to the bottom of the register. Otherwise pressing the enter key will move to the next transaction line."
-msgstr ""
+msgstr "Αν είναι ενεργό, το πάτημα του πλήκτρου enter θα μετακινεί στο κάτω μέρος του μητρώου. Διαφορετικά το πάτημα του πλήκτρου enter θα μετακινεί στην επόμενη γραμμή συναλλαγής."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:35
 msgid "If active, the register will be colored as specified by the system theme. This can be overridden to provide custom colors by editing the gtkrc file in the users home directory. Otherwise the standard register colors will be used that GnuCash has always used."
@@ -8593,9 +8599,8 @@ msgid "Number of automatic decimal places"
 msgstr "Αριθμός αυτόματων δεκαδικών σημείων"
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:41
-#, fuzzy
 msgid "Only display leaf account names."
-msgstr "Εμφάνιση του ονόματος λογαριασμού;"
+msgstr "Προβολή μόνο τελευταίου λογαριασμού."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:42
 msgid "Position of the notebook tabs"
@@ -8686,7 +8691,7 @@ msgstr "Αυτή η ρύθμιση ορίζει πως θα εμφανίζοντ
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:65
 msgid "This setting controls how the labels on toolbar buttons are shown. If set to \"system\" then GnuCash will use the desktop setting for how to draw toolbar buttons. If set to \"icon\" then only icons will be show on toolbar buttons.. If set to \"text\" only the labels will be shown. If set to \"both\" then both icons and labels will be shown. If set to \"both-horiz\" then icons will be shown for all buttons with labels added on important buttons."
-msgstr ""
+msgstr "Αυτή η ρύθμιση ορίζει πως θα εμφανίζονται οι ετικέτες κειμένου στα κουμπιά της εργαλειοθήκης. Αν οριστεί σε \"system\" τότε το GnuCash θα χρησιμοποιήσει τις ρυθμίσεις συστήματος για το πως θα εμφανίζονται τα κουμπιά. Αν οριστεί σε \"icon\" τότε θα εμφανίζονται μόνο εικονίδια στα κουμπιά. Αν οριστεί σε  \"both\" τότε θα εμφανίζονται εικονίδια μαζί με κείμενο. Αν οριστεί σε  \"both-horiz\" τότε θα εμφανίζονται εικονίδια σε όλα τα κουμπιά και κείμενο μόνο στα σημαντικότερα."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:66
 msgid "This setting controls the default currency used for reports. If set to \"locale\" then GnuCash will retrieve the default currency from the user's locale setting. If set to \"other\", GnuCash will use the setting specified by the currency_other key."
@@ -8702,11 +8707,11 @@ msgstr "Αυτή η ρύθμιση ορίζει τον χαρακτήρα που
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:69
 msgid "This setting determines the edge at which the summary bar for various pages is drawn. Possible values are \"top\" and \"bottom\". It defaults to \"bottom\"."
-msgstr ""
+msgstr "Αυτή η ρύθμιση ορίζει που θα εμφανίζεται η γραμμή περίληψης για τις διάφορες σελίδες. Πιθανές τιμές είναι  \"πάνω\" και \"κάτω\". Προεπιλογή είναι το \"κάτω\"."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:70
 msgid "This setting determines the edge at which the tabs for switching pages in notebooks are drawn. Possible values are \"top\", \"left\", \"bottom\" and \"right\". It defaults to \"top\"."
-msgstr ""
+msgstr "Αυτή η ρύθμιση ορίζει που θα εμφανίζονται οι καρτέλες που χρησιμοποιούνται για εναλλαγή ανάμεσα σε σελίδες. Πιθανές τιμές είναι  \"πάνω\", \"αριστερά\", \"κάτω\" and \"δεξιά\". Προεπιλογή είναι το \"πάνω\"."
 
 #: ../src/gnome/schemas/apps_gnucash_general.schemas.in.h:71
 msgid "This setting specifies the default currency used for new accounts if the currency_choice setting is set to \"other\". This field must contain the three letter ISO 4217 code for a currency (e.g. USD, GBP, RUB)."
@@ -9486,15 +9491,16 @@ msgstr "Εμφάνιση λογαριασμών εσόδων και εξόδων
 
 #: ../src/gnome-utils/dialog-transfer.c:1306
 msgid "You must specify an account to transfer from, or to, or both, for this transaction. Otherwise, it will not be recorded."
-msgstr ""
+msgstr "Πρέπει να ορίσετε ένα λογαριασμό για μεταφορά από ή προς ή και τα δύο για αυτή την συναλλαγή. Διαφορετικά, δεν θα γίνει η εγγραφή."
 
 #: ../src/gnome-utils/dialog-transfer.c:1316
 msgid "You can't transfer from and to the same account!"
 msgstr "Δεν μπορείτε να κάνετε μεταφορά από ένα λογαριασμό στον εαυτό του!"
 
 #: ../src/gnome-utils/dialog-transfer.c:1342
+#, fuzzy
 msgid "You can't transfer from a non-currency account.  Try reversing the \"from\" and \"to\" accounts and making the \"amount\" negative."
-msgstr ""
+msgstr "Δεν μπορεί να γίνει μεταφορά από μη νομισματικό λογαριασμό. "
 
 #: ../src/gnome-utils/dialog-transfer.c:1367
 msgid "You must enter an amount to transfer."
@@ -10284,7 +10290,7 @@ msgstr "<b>Επαλήθευση</b>"
 
 #: ../src/gnome-utils/glade/preferences.glade.h:22
 msgid "<b>Reverse Balanced Accounts</b>"
-msgstr ""
+msgstr "<b>Λογαριασμοί με αντίστροφο υπόλοιπο</b>"
 
 #: ../src/gnome-utils/glade/preferences.glade.h:23
 msgid "<b>Search Dialog</b>"
@@ -10584,11 +10590,11 @@ msgstr "Εμφάνιση του διαλόγου νέας λίστας λογα�
 
 #: ../src/gnome-utils/glade/preferences.glade.h:101
 msgid "Print '***' before and after each text field on the check."
-msgstr ""
+msgstr "Εκτύπωση  '***' μπροστά και πίσω από κάθε πεδίο κειμένου στην επιταγή."
 
 #: ../src/gnome-utils/glade/preferences.glade.h:102
 msgid "Print _blocking chars"
-msgstr ""
+msgstr "Εκτύπωση _περιοριστικών χαρακτήρων"
 
 #: ../src/gnome-utils/glade/preferences.glade.h:103
 msgid "Print _date format"
@@ -10801,9 +10807,8 @@ msgid "_Auto-raise lists"
 msgstr ""
 
 #: ../src/gnome-utils/glade/preferences.glade.h:158
-#, fuzzy
 msgid "_Auto-split ledger"
-msgstr "Καθολικό αυτόματης διαίρεσης"
+msgstr "Μητρώοι _αυτόματης διαίρεσης"
 
 #: ../src/gnome-utils/glade/preferences.glade.h:159
 msgid "_Automatic decimal point"
@@ -12143,9 +12148,9 @@ msgid "%s, Total:"
 msgstr "%s, Σύνολο:"
 
 #: ../src/gnome-utils/window-main-summarybar.c:336
-#, fuzzy, c-format
+#, c-format
 msgid "%s, Non Currency Commodities Total:"
-msgstr "Εμφάνιση Ξένων Νομισμάτων"
+msgstr "%s, Σύνολο μη νομισματικών αξιών:"
 
 #: ../src/gnome-utils/window-main-summarybar.c:339
 #, c-format
@@ -13053,15 +13058,13 @@ msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμ
 
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:112
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:119
-#, fuzzy
 msgid "_Direct Debit..."
-msgstr "Επικόλληση συναλλαγής"
+msgstr "_Άμεση χρέωση..."
 
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:113
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:120
-#, fuzzy
 msgid "Issue a new direct debit note online through Online Banking"
-msgstr "Προσθήκη νέας συναλλαγής στο λογαριασμό"
+msgstr "Έκδοση νέας online εντολής άμεσης χρέωσης με χρήση Online Banking"
 
 #: ../src/import-export/aqbanking/gnc-plugin-aqbanking.c:119
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:126
@@ -13410,8 +13413,9 @@ msgid ""
 msgstr ""
 
 #: ../src/import-export/generic-import.glade.h:29
+#, fuzzy
 msgid "Generic import transaction matcher"
-msgstr ""
+msgstr "Γενικός εισαγωγέας ταιριασμένων συναλλαγών"
 
 #: ../src/import-export/generic-import.glade.h:30
 msgid "Green"
@@ -13584,9 +13588,8 @@ msgid "Activate verbose debug messages for Online Banking."
 msgstr ""
 
 #: ../src/import-export/hbci/glade/hbciprefs.glade.h:5
-#, fuzzy
 msgid "Remember the Online Banking PIN in memory during a session."
-msgstr "Διατήρηση στην μνήμη του PIN για το Online Banking κατά την διάρκεια της συνεδρίας."
+msgstr "Διατήρηση στην μνήμη  κατά την διάρκεια της συνεδρίας του PIN για το Online Banking."
 
 #: ../src/import-export/hbci/gnc-hbci-utils.c:386
 msgid ""
@@ -13616,11 +13619,11 @@ msgstr "Δεν βρέθηκε κάρτα στην συσκευή ανάγνωσ�
 
 #: ../src/import-export/hbci/gnc-hbci-utils.c:414
 msgid "Unfortunately this Online Banking job is not supported by your bank or for your account. Aborting."
-msgstr ""
+msgstr "Δυστυχώς αυτή η Online Banking εργασία δεν υποστηρίζεται από την τράπεζας σας για τον λογαριασμός σας. Εγκατάλειψη."
 
 #: ../src/import-export/hbci/gnc-hbci-utils.c:422
 msgid "The server of your bank refused the Online Banking connection. Please try again later. Aborting."
-msgstr ""
+msgstr "Ο εξυπηρετητής της τράπεζας σας αρνήθηκε την σύνδεση Online Banking. Παρακαλώ προσπαθήστε ξανά αργότερα. Εγκατάλειψη."
 
 #: ../src/import-export/hbci/gnc-hbci-utils.c:591
 msgid "Executing the Online Banking outbox failed. Please check the log window."
@@ -13739,7 +13742,7 @@ msgstr "Πληροφορία"
 
 #: ../src/import-export/import-main-matcher.c:620
 msgid "New, already balanced"
-msgstr ""
+msgstr "Νέα, έχει ήδη ισοζυγιστεί"
 
 #. Translators: %1$s is the amount to be
 #. transferred. %2$s is the destination account.
@@ -13759,7 +13762,7 @@ msgstr ""
 #: ../src/import-export/import-main-matcher.c:665
 #, c-format
 msgid "New, UNBALANCED (need acct to transfer %s)!"
-msgstr ""
+msgstr "New, UNBALANCED (need acct to transfer %s)!"
 
 #: ../src/import-export/import-main-matcher.c:677
 msgid "Reconcile (manual) match"
@@ -14049,7 +14052,7 @@ msgstr "Ακύρωση"
 #: ../src/import-export/qif-import/druid-qif-import.c:2752
 #: ../src/import-export/qif-import/druid-qif-import.c:2756
 msgid "A bug was detected while detecting duplicates."
-msgstr ""
+msgstr "Εντοπίστηκε ένα σφάλμα κατά την αναζήτηση διπλών συναλλαγών."
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2767
 msgid "Conversion completed"
@@ -14310,14 +14313,12 @@ msgid "Add matching transactions below this score"
 msgstr "Προσθήκη συναλλαγών που ταιριάζουν και έχουν χαμηλότερο σκορ"
 
 #: ../src/import-export/schemas/apps_gnucash_import_generic_matcher.schemas.in.h:2
-#, fuzzy
 msgid "Clear matching transactions above this score"
-msgstr "Εκκαθάριση συναλλαγών που ταιριάζουν"
+msgstr "Εκκαθάριση συναλλαγών που ταιριάζουν και είναι πάνω από αυτό το σκορ"
 
 #: ../src/import-export/schemas/apps_gnucash_import_generic_matcher.schemas.in.h:3
-#, fuzzy
 msgid "Enable EDIT transaction action"
-msgstr "Εμφάνιση της περιγραφής συναλλαγής;"
+msgstr "Ενεργοποίηση ΕΠΕΞΕΡΓΑΣΙΑΣ ενέργειας συναλλαγής"
 
 #: ../src/import-export/schemas/apps_gnucash_import_generic_matcher.schemas.in.h:4
 #, fuzzy
@@ -14398,7 +14399,7 @@ msgstr "%B %e, %Y"
 
 #: ../src/register/ledger-core/split-register.c:179
 msgid "This transaction is already being edited in another register. Please finish editing it there first."
-msgstr ""
+msgstr "Η συναλλαγή είναι υπό επεξεργασία σε ένα άλλο μητρώο. Παρακαλώ ολοκληρώστε πρώτα την επεξεργασία εκεί."
 
 #: ../src/register/ledger-core/split-register.c:445
 #, fuzzy
@@ -14832,7 +14833,7 @@ msgstr "Αυτή η συναλλαγή έχει διαιρέσεις, πατήσ
 
 #: ../src/register/ledger-core/split-register-model.c:1403
 msgid "This transaction is a stock split; press the Split button to see details"
-msgstr ""
+msgstr "Αυτή η συναλλαγή είναι από σπλιτ μετοχής, πατήστε το κουμπί διαίρεσης για να δείτε λεπτομέρειες"
 
 #: ../src/register/ledger-core/split-register-model.c:1889
 #, c-format
@@ -17216,7 +17217,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:944
 #: ../intl-scm/guile-strings.c:1920
 msgid "Bracket Total Owed"
-msgstr ""
+msgstr "Παρένθεση συνολικών οφειλών"
 
 #. src/business/business-reports/aging.scm
 #. src/business/business-reports/gnucash/report/aging.scm
@@ -17344,7 +17345,7 @@ msgstr "Μορφή ημερομηνίας Fancy"
 #. src/business/business-utils/business-prefs.scm
 #: ../intl-scm/guile-strings.c:1980
 msgid "The default date format used for fancy printed dates"
-msgstr ""
+msgstr "Η προεπιλεγμένη μορφή ημερομηνίας για χρήση σε εκτυπώσεις ημερομηνίας στο fancy"
 
 #. src/business/business-utils/business-prefs.scm
 #: ../intl-scm/guile-strings.c:1982
@@ -17562,7 +17563,7 @@ msgstr "Δεν υποστηρίζονται  ημερομηνίες πριν τ�
 #: ../intl-scm/guile-strings.c:2236
 #, fuzzy
 msgid "Finding duplicate transactions"
-msgstr "Διαγραφή Συναλλαγής"
+msgstr "Εύρεση διπλών συναλλαγών"
 
 #. src/import-export/qif-import/qif-import/qif-file.scm
 #. src/import-export/qif-import/qif-file.scm
@@ -18949,7 +18950,7 @@ msgstr "Υπόλοιπα γονικού λογαριασμού"
 #: ../intl-scm/guile-strings.c:7082
 #, fuzzy
 msgid "Parent account subtotals"
-msgstr "Μητρικός Λογαριασμός"
+msgstr "Υπόλοιπα γονικού λογαριασμού"
 
 #. src/report/standard-reports/budget-balance-sheet.scm
 #. src/report/standard-reports/income-statement.scm
@@ -20704,9 +20705,8 @@ msgstr ""
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
 #: ../intl-scm/guile-strings.c:3312
 #: ../intl-scm/guile-strings.c:4948
-#, fuzzy
 msgid "Exclude accounts with zero total balances"
-msgstr "Συμπερίληψη λογαριασμών με μηδενικό συνολικό υπόλοιπο"
+msgstr "Εξαίρεση λογαριασμών με μηδενικά συνολικά υπόλοιπα"
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
@@ -20728,7 +20728,7 @@ msgstr "Μορφή αρνητικών ποσών"
 #: ../intl-scm/guile-strings.c:3322
 #: ../intl-scm/guile-strings.c:4958
 msgid "The formatting to use for negative amounts: with a leading sign, or enclosing brackets"
-msgstr ""
+msgstr "Η μορφή που θα χρησιμοποιηθεί για αρνητικά ποσά: με αρνητικό πρόσημο ή μέσα σε παρενθέσεις"
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
@@ -20763,14 +20763,14 @@ msgstr "Μέγεθος γραμματοσειράς σε μορφή CSS font-fam
 #: ../intl-scm/guile-strings.c:3334
 #: ../intl-scm/guile-strings.c:4970
 msgid "The file name of the eguile template part of this report.  This file must be in your .gnucash directory, or else in its proper place within the GnuCash installation directories."
-msgstr ""
+msgstr "Το όνομα αρχείου αυτού του προτύπου eguile για αυτή την αναφορά. Tο αρχείο πρέπει να βρίσκεται στον κατάλογο .gnucash, ή διαφορετικά σε μια κατάλληλη τοποθεσία μέσα στους καταλόγους εγκατάστασης του GnuCash."
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
 #: ../intl-scm/guile-strings.c:3338
 #: ../intl-scm/guile-strings.c:4974
 msgid "The file name of the CSS stylesheet to use with this report.  If specified, this file should be in your .gnucash directory, or else in its proper place within the GnuCash installation directories."
-msgstr ""
+msgstr "Το όνομα αρχείου CSS φύλλου στυλ που θα χρησιμοποιηθεί σε αυτή την αναφορά. Αν οριστεί, το αρχείο πρέπει να βρίσκεται στον κατάλογο .gnucash, ή διαφορετικά σε μια κατάλληλη τοποθεσία μέσα στους καταλόγους εγκατάστασης του GnuCash."
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
@@ -20833,7 +20833,7 @@ msgstr "Προσθήκη πρόσημου στα αρνητικά ποσά, πχ
 #: ../intl-scm/guile-strings.c:3372
 #: ../intl-scm/guile-strings.c:5008
 msgid "brackets"
-msgstr "αγγύλες"
+msgstr "αγκύλες"
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
@@ -20847,7 +20847,7 @@ msgstr "Παρενθέσεις για τα αρνητικά ποσά, πχ ($100
 #: ../intl-scm/guile-strings.c:3376
 #: ../intl-scm/guile-strings.c:5012
 msgid "(Development version -- don't rely on the numbers on this report without double-checking them.<br>Change the 'Extra Notes' option to get rid of this message)"
-msgstr ""
+msgstr "(Έκδοση υπό ανάπτυξη -- μην βασίζεστε στους αριθμούς αυτής της αναφοράς χωρίς να τους ελέγξετε προσεκτικά. <br>Αλλάξτε την επιλογή 'Πρόσθετες σημειώσεις' για να μην εμφανίζεται αυτό το μήνυμα)"
 
 #. src/report/standard-reports/balsheet-eg.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/balsheet-eg.scm
@@ -21060,7 +21060,7 @@ msgstr "Εμφάνιση κωδικού λογαριασμού;"
 #: ../intl-scm/guile-strings.c:5936
 #: ../intl-scm/guile-strings.c:6632
 msgid "Primary Subtotal"
-msgstr ""
+msgstr "Κύριο υποσύνολο"
 
 #. src/report/standard-reports/general-ledger.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/general-ledger.scm
@@ -21082,7 +21082,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:6214
 #: ../intl-scm/guile-strings.c:6910
 msgid "Primary Sort Order"
-msgstr ""
+msgstr "Κύρια σειρά ταξινόμησης"
 
 #. src/report/standard-reports/general-ledger.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/general-ledger.scm
@@ -21104,7 +21104,7 @@ msgstr "Δευτερεύον Κλειδί"
 #: ../intl-scm/guile-strings.c:5942
 #: ../intl-scm/guile-strings.c:6638
 msgid "Secondary Subtotal"
-msgstr ""
+msgstr "Δευτερεύουσα σειρά ταξινόμησης"
 
 #. src/report/standard-reports/general-ledger.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/general-ledger.scm
@@ -21126,7 +21126,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:6224
 #: ../intl-scm/guile-strings.c:6920
 msgid "Secondary Sort Order"
-msgstr ""
+msgstr "Δευτερεύουσα σειρά ταξινόμησης"
 
 #. src/report/standard-reports/net-barchart.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/net-barchart.scm
@@ -22678,7 +22678,7 @@ msgstr "Σειρά ταξινόμησης μητρώου"
 #: ../intl-scm/guile-strings.c:6146
 #: ../intl-scm/guile-strings.c:6842
 msgid "Sort as with the register"
-msgstr ""
+msgstr "Ταξινόμηση σύμφωνα με το μητρώο"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -22713,7 +22713,7 @@ msgstr "Αύξουσα"
 #: ../intl-scm/guile-strings.c:6174
 #: ../intl-scm/guile-strings.c:6870
 msgid "smallest to largest, earliest to latest"
-msgstr ""
+msgstr "μικρότερο σε μεγαλύτερο, λιγότερο πρόσφατο σε πρόφατο"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -22727,7 +22727,7 @@ msgstr "Φθίνουσα"
 #: ../intl-scm/guile-strings.c:6178
 #: ../intl-scm/guile-strings.c:6874
 msgid "largest to smallest, latest to earliest"
-msgstr ""
+msgstr "μεγαλύτερο σε μικρότερο, πρόσφατο σε λιγότερο πρόσφατο"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -22859,14 +22859,14 @@ msgstr "Μη εμφάνιση ποσού"
 #: ../intl-scm/guile-strings.c:6312
 #: ../intl-scm/guile-strings.c:7008
 msgid "Reverse amount display for certain account types"
-msgstr ""
+msgstr "Αντιστροφή προβολής ποσού για συγκεκριμένους τύπους λογαριασμού"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
 #: ../intl-scm/guile-strings.c:6316
 #: ../intl-scm/guile-strings.c:7012
 msgid "Don't change any displayed amounts"
-msgstr ""
+msgstr "Να μην μεταβληθεί κανένα από τα εμφανιζόμενα ποσά"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -22880,7 +22880,7 @@ msgstr "Εισόδημα και Δαπάνη"
 #: ../intl-scm/guile-strings.c:6320
 #: ../intl-scm/guile-strings.c:7016
 msgid "Reverse amount display for Income and Expense Accounts"
-msgstr ""
+msgstr "Αντιστροφή προβολής ποσού για λογαριασμούς εσόδων και εξόδων"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/transaction.scm
 #. src/report/standard-reports/transaction.scm
@@ -23061,7 +23061,7 @@ msgstr "Δε βρέθηκαν συναλλαγές που ταιριάζουν"
 #: ../intl-scm/guile-strings.c:6358
 #: ../intl-scm/guile-strings.c:7054
 msgid "No transactions were found that match the time interval and account selection specified in the Options panel."
-msgstr ""
+msgstr "Δεν βρέθηκαν συναλλαγές που να ταιριάζουν με το χρονικό διάστημα και τους λογαριασμούς που έχουν οριστεί στο πλαίσιο επιλογών."
 
 #. src/report/standard-reports/gnucash/report/standard-reports/account-summary.scm
 #. src/report/standard-reports/account-summary.scm
@@ -23075,7 +23075,7 @@ msgstr "Περίληψη λογαριασμού"
 #: ../intl-scm/guile-strings.c:6380
 #: ../intl-scm/guile-strings.c:7076
 msgid "Depth limit behavior"
-msgstr ""
+msgstr "Συμπεριφορά ορίου βάθους"
 
 #. src/report/standard-reports/gnucash/report/standard-reports/account-summary.scm
 #. src/report/standard-reports/account-summary.scm
@@ -23502,7 +23502,7 @@ msgstr "Διάστημα ανάμεσα στα κελιά του πίνακα"
 #: ../intl-scm/guile-strings.c:8670
 #: ../intl-scm/guile-strings.c:8712
 msgid "Table cell padding"
-msgstr ""
+msgstr "Περιθώριο κελιού πίνακα"
 
 #. src/report/stylesheets/stylesheet-plain.scm
 #. src/report/stylesheets/stylesheet-easy.scm
@@ -23804,7 +23804,7 @@ msgstr "Εικόνα κεφαλίδας"
 #: ../intl-scm/guile-strings.c:8504
 #: ../intl-scm/guile-strings.c:8510
 msgid "Banner for top of report."
-msgstr ""
+msgstr "Εικόνα στο πάνω μέρος της αναφοράς."
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -23855,7 +23855,7 @@ msgstr "Αριστερά"
 #: ../intl-scm/guile-strings.c:8296
 #: ../intl-scm/guile-strings.c:8514
 msgid "Align the banner to the left"
-msgstr ""
+msgstr "Τοποθέτηση εικόνας στα αριστερά"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -23885,7 +23885,7 @@ msgstr "Κέντρο"
 #: ../intl-scm/guile-strings.c:8300
 #: ../intl-scm/guile-strings.c:8518
 msgid "Align the banner in the center"
-msgstr ""
+msgstr "Τοποθέτηση εικόνας στο κέντρο"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -23915,7 +23915,7 @@ msgstr "Δεξιά"
 #: ../intl-scm/guile-strings.c:8304
 #: ../intl-scm/guile-strings.c:8522
 msgid "Align the banner to the right"
-msgstr ""
+msgstr "Τοποθέτηση εικόνας στα δεξιά"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24114,7 +24114,7 @@ msgstr "Εναλλακτικό χρώμα κελιών πίνακα"
 #: ../intl-scm/guile-strings.c:8340
 #: ../intl-scm/guile-strings.c:8558
 msgid "Default alternate background for table cells."
-msgstr ""
+msgstr "Προεπιλεγμένο εναλλακτικό χρώμα παρασκηνίου για τα κελιά πίνακα."
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24135,7 +24135,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:8562
 #: ../intl-scm/guile-strings.c:8638
 msgid "Subheading/Subtotal Cell Color"
-msgstr ""
+msgstr "Υπό κεφαλίδα/Χρώμα κελιού υποσυνόλου"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24171,7 +24171,7 @@ msgstr "Προεπιλεγμένο χρώμα για τις γραμμές υπ�
 #: ../intl-scm/guile-strings.c:8568
 #: ../intl-scm/guile-strings.c:8642
 msgid "Sub-subheading/total Cell Color"
-msgstr ""
+msgstr "Υπό κεφαλίδα/χρώμα κελιού συνόλου"
 
 #. src/report/stylesheets/stylesheet-easy.scm
 #. src/report/stylesheets/stylesheet-fancy.scm
@@ -24423,21 +24423,21 @@ msgstr "Ετικέτα κελιού συνόλου"
 #: ../intl-scm/guile-strings.c:7988
 #: ../intl-scm/guile-strings.c:8768
 msgid "Font info for cells containing total labels"
-msgstr ""
+msgstr "Πληροφορία γραμματοσειράς για κελιά που περιέχουν ετικέτες συνόλου"
 
 #. src/report/stylesheets/stylesheet-css.scm
 #. src/report/stylesheets/gnucash/report/stylesheet-css.scm
 #: ../intl-scm/guile-strings.c:7992
 #: ../intl-scm/guile-strings.c:8772
 msgid "Centered label cell"
-msgstr ""
+msgstr "Κελιά κεντραρισμένης ετικέτας"
 
 #. src/report/stylesheets/stylesheet-css.scm
 #. src/report/stylesheets/gnucash/report/stylesheet-css.scm
 #: ../intl-scm/guile-strings.c:7994
 #: ../intl-scm/guile-strings.c:8774
 msgid "Font info for centered label cells"
-msgstr ""
+msgstr "Πληροφορίες γραμματοσειράς για κελιά κεντραρισμένης ετικέτας"
 
 #. src/report/stylesheets/stylesheet-css.scm
 #. src/report/stylesheets/gnucash/report/stylesheet-css.scm
@@ -25371,7 +25371,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:9256
 #: ../intl-scm/guile-strings.c:9344
 msgid "No Tax Related accounts were found.  Go to the Edit->Tax Options dialog to set up tax-related accounts."
-msgstr ""
+msgstr "Δεν βρέθηκαν λογαριασμοί που σχετίζονται με την φορολογία. Πηγαίνετε στο μενού Επεξεργασία->Επιλογές φόρου και ρυθμίσετε τους λογαριασμούς που σχετίζονται με φόρους."
 
 #. src/report/locale-specific/us/taxtxf-de_DE.scm
 #. src/report/locale-specific/us/gnucash/report/taxtxf-de_DE.scm
@@ -25401,7 +25401,7 @@ msgstr "Φορολογητέο εισόδημα / Αφαιρούμενες δα�
 #: ../intl-scm/guile-strings.c:9264
 #: ../intl-scm/guile-strings.c:9352
 msgid "This report shows your Taxable Income and Deductible Expenses."
-msgstr ""
+msgstr "Αυτή η αναφορά εμφανίζει το φορολογητέο σας εισόδημα και τα έξοδα σας που το μειώνουν."
 
 #. src/report/locale-specific/us/taxtxf-de_DE.scm
 #. src/report/locale-specific/us/gnucash/report/taxtxf-de_DE.scm
@@ -25415,7 +25415,7 @@ msgstr "XML"
 #: ../intl-scm/guile-strings.c:9270
 #: ../intl-scm/guile-strings.c:9358
 msgid "This page shows your Taxable Income and Deductible Expenses."
-msgstr ""
+msgstr "Αυτή η σελίδα εμφανίζει το φορολογητέο σας εισόδημα και τα έξοδα σας που το μειώνουν."
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -25460,7 +25460,7 @@ msgstr "Λογαριασμός μεταφοράς"
 #: ../intl-scm/guile-strings.c:9424
 #: ../intl-scm/guile-strings.c:9540
 msgid "Print all split details for multi-split transactions"
-msgstr ""
+msgstr "Εκτύπωση όλων των λεπτομερειών διαίρεσης για συναλλαγές που περιέχουν πολλαπλές διαιρέσεις"
 
 #. src/report/locale-specific/us/gnucash/report/taxtxf.scm
 #. src/report/locale-specific/us/taxtxf.scm
@@ -25972,7 +25972,7 @@ msgstr ""
 #. src/report/report-system/report.scm
 #: ../intl-scm/guile-strings.c:9782
 msgid "The GnuCash report system has been upgraded. Your old saved reports have been transfered into a new format. If you experience trouble with saved reports, please contact the GnuCash development team."
-msgstr ""
+msgstr "Το σύστημα αναφορών του GnuCash έχει αναβαθμιστεί. Οι παλαιότερα αποθηκευμένες αναφορές έχουν μετατραπεί στην νέα μορφή. Αν αντιμετωπίζετε προβλήματα με τις αποθηκευμένες αναφορές, παρακαλώ επικοινωνήστε με την ομάδα ανάπτυξης του GnuCash."
 
 #. src/report/report-system/report.scm
 #: ../intl-scm/guile-strings.c:9784
@@ -25998,7 +25998,7 @@ msgstr ". Το σφάλμα είναι:"
 #: ../intl-scm/guile-strings.c:9796
 #, c-format
 msgid "Your report \"%s\" has been saved into the configuration file \"%s\"."
-msgstr ""
+msgstr "Η αναφορά \"%s\" έχει αποθηκευθεί στο αρχείο ρυθμίσεων \"%s\"."
 
 #. src/report/report-system/html-utilities.scm
 #: ../intl-scm/guile-strings.c:9800

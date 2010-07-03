@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-07-03 23:54+0300\n"
+"PO-Revision-Date: 2010-07-03 23:56+0200\n"
+"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_ch_GettingStarted.xml:18(title)
+msgid "Using This Document &amp; Getting Help"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:20(para)
+msgid "This document is organized in two dimensions;"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:24(para)
+msgid "From the GUI (Graphical User Interface) explaining the available options and their functions, with links to deeper descriptions and usage. <xref linkend=\"GUIMenus\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:29(para)
+msgid "By classifying Operations, Tasks, or Functions based on whether it is an Account, Transaction, Reporting or other oriented operation. Examples are;"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:36(para)
+msgid "Account Actions - <xref linkend=\"setup-accounts\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:40(para)
+msgid "Transaction/Register Actions - <xref linkend=\"ch_Common_Trans_Ops\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:44(para)
+msgid "Tools and Wizards - <xref linkend=\"ch_AccRegTools\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:48(para)
+msgid "Reporting &amp; Charting - <xref linkend=\"Reports\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:52(para)
+msgid "Customization - <xref linkend=\"custom-gnucash\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:61(title)
+msgid "Accessing Help"
+msgstr ""
+
+#. <para>The GnuCash Help Window uses YELP to display DOCBOOK versions of the help documents that are installed
+#. with GnuCash.</para>
+#: Help_ch_GettingStarted.xml:66(para)
+msgid "This window is accessed by going to the Help menu and selecting either the <guilabel>Tutorial and Concepts Guide</guilabel> or the <guilabel>Contents (F1)</guilabel>. <xref linkend=\"AccTree-help-menu\"/>"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:69(para)
+msgid "The Help Window has a toolbar for navigation. The toolbar is described below;"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:73(para)
+msgid "<guilabel>Back</guilabel> Used to navigate to topics previously viewed."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:77(para)
+msgid "<guilabel>Forward</guilabel> Used to navigate to topics previously viewed."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:81(para)
+msgid "<guilabel>Help</guilabel> Used to access various GNOME Help files."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:85(para)
+msgid "<guilabel>Search</guilabel> Enter search term to search GNOME Help files. Does not search GnuCash Help file."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:90(para)
+msgid "The right side of the Help Window displays the currently opened help page. The left side of the Help Window contains the help Topics list tab. Selecting one of the help topics will load that page on the right side."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:97(title)
+msgid "GnuCash Tutorial and Concepts Guide"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:99(para)
+msgid "This guide is the counterpart to this help. It explains the concepts used in GnuCash and has a tutorial that takes you through using GnuCash to manage your accounts. It will appear if you choose <guibutton>Open the new user tutorial</guibutton> in the <guilabel>Welcome to GnuCash!</guilabel> menu."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:104(para)
+msgid "To open this Guide manually go to <guimenu>Help</guimenu> -&gt; <guimenuitem>Tutorial and Concepts Guide</guimenuitem>."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:107(para)
+msgid "It is strongly recommended to read this guide if you are new to GnuCash or unfamiliar with accounting concepts."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:112(title)
+msgid "GnuCash On-line Assistance"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:114(para)
+msgid "Quoting the Tip of the Day \"The GnuCash developers are easy to contact.\" GnuCash has several mailing lists;"
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:119(para)
+msgid "<emphasis role=\"bold\">User List </emphasis><email>gnucash-user@gnucash.org</email> - User questions and discussions. The developers and many very helpful users \"hang-out\" here."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:125(para)
+msgid "<emphasis role=\"bold\">Development List </emphasis><email>gnucash-devel@gnucash.org</email> - Discussion of issues related to the design and development of GnuCash and submission of patches."
+msgstr ""
+
+#: Help_ch_GettingStarted.xml:131(para)
+msgid "You can chat live with the developers on IRC! Join them on #gnucash at irc.gnome.org. Much more at the <ulink url=\"http://www.gnucash.org\">GnuCash web site </ulink> including links to WIKI and Bugzilla !!"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_GettingStarted.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

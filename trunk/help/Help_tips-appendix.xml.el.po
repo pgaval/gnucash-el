@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: elN\n"
+"POT-Creation-Date: 2010-07-04 00:07+0300\n"
+"PO-Revision-Date: 2010-07-04 00:08+0200\n"
+"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_tips-appendix.xml:20(releaseinfo)
+msgid "Version 1.0, December 2006"
+msgstr ""
+
+#: Help_tips-appendix.xml:24(title)
+msgid "GnuCash Tips and tidbits"
+msgstr ""
+
+#: Help_tips-appendix.xml:28(title)
+msgid "Exchange Codes for European Markets"
+msgstr ""
+
+#: Help_tips-appendix.xml:30(para)
+msgid "Exchange Code List for European Markets"
+msgstr ""
+
+#: Help_tips-appendix.xml:33(title)
+msgid "Exchange Codes List for European Markets"
+msgstr ""
+
+#: Help_tips-appendix.xml:37(para)
+msgid "Code"
+msgstr ""
+
+#: Help_tips-appendix.xml:38(para)
+msgid "Market"
+msgstr ""
+
+#: Help_tips-appendix.xml:43(para)
+msgid "BC"
+msgstr ""
+
+#: Help_tips-appendix.xml:44(para)
+msgid "Barcelona"
+msgstr ""
+
+#: Help_tips-appendix.xml:47(para)
+msgid "BE"
+msgstr ""
+
+#: Help_tips-appendix.xml:48(para)
+msgid "Berlin"
+msgstr ""
+
+#: Help_tips-appendix.xml:51(para)
+msgid "BI"
+msgstr ""
+
+#: Help_tips-appendix.xml:52(para)
+msgid "Bilbao"
+msgstr ""
+
+#: Help_tips-appendix.xml:55(para)
+msgid "BR"
+msgstr ""
+
+#: Help_tips-appendix.xml:56(para)
+msgid "Brême"
+msgstr ""
+
+#: Help_tips-appendix.xml:59(para)
+msgid "CO"
+msgstr ""
+
+#: Help_tips-appendix.xml:60(para)
+msgid "Copenhagen"
+msgstr ""
+
+#: Help_tips-appendix.xml:63(para)
+msgid "D"
+msgstr ""
+
+#: Help_tips-appendix.xml:64(para)
+msgid "Dusseldorf"
+msgstr ""
+
+#: Help_tips-appendix.xml:67(para)
+msgid "F"
+msgstr ""
+
+#: Help_tips-appendix.xml:68(para)
+msgid "Frankfurt"
+msgstr ""
+
+#: Help_tips-appendix.xml:71(para)
+msgid "DE"
+msgstr ""
+
+#: Help_tips-appendix.xml:72(para)
+msgid "Xetra (was FX)"
+msgstr ""
+
+#: Help_tips-appendix.xml:75(para)
+msgid "H"
+msgstr ""
+
+#: Help_tips-appendix.xml:76(para)
+msgid "Hamburg"
+msgstr ""
+
+#: Help_tips-appendix.xml:79(para)
+msgid "HA"
+msgstr ""
+
+#: Help_tips-appendix.xml:80(para)
+msgid "Hanover"
+msgstr ""
+
+#: Help_tips-appendix.xml:83(para)
+msgid "L"
+msgstr ""
+
+#: Help_tips-appendix.xml:84(para)
+msgid "London"
+msgstr ""
+
+#: Help_tips-appendix.xml:87(para)
+msgid "MA"
+msgstr ""
+
+#: Help_tips-appendix.xml:88(para)
+msgid "Madrid"
+msgstr ""
+
+#: Help_tips-appendix.xml:91(para)
+msgid "MC"
+msgstr ""
+
+#: Help_tips-appendix.xml:92(para)
+msgid "Madrid (M.C.)"
+msgstr ""
+
+#: Help_tips-appendix.xml:95(para)
+msgid "MI"
+msgstr ""
+
+#: Help_tips-appendix.xml:96(para)
+msgid "Milan"
+msgstr ""
+
+#: Help_tips-appendix.xml:99(para)
+msgid "MU"
+msgstr ""
+
+#: Help_tips-appendix.xml:100(para)
+msgid "Munich"
+msgstr ""
+
+#: Help_tips-appendix.xml:103(para)
+msgid "O"
+msgstr ""
+
+#: Help_tips-appendix.xml:104(para)
+msgid "Oslo"
+msgstr ""
+
+#: Help_tips-appendix.xml:107(para)
+msgid "PA"
+msgstr ""
+
+#: Help_tips-appendix.xml:108(para)
+msgid "Paris"
+msgstr ""
+
+#: Help_tips-appendix.xml:111(para)
+msgid "ST"
+msgstr ""
+
+#: Help_tips-appendix.xml:112(para)
+msgid "Stockholm"
+msgstr ""
+
+#: Help_tips-appendix.xml:115(para)
+msgid "SG"
+msgstr ""
+
+#: Help_tips-appendix.xml:116(para)
+msgid "Stuttgart"
+msgstr ""
+
+#: Help_tips-appendix.xml:119(para)
+msgid "VA"
+msgstr ""
+
+#: Help_tips-appendix.xml:120(para)
+msgid "Valence"
+msgstr ""
+
+#: Help_tips-appendix.xml:123(para)
+msgid "VI"
+msgstr ""
+
+#: Help_tips-appendix.xml:124(para)
+msgid "Vienna"
+msgstr ""
+
+#: Help_tips-appendix.xml:132(title)
+#: Help_tips-appendix.xml:135(title)
+msgid "Pseudo-symbols that can be used for TIAA-CREF quotes"
+msgstr ""
+
+#: Help_tips-appendix.xml:140(para)
+#: Help_tips-appendix.xml:202(para)
+#: Help_tips-appendix.xml:260(para)
+msgid "Name"
+msgstr ""
+
+#: Help_tips-appendix.xml:141(para)
+msgid "Pseudo-symbol"
+msgstr ""
+
+#: Help_tips-appendix.xml:146(para)
+msgid "Bond Market"
+msgstr ""
+
+#: Help_tips-appendix.xml:147(para)
+msgid "CREFbond"
+msgstr ""
+
+#: Help_tips-appendix.xml:150(para)
+msgid "Equity Index"
+msgstr ""
+
+#: Help_tips-appendix.xml:151(para)
+msgid "CREFequi"
+msgstr ""
+
+#: Help_tips-appendix.xml:154(para)
+msgid "Global Equities"
+msgstr ""
+
+#: Help_tips-appendix.xml:155(para)
+msgid "CREFglob"
+msgstr ""
+
+#: Help_tips-appendix.xml:158(para)
+msgid "Growth"
+msgstr ""
+
+#: Help_tips-appendix.xml:159(para)
+msgid "CREFgrow"
+msgstr ""
+
+#: Help_tips-appendix.xml:162(para)
+msgid "Inflation-Linked Bond"
+msgstr ""
+
+#: Help_tips-appendix.xml:163(para)
+msgid "CREFinfb"
+msgstr ""
+
+#: Help_tips-appendix.xml:166(para)
+msgid "Money Market"
+msgstr ""
+
+#: Help_tips-appendix.xml:167(para)
+msgid "CREFmony"
+msgstr ""
+
+#: Help_tips-appendix.xml:170(para)
+msgid "Social Choice"
+msgstr ""
+
+#: Help_tips-appendix.xml:171(para)
+msgid "CREFsoci"
+msgstr ""
+
+#: Help_tips-appendix.xml:174(para)
+msgid "Stock"
+msgstr ""
+
+#: Help_tips-appendix.xml:175(para)
+msgid "CREFstok"
+msgstr ""
+
+#: Help_tips-appendix.xml:178(para)
+msgid "Teachers PA Select Stock"
+msgstr ""
+
+#: Help_tips-appendix.xml:179(para)
+msgid "TIAAsele"
+msgstr ""
+
+#: Help_tips-appendix.xml:182(para)
+msgid "Teachers PA Stock Index"
+msgstr ""
+
+#: Help_tips-appendix.xml:183(para)
+msgid "TIAAsndx"
+msgstr ""
+
+#: Help_tips-appendix.xml:186(para)
+msgid "TIAA Real Estate"
+msgstr ""
+
+#: Help_tips-appendix.xml:187(para)
+msgid "TIAAreal"
+msgstr ""
+
+#: Help_tips-appendix.xml:194(title)
+msgid "Quote Sources - Individual sources"
+msgstr ""
+
+#: Help_tips-appendix.xml:197(title)
+msgid "Individual sources for quotes"
+msgstr ""
+
+#: Help_tips-appendix.xml:209(entry)
+msgid "AEX"
+msgstr ""
+
+#: Help_tips-appendix.xml:210(entry)
+msgid "AEX Futures"
+msgstr ""
+
+#: Help_tips-appendix.xml:211(entry)
+msgid "AEX Options"
+msgstr ""
+
+#: Help_tips-appendix.xml:212(entry)
+msgid "AMFI India"
+msgstr ""
+
+#: Help_tips-appendix.xml:213(entry)
+msgid "ASE"
+msgstr ""
+
+#: Help_tips-appendix.xml:214(entry)
+msgid "ASX"
+msgstr ""
+
+#: Help_tips-appendix.xml:215(entry)
+msgid "BMO NesbittBurns"
+msgstr ""
+
+#: Help_tips-appendix.xml:216(entry)
+msgid "Deka Investments"
+msgstr ""
+
+#: Help_tips-appendix.xml:217(entry)
+msgid "DWS"
+msgstr ""
+
+#: Help_tips-appendix.xml:218(entry)
+msgid "Fidelity Direct"
+msgstr ""
+
+#: Help_tips-appendix.xml:219(entry)
+msgid "Finance Canada"
+msgstr ""
+
+#: Help_tips-appendix.xml:220(entry)
+msgid "First Trust Portfolios"
+msgstr ""
+
+#: Help_tips-appendix.xml:221(entry)
+msgid "Fund Library"
+msgstr ""
+
+#: Help_tips-appendix.xml:222(entry)
+msgid "Man Investments"
+msgstr ""
+
+#: Help_tips-appendix.xml:223(entry)
+msgid "Motley Fool"
+msgstr ""
+
+#: Help_tips-appendix.xml:224(entry)
+msgid "NZX"
+msgstr ""
+
+#: Help_tips-appendix.xml:225(entry)
+msgid "Platinum Asset Management"
+msgstr ""
+
+#: Help_tips-appendix.xml:226(entry)
+msgid "SEB"
+msgstr ""
+
+#: Help_tips-appendix.xml:227(entry)
+msgid "Sharenet"
+msgstr ""
+
+#: Help_tips-appendix.xml:228(entry)
+msgid "TD Waterhouse Canada"
+msgstr ""
+
+#: Help_tips-appendix.xml:229(entry)
+msgid "TD Efunds"
+msgstr ""
+
+#: Help_tips-appendix.xml:230(entry)
+msgid "TIAA-CREF"
+msgstr ""
+
+#: Help_tips-appendix.xml:231(entry)
+#: Help_tips-appendix.xml:281(entry)
+msgid "T. Rowe Price"
+msgstr ""
+
+#: Help_tips-appendix.xml:232(entry)
+msgid "Trustnet"
+msgstr ""
+
+#: Help_tips-appendix.xml:233(entry)
+msgid "Union Investments"
+msgstr ""
+
+#: Help_tips-appendix.xml:234(entry)
+msgid "US Treasury Bonds"
+msgstr ""
+
+#: Help_tips-appendix.xml:235(entry)
+msgid "US Govt. Thrift Savings Plan"
+msgstr ""
+
+#: Help_tips-appendix.xml:236(entry)
+msgid "Vanguard"
+msgstr ""
+
+#: Help_tips-appendix.xml:237(entry)
+msgid "VWD"
+msgstr ""
+
+#: Help_tips-appendix.xml:238(entry)
+msgid "Yahoo"
+msgstr ""
+
+#: Help_tips-appendix.xml:239(entry)
+msgid "Yahoo Asia"
+msgstr ""
+
+#: Help_tips-appendix.xml:240(entry)
+msgid "Yahoo Australia"
+msgstr ""
+
+#: Help_tips-appendix.xml:241(entry)
+msgid "Yahoo Brasil"
+msgstr ""
+
+#: Help_tips-appendix.xml:242(entry)
+msgid "Yahoo Europe"
+msgstr ""
+
+#: Help_tips-appendix.xml:243(entry)
+msgid "Yahoo New Zealand"
+msgstr ""
+
+#: Help_tips-appendix.xml:244(entry)
+msgid "(Zuerich Investments. ??)"
+msgstr ""
+
+#: Help_tips-appendix.xml:252(title)
+msgid "Quote Sources - Multiple sources"
+msgstr ""
+
+#: Help_tips-appendix.xml:255(title)
+msgid "Multiple sources for quotes"
+msgstr ""
+
+#: Help_tips-appendix.xml:266(entry)
+msgid "Asia (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:267(entry)
+msgid "Australia (ASX, Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:268(entry)
+msgid "Brasil (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:269(entry)
+msgid "Canada (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:270(entry)
+msgid "Canada Mutual (Fund Library, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:271(entry)
+msgid "Dutch (AEX, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:272(entry)
+msgid "Europe (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:273(entry)
+msgid "Greece (ASE, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:274(entry)
+msgid "India Mutual (AMFI, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:275(entry)
+msgid "Fidelity (Fidelity, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:276(entry)
+msgid "First Trust (First Trust, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:277(entry)
+msgid "Nasdaq (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:278(entry)
+msgid "New Zealand (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:279(entry)
+msgid "NYSE (Yahoo, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:280(entry)
+msgid "South Africa (Sharenet, ...)"
+msgstr ""
+
+#: Help_tips-appendix.xml:282(entry)
+msgid "U.K. Unit Trusts"
+msgstr ""
+
+#: Help_tips-appendix.xml:283(entry)
+msgid "USA (Yahoo, Fool ...)"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_tips-appendix.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

@@ -1,0 +1,979 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-07-03 23:45+0300\n"
+"PO-Revision-Date: 2010-07-03 23:48+0200\n"
+"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_Customize.xml:120(None)
+msgid "@@image: 'figures/Help_Pref_AccntPeriod.png'; md5=ff876c548963f37b50d8dc7dcea36573"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_Customize.xml:200(None)
+msgid "@@image: 'figures/Help_Pref_Accnts.png'; md5=c60894967559778aab003c8888775769"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_Customize.xml:282(None)
+msgid "@@image: 'figures/Help_Pref_Business.png'; md5=37972865af309e27b60aab8d4c8e2347"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: Help_ch_Customize.xml:365(None)
+msgid "@@image: 'figures/Help_Pref_date-time.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
+
+#: Help_ch_Customize.xml:21(title)
+msgid "Customizing GnuCash"
+msgstr ""
+
+#: Help_ch_Customize.xml:24(title)
+msgid "Account Display Options"
+msgstr ""
+
+#: Help_ch_Customize.xml:26(para)
+msgid "The View -&gt; Filter By ... is used to set/modify the view of the Account Tree Window. The \"Accounts\" tab of this form allows the selection of the types of accounts to display. These selections effect the view on each specific open window of the account tree."
+msgstr ""
+
+#: Help_ch_Customize.xml:32(para)
+msgid "The \"Other\" Tab allows enabling/disabling of the options; Show Hidden accounts, Show zero total accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:35(para)
+msgid "The Account Tree window, by default, only shows the quantity of each commodity that you own, under the column heading <guilabel>Total</guilabel>. Often, however, you may want to display other values. This is easily accomplished by clicking on the title bar <guibutton>Options</guibutton> button (the small down pointing arrow on the right side of the main account window title bar), and selecting the option(s) to display. These selections set the view on all open windows of the account tree."
+msgstr ""
+
+#: Help_ch_Customize.xml:46(title)
+msgid "Setting Your Preferences"
+msgstr ""
+
+#: Help_ch_Customize.xml:48(para)
+msgid "Pausing the cursor for a couple of seconds, over options in these windows will display in-depth information on the choice."
+msgstr ""
+
+#: Help_ch_Customize.xml:50(para)
+msgid "The GnuCash Preferences window contains the following options;"
+msgstr ""
+
+#: Help_ch_Customize.xml:55(para)
+msgid "<guilabel>Accounting Period</guilabel> - <xref linkend=\"prefs-accounting-period\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:60(para)
+msgid "<guilabel>Account</guilabel> - <xref linkend=\"prefs-accounts\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:65(para)
+msgid "<guilabel>Business</guilabel> - <xref linkend=\"prefs-biz\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:70(para)
+msgid "<guilabel>Date/Time</guilabel> - <xref linkend=\"prefs-date-time\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:75(para)
+msgid "<guilabel>General</guilabel> - <xref linkend=\"prefs-general\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:80(para)
+msgid "<guilabel>On-line Banking</guilabel> - <xref linkend=\"prefs-online\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:85(para)
+msgid "<guilabel>Register</guilabel> - <xref linkend=\"prefs-reg\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:90(para)
+msgid "<guilabel>Register Default</guilabel> - <xref linkend=\"prefs-reg-def\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:95(para)
+msgid "<guilabel>Reports</guilabel> - <xref linkend=\"prefs-reports\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:100(para)
+msgid "<guilabel>Scheduled Transactions</guilabel> - <xref linkend=\"prefs-sched\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:105(para)
+msgid "<guilabel>Windows</guilabel> - <xref linkend=\"prefs-window\"/>"
+msgstr ""
+
+#: Help_ch_Customize.xml:112(title)
+msgid "Accounting Period"
+msgstr ""
+
+#: Help_ch_Customize.xml:115(title)
+msgid "The \"Accounting Period Preferences\" Window."
+msgstr ""
+
+#: Help_ch_Customize.xml:124(phrase)
+msgid "Accounting Period Preferences screen"
+msgstr ""
+
+#: Help_ch_Customize.xml:126(para)
+msgid "This is an screen image of the \"Accounting Period Preferences\" windows."
+msgstr ""
+
+#: Help_ch_Customize.xml:133(para)
+msgid "This section defines the following preferences;"
+msgstr ""
+
+#: Help_ch_Customize.xml:137(para)
+msgid "<guilabel>Summary Bar Content</guilabel> - check-boxes to include/exclude; Grand Totals, and Non-Currency totals."
+msgstr ""
+
+#: Help_ch_Customize.xml:142(para)
+msgid "Grand Totals: If checked, show a grand total of all accounts converted to the default report currency."
+msgstr ""
+
+#: Help_ch_Customize.xml:147(para)
+msgid "Non-Currency: If checked, non-currency commodities will be shown in the summary bar. If clear, only currencies will be shown."
+msgstr ""
+
+#: Help_ch_Customize.xml:154(para)
+msgid "<guilabel>Start Date</guilabel> - specify the beginning of the accounting period."
+msgstr ""
+
+#: Help_ch_Customize.xml:158(para)
+msgid "Relative: Use the specified relative starting date for profit/loss calculations. Also use this date for net assets calculations. Relative defines start by; today or start of current/previous year, quarter, month."
+msgstr ""
+
+#: Help_ch_Customize.xml:164(para)
+msgid "Absolute - Use the specified absolute starting date for profit/loss calculations. Also use this date for net assets calculations."
+msgstr ""
+
+#: Help_ch_Customize.xml:172(para)
+msgid "<guilabel>End Date</guilabel> - specify the ending of the accounting period."
+msgstr ""
+
+#: Help_ch_Customize.xml:176(para)
+msgid "Relative: Use the specified relative ending date for profit/loss calculations. Also use this date for net assets calculations."
+msgstr ""
+
+#: Help_ch_Customize.xml:181(para)
+msgid "Absolute - Use the specified absolute ending date for profit/loss calculations. Also use this date for net assets calculations."
+msgstr ""
+
+#: Help_ch_Customize.xml:192(title)
+msgid "Accounts"
+msgstr ""
+
+#: Help_ch_Customize.xml:195(title)
+msgid "The \"Account Preferences\" Window."
+msgstr ""
+
+#: Help_ch_Customize.xml:204(phrase)
+msgid "Account Preferences screen"
+msgstr ""
+
+#: Help_ch_Customize.xml:206(para)
+msgid "This is an screen image of the \"Account Preferences\" windows."
+msgstr ""
+
+#: Help_ch_Customize.xml:212(para)
+#: Help_ch_Customize.xml:295(para)
+#: Help_ch_Customize.xml:378(para)
+#: Help_ch_Customize.xml:420(para)
+#: Help_ch_Customize.xml:502(para)
+#: Help_ch_Customize.xml:561(para)
+#: Help_ch_Customize.xml:640(para)
+#: Help_ch_Customize.xml:699(para)
+#: Help_ch_Customize.xml:734(para)
+#: Help_ch_Customize.xml:782(para)
+msgid "This section contains the following preferences;"
+msgstr ""
+
+#: Help_ch_Customize.xml:216(para)
+msgid "<guilabel>Separator Character:</guilabel> This option is used to pick a different separator in the register between parent and child accounts. IE. The character that will be used between components of an account name."
+msgstr ""
+
+#: Help_ch_Customize.xml:219(para)
+msgid "A legal value is any single character except letters and numbers, or any of the following strings: \"colon\", \"slash\", \"backslash\", \"dash\" and \"period\"."
+msgstr ""
+
+#: Help_ch_Customize.xml:224(para)
+msgid "<guilabel>Reversed Balanced Accounts:</guilabel> This option is used to choose what type of account have their balances reversed. If the balance is normally negative, as in a loan or a credit card then this will make the balance positive."
+msgstr ""
+
+#: Help_ch_Customize.xml:231(para)
+msgid "Income &amp; Expense - Sign reverse balances on income and expense accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:236(para)
+msgid "Credit - Sign reverse balances on the following: Credit Card, Payable, Liability, Equity, and Income."
+msgstr ""
+
+#: Help_ch_Customize.xml:241(para)
+msgid "None - Don't sign reverse any accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:247(para)
+msgid "<guilabel>Labels:</guilabel> This option is used to turn on accounting labels (debit and credit) instead of using terms such as withdrawal and deposit. Use only 'debit' and 'credit' instead of informal synonyms."
+msgstr ""
+
+#: Help_ch_Customize.xml:253(para)
+msgid "<guilabel>Default Currency:</guilabel> This option is used select either the locale currency as the default or to select the default from the pull-down list."
+msgstr ""
+
+#: Help_ch_Customize.xml:259(para)
+msgid "Locale - Use the system locale currency for all newly created accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:264(para)
+msgid "Choose - Use the specified currency for all newly created accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:274(title)
+msgid "Business"
+msgstr ""
+
+#: Help_ch_Customize.xml:277(title)
+msgid "The \"Business Preferences\" Window."
+msgstr ""
+
+#: Help_ch_Customize.xml:286(phrase)
+msgid "Business Preferences screen"
+msgstr ""
+
+#: Help_ch_Customize.xml:288(para)
+msgid "This is an screen image of the \"Business Preferences\" windows."
+msgstr ""
+
+#: Help_ch_Customize.xml:299(guilabel)
+msgid "Invoices"
+msgstr ""
+
+#: Help_ch_Customize.xml:303(para)
+msgid "Open in new window: Check-box to open Invoice in a new window. If checked, each invoice will be opened in its own top level window. If clear, the invoice will be opened in the current window."
+msgstr ""
+
+#: Help_ch_Customize.xml:309(para)
+msgid "Accumulate splits on post: Whether multiple entries in an invoice which transfer to the same account should be accumulated into a single split by default. This setting can be changed in the Post dialog."
+msgstr ""
+
+#: Help_ch_Customize.xml:315(para)
+msgid "Number of Rows: This option is used to set the default number of register rows to display in invoices."
+msgstr ""
+
+#: Help_ch_Customize.xml:320(para)
+msgid "Tax Included?: Whether tax is included by default in entries on Invoices. This setting is inherited by new customers and vendors."
+msgstr ""
+
+#: Help_ch_Customize.xml:328(guilabel)
+msgid "Bills"
+msgstr ""
+
+#: Help_ch_Customize.xml:332(para)
+msgid "Notify when due?: Whether to display the list of Bills Due at start-up."
+msgstr ""
+
+#: Help_ch_Customize.xml:339(para)
+msgid "Days in advance: How many days in the future to warn about Bills coming due."
+msgstr ""
+
+#: Help_ch_Customize.xml:346(para)
+msgid "Tax Included?: Whether tax is included by default in entries on Bills. This setting is inherited by new customers and vendors."
+msgstr ""
+
+#: Help_ch_Customize.xml:357(title)
+msgid "Date/Time"
+msgstr ""
+
+#: Help_ch_Customize.xml:360(title)
+msgid "The \"Date/Time Preferences\" Window."
+msgstr ""
+
+#: Help_ch_Customize.xml:369(phrase)
+msgid "Date/Time Preferences screen"
+msgstr ""
+
+#: Help_ch_Customize.xml:371(para)
+msgid "This is an screen image of the \"Date/Time Preferences\" windows."
+msgstr ""
+
+#: Help_ch_Customize.xml:382(para)
+msgid "<guilabel>Time Format:</guilabel> Check-box to use a 24 hour (instead of a 12 hour) time format."
+msgstr ""
+
+#: Help_ch_Customize.xml:387(para)
+msgid "<guilabel>Date</guilabel> - Radio Button list to select one of the following;"
+msgstr ""
+
+#: Help_ch_Customize.xml:392(para)
+msgid "Locale: Use the date format specified by the system locale."
+msgstr ""
+
+#: Help_ch_Customize.xml:396(para)
+msgid "US: Use the date format common in the United States."
+msgstr ""
+
+#: Help_ch_Customize.xml:400(para)
+msgid "UK: Use the date format common in the United Kingdom."
+msgstr ""
+
+#: Help_ch_Customize.xml:404(para)
+msgid "Europe: Use the date format common in continental Europe."
+msgstr ""
+
+#: Help_ch_Customize.xml:408(para)
+msgid "ISO: Use the date format specified by the ISO-8601 standard."
+msgstr ""
+
+#: Help_ch_Customize.xml:418(title)
+#: Help_ch_Customize.xml:424(guilabel)
+#: Help_ch_Customize.xml:986(title)
+#: Help_ch_Customize.xml:1116(title)
+msgid "General"
+msgstr ""
+
+#: Help_ch_Customize.xml:428(para)
+msgid "Display \"Tip of the Day\" dialog: Display hints for using GnuCash at start-up."
+msgstr ""
+
+#: Help_ch_Customize.xml:433(para)
+msgid "Preform Account list setup on new file: Present the new account list dialog when you choose \"New File\" from the \"File\" menu"
+msgstr ""
+
+#: Help_ch_Customize.xml:438(para)
+msgid "Show close button on Notebook tab: Show a close button on each notebook tab. These function identically to the 'Close' menu item."
+msgstr ""
+
+#: Help_ch_Customize.xml:443(para)
+msgid "Enable euro support: Enables support for the European Union EURO currency."
+msgstr ""
+
+#: Help_ch_Customize.xml:450(guilabel)
+msgid "Numbers:"
+msgstr ""
+
+#: Help_ch_Customize.xml:454(para)
+msgid "Display negative amounts in red:"
+msgstr ""
+
+#: Help_ch_Customize.xml:458(para)
+msgid "Automatic Decimal Point: Automatically insert a decimal point into values that are entered without one."
+msgstr ""
+
+#: Help_ch_Customize.xml:463(para)
+msgid "Auto Decimal Places: Select the number of decimal places that will be inserted automatically."
+msgstr ""
+
+#: Help_ch_Customize.xml:470(guilabel)
+msgid "Files:"
+msgstr ""
+
+#: Help_ch_Customize.xml:474(para)
+msgid "Compress files: Checkbox to compress the data file with gzip when saving it to disk."
+msgstr ""
+
+#: Help_ch_Customize.xml:479(para)
+msgid "Retain log files: Select the number of days to save log/backup files. Delete old log/backup files after this many days (0 = never)."
+msgstr ""
+
+#: Help_ch_Customize.xml:486(guilabel)
+msgid "Search Dialog:"
+msgstr ""
+
+#: Help_ch_Customize.xml:490(para)
+msgid "New search limit: Default to 'new search' if fewer than this number of items is returned."
+msgstr ""
+
+#: Help_ch_Customize.xml:500(title)
+msgid "On-line Banking"
+msgstr ""
+
+#: Help_ch_Customize.xml:506(guilabel)
+msgid "QIF Import:"
+msgstr ""
+
+#: Help_ch_Customize.xml:510(para)
+msgid "Show documentation: Show some documentation-only pages in QIF Import druid."
+msgstr ""
+
+#: Help_ch_Customize.xml:517(guilabel)
+msgid "Generic Importer"
+msgstr ""
+
+#: Help_ch_Customize.xml:521(para)
+msgid "Checkbox to enable/disable the use Bayesian algorithms to match new transactions with existing accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:526(para)
+msgid "Match display threshold: The minimum score a potential match must have to be displayed in the match list."
+msgstr ""
+
+#: Help_ch_Customize.xml:531(para)
+msgid "Auto-add threshold: A transaction whose best match's score is in the red zone (above the display threshold but below or equal to the Auto-ADD threshold) will be ADDed by default."
+msgstr ""
+
+#: Help_ch_Customize.xml:537(para)
+msgid "Auto-clear threshold: A transaction whose best match's score is in the green zone (above or equal to the Auto-CLEAR threshold) will be CLEARed by default."
+msgstr ""
+
+#: Help_ch_Customize.xml:543(para)
+msgid "Commercial ATM fees threshold: In some places commercial ATMs (not belonging to a financial institution) are installed in places like convenience store. These ATM add its fee directly to the amount instead of showing up as a separate transaction or in your monthly banking fees. For example, you withdraw $100, and you are charged $101.50 plus Interac fees. If you manually entered that $100, the amounts won't match. You should set this to whatever is the maximum such fee in your area (in units of your local currency), so the transaction will be recognized as a match."
+msgstr ""
+
+#: Help_ch_Customize.xml:559(title)
+msgid "Register"
+msgstr ""
+
+#: Help_ch_Customize.xml:565(guilabel)
+msgid "Actions:"
+msgstr ""
+
+#: Help_ch_Customize.xml:569(para)
+msgid "'Enter' moves to blank transaction: If checked, pressing the 'Enter' key will move to the blank transaction at the bottom of the register. If clear, pressing the 'Enter' key will move down one row."
+msgstr ""
+
+#: Help_ch_Customize.xml:575(para)
+msgid "Auto-raise lists: Automatically raise the list of accounts or actions during input."
+msgstr ""
+
+#: Help_ch_Customize.xml:583(guilabel)
+msgid "Reconciling:"
+msgstr ""
+
+#: Help_ch_Customize.xml:587(para)
+msgid "Check cleared transactions: Pre-check cleared transactions when creating a reconcile dialog."
+msgstr ""
+
+#: Help_ch_Customize.xml:592(para)
+msgid "Automatic interest transfer: Prior to reconciling an account which charges or pays interest, prompt the user to enter a transaction for the interest charge or payment. Currently only enabled for Bank, Credit, Mutual, Asset, Receivable, Payable, and Liability accounts."
+msgstr ""
+
+#: Help_ch_Customize.xml:599(para)
+msgid "Automatic credit card payment: After reconciling a credit card statement, prompt the user to enter a credit card payment."
+msgstr ""
+
+#: Help_ch_Customize.xml:606(guilabel)
+msgid "Graphics:"
+msgstr ""
+
+#: Help_ch_Customize.xml:610(para)
+msgid "Use system theme colors: If checked, the system color theme will be applied to register windows. If clear, the original GnuCash register colors will be used."
+msgstr ""
+
+#: Help_ch_Customize.xml:616(para)
+msgid "Double mode colors alternate with transactions: Alternate the primary and secondary colors by transaction instead of by alternating by row."
+msgstr ""
+
+#: Help_ch_Customize.xml:621(para)
+msgid "Draw horizontal lines between rows: Show horizontal borders on the cells."
+msgstr ""
+
+#: Help_ch_Customize.xml:626(para)
+msgid "Draw vertical lines between columns: Show vertical borders on the cells."
+msgstr ""
+
+#: Help_ch_Customize.xml:638(title)
+msgid "Register Defaults"
+msgstr ""
+
+#: Help_ch_Customize.xml:644(guilabel)
+msgid "Default Style:"
+msgstr ""
+
+#: Help_ch_Customize.xml:648(para)
+msgid "Basic ledger: Show all transactions on one line. (Two in double line mode.)"
+msgstr ""
+
+#: Help_ch_Customize.xml:653(para)
+msgid "Auto-split ledger: Automatically expand the current transaction to show all splits. All other transactions are shown on one line. (Two in double line mode.)"
+msgstr ""
+
+#: Help_ch_Customize.xml:659(para)
+msgid "Transaction journal: All transactions are expanded to show all splits."
+msgstr ""
+
+#: Help_ch_Customize.xml:666(guilabel)
+msgid "Other Defaults"
+msgstr ""
+
+#: Help_ch_Customize.xml:670(para)
+msgid "Register opens in a new window: If checked, each register will be opened in its own top level window. If clear, the register will be opened in the current window."
+msgstr ""
+
+#: Help_ch_Customize.xml:676(para)
+msgid "Double line mode: Show two lines of information for each transaction instead of one. Does not affect expanded transactions"
+msgstr ""
+
+#: Help_ch_Customize.xml:681(para)
+msgid "Number of transactions: Show this many transactions in a register. A value of zero means show all transactions."
+msgstr ""
+
+#: Help_ch_Customize.xml:686(para)
+msgid "Number of Rows: Display this many rows when a register is created."
+msgstr ""
+
+#: Help_ch_Customize.xml:697(title)
+msgid "Reports"
+msgstr ""
+
+#: Help_ch_Customize.xml:703(guilabel)
+msgid "Default Report Currency"
+msgstr ""
+
+#: Help_ch_Customize.xml:707(para)
+msgid "Locale: Use the system locale currency for all newly created reports."
+msgstr ""
+
+#: Help_ch_Customize.xml:712(para)
+msgid "Choose: Use the specified currency for all newly created reports."
+msgstr ""
+
+#: Help_ch_Customize.xml:718(guilabel)
+msgid "Location"
+msgstr ""
+
+#: Help_ch_Customize.xml:721(para)
+msgid "Report opens in a new window: If checked, each report will be opened in its own top level window. If clear, the report will be opened in the current window."
+msgstr ""
+
+#: Help_ch_Customize.xml:732(title)
+msgid "Scheduled Transactions"
+msgstr ""
+
+#: Help_ch_Customize.xml:738(guilabel)
+msgid "Since Last Run Run on GnuCash start"
+msgstr ""
+
+#: Help_ch_Customize.xml:742(para)
+msgid "Run when data file opened: Show the \"since last run\" window when a file is opened."
+msgstr ""
+
+#: Help_ch_Customize.xml:750(guilabel)
+msgid "Transaction Editor Defaults"
+msgstr ""
+
+#: Help_ch_Customize.xml:754(para)
+msgid "Auto-create new transactions: Set the 'auto-create' flag on newly created scheduled transactions."
+msgstr ""
+
+#: Help_ch_Customize.xml:759(para)
+msgid "Notify before transactions are created: Set the 'notify' flag on newly created scheduled transactions."
+msgstr ""
+
+#: Help_ch_Customize.xml:764(para)
+msgid "Create in advance, days: Create the transaction this many days before its effective date."
+msgstr ""
+
+#: Help_ch_Customize.xml:769(para)
+msgid "Remind in advance, days: Begin notifications this many days before the transaction is created."
+msgstr ""
+
+#: Help_ch_Customize.xml:780(title)
+msgid "Windows"
+msgstr ""
+
+#: Help_ch_Customize.xml:786(para)
+msgid "Window Geometry"
+msgstr ""
+
+#: Help_ch_Customize.xml:790(para)
+msgid "Save window size and position."
+msgstr ""
+
+#: Help_ch_Customize.xml:796(para)
+msgid "Toolbar Style"
+msgstr ""
+
+#: Help_ch_Customize.xml:800(para)
+msgid "Use system default: Use the system setting for displaying toolbar items."
+msgstr ""
+
+#: Help_ch_Customize.xml:805(para)
+msgid "Text below icons: Display toolbar items with the text label below the icon. Labels are show for all items."
+msgstr ""
+
+#: Help_ch_Customize.xml:810(para)
+msgid "Priority text beside icons: Display toolbar items with the text label beside the icon. Labels are only shown for the most important items."
+msgstr ""
+
+#: Help_ch_Customize.xml:815(para)
+msgid "Icons only: Display toolbar items as icons only."
+msgstr ""
+
+#: Help_ch_Customize.xml:819(para)
+msgid "Text only: Display toolbar items as text only."
+msgstr ""
+
+#: Help_ch_Customize.xml:865(title)
+msgid "Changing Style Sheets"
+msgstr ""
+
+#: Help_ch_Customize.xml:867(para)
+msgid "GnuCash has three default style sheets for web-page reports. These style sheets can be altered by using the HTML Style Sheets editor. To access the editor go to <guimenu>Edit -&gt; Style Sheets...</guimenu>"
+msgstr ""
+
+#: Help_ch_Customize.xml:871(para)
+msgid "Using the Style Sheet Editor you may display/modify the setting of a Style Sheet."
+msgstr ""
+
+#: Help_ch_Customize.xml:874(para)
+msgid "Changing the Style Sheet will change the appearance of all reports that have selected that Style Sheet. A \"Reload\" is required to view the changes, if the report(s) are currently displayed."
+msgstr ""
+
+#: Help_ch_Customize.xml:878(para)
+msgid "To add a new Style Sheet select the New... button in the Style Sheet pane. The New Style Sheet dialog will appear. Fill in the Name: with the name of the new Style Sheet and choose a template. To remove a Style Sheet select the Style Sheet from the list and click Delete."
+msgstr ""
+
+#: Help_ch_Customize.xml:884(title)
+msgid "Default Style Sheet"
+msgstr ""
+
+#: Help_ch_Customize.xml:886(para)
+msgid "The Default Style Sheet has two tabs to alter the appearance of reports utilizing it, General and Tables."
+msgstr ""
+
+#: Help_ch_Customize.xml:890(title)
+msgid "General Tab"
+msgstr ""
+
+#: Help_ch_Customize.xml:894(para)
+#: Help_ch_Customize.xml:944(para)
+#: Help_ch_Customize.xml:1073(para)
+msgid "<guilabel>Background Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:899(para)
+msgid "<guilabel>Background Pixmap:</guilabel> Use the Browse button to select a picture to use as the background in reports."
+msgstr ""
+
+#: Help_ch_Customize.xml:904(para)
+#: Help_ch_Customize.xml:1005(para)
+#: Help_ch_Customize.xml:1136(para)
+msgid "<guilabel>Enable Links:</guilabel> Select this to enable blue hyperlinks in reports."
+msgstr ""
+
+#: Help_ch_Customize.xml:911(title)
+msgid "Tables Tab"
+msgstr ""
+
+#: Help_ch_Customize.xml:915(para)
+#: Help_ch_Customize.xml:1045(para)
+#: Help_ch_Customize.xml:1175(para)
+msgid "<guilabel>Table cell spacing:</guilabel> Sets the space between table cells"
+msgstr ""
+
+#: Help_ch_Customize.xml:920(para)
+#: Help_ch_Customize.xml:1050(para)
+#: Help_ch_Customize.xml:1180(para)
+msgid "<guilabel>Table cell padding:</guilabel> Sets the padding between table cells"
+msgstr ""
+
+#: Help_ch_Customize.xml:925(para)
+#: Help_ch_Customize.xml:1055(para)
+#: Help_ch_Customize.xml:1185(para)
+msgid "<guilabel>Table border width:</guilabel> Sets the width of the borders on tables."
+msgstr ""
+
+#: Help_ch_Customize.xml:934(title)
+msgid "Easy Style Sheet"
+msgstr ""
+
+#: Help_ch_Customize.xml:936(para)
+msgid "The Easy Style Sheet has four tabs to alter the appearance of reports, Colors, General, Images and Tables."
+msgstr ""
+
+#: Help_ch_Customize.xml:940(title)
+#: Help_ch_Customize.xml:1069(title)
+msgid "Colors"
+msgstr ""
+
+#: Help_ch_Customize.xml:949(para)
+#: Help_ch_Customize.xml:1078(para)
+msgid "<guilabel>Text Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:954(para)
+#: Help_ch_Customize.xml:1083(para)
+msgid "<guilabel>Link Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:959(para)
+#: Help_ch_Customize.xml:1088(para)
+msgid "<guilabel>Table Cell Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:964(para)
+#: Help_ch_Customize.xml:1093(para)
+msgid "<guilabel>Alternate Table Cell Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:969(para)
+#: Help_ch_Customize.xml:1099(para)
+msgid "<guilabel>Subheading/Subtotal Cell Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:974(para)
+#: Help_ch_Customize.xml:1104(para)
+msgid "<guilabel>Sub-subheading/total Cell Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:979(para)
+msgid "<guilabel>Grand Total Cell Color:</guilabel> Opens the color picker to choose a new color."
+msgstr ""
+
+#: Help_ch_Customize.xml:990(para)
+#: Help_ch_Customize.xml:1120(para)
+msgid "<guilabel>Preparer:</guilabel> Name of the person preparing the report."
+msgstr ""
+
+#: Help_ch_Customize.xml:995(para)
+#: Help_ch_Customize.xml:1125(para)
+msgid "<guilabel>Prepared for:</guilabel> Name of Organization or Company the report is prepared for."
+msgstr ""
+
+#: Help_ch_Customize.xml:1000(para)
+#: Help_ch_Customize.xml:1131(para)
+msgid "<guilabel>Show preparer info:</guilabel> Show the Preparer information in the report."
+msgstr ""
+
+#: Help_ch_Customize.xml:1012(title)
+#: Help_ch_Customize.xml:1143(title)
+msgid "Images"
+msgstr ""
+
+#: Help_ch_Customize.xml:1016(para)
+#: Help_ch_Customize.xml:1147(para)
+msgid "<guilabel>Background Tile:</guilabel> Use the Browse button to select a picture to use as the background in reports. The \"Clear\" button will clear the selection."
+msgstr ""
+
+#: Help_ch_Customize.xml:1023(para)
+#: Help_ch_Customize.xml:1153(para)
+msgid "<guilabel>Heading Banner:</guilabel> Use the Browse button to select a picture to use as the heading in reports. The \"Clear\" button will clear the selection."
+msgstr ""
+
+#: Help_ch_Customize.xml:1029(para)
+#: Help_ch_Customize.xml:1159(para)
+msgid "<guilabel>Heading Alignment:</guilabel> Select from pull-down list; Left, Right, Center, to specify the alignment of the banner at top of report(s)."
+msgstr ""
+
+#: Help_ch_Customize.xml:1034(para)
+#: Help_ch_Customize.xml:1164(para)
+msgid "<guilabel>Logo:</guilabel> Use the Browse button to select a picture to use as the logo in reports. The \"Clear\" button will clear the selection."
+msgstr ""
+
+#: Help_ch_Customize.xml:1041(title)
+#: Help_ch_Customize.xml:1171(title)
+msgid "Tables"
+msgstr ""
+
+#: Help_ch_Customize.xml:1063(title)
+msgid "Technicolor Style Sheet"
+msgstr ""
+
+#: Help_ch_Customize.xml:1065(para)
+msgid "The Technicolor Style Sheet has four tabs to alter the appearance of reports, Colors, General, Images and Tables."
+msgstr ""
+
+#: Help_ch_Customize.xml:1109(para)
+msgid "<guilabel>Grand Total Cell Color:</guilabel> Opens the color picker to choose a new color for the grand total cell."
+msgstr ""
+
+#: Help_ch_Customize.xml:1195(title)
+msgid "Setting Income Tax Options"
+msgstr ""
+
+#: Help_ch_Customize.xml:1197(para)
+msgid "The Income Tax Information dialog is used to set Income Tax Options. The settings on accounts in this dialog are used by the TXF Export function in reports to select the accounts for export. To access this dialog go to Edit -&gt; Income Tax Options."
+msgstr ""
+
+#: Help_ch_Customize.xml:1201(para)
+msgid "If the Income Tax features are used, it is strongly recommended that the 'Tax Info' column be made visible on the accounts tab (click large downward-pointing arrow and select 'Tax Info' checkbox). The 'Tax Info' column will display the Form/Schedule and tax category assigned to an account, if any. Alternatively, it will display the following error messages which can be corrected through Edit -&gt; Income Tax Options:"
+msgstr ""
+
+#: Help_ch_Customize.xml:1209(para)
+msgid "Tax-related but has no tax code"
+msgstr ""
+
+#: Help_ch_Customize.xml:1213(para)
+msgid "Tax entity type not specified"
+msgstr ""
+
+#: Help_ch_Customize.xml:1217(para)
+msgid "Tax type \"tax_type\": invalid code \"code\" for account type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1221(para)
+msgid "Not tax-related; tax type \"tax_type\": invalid code \"code\" for account type"
+msgstr ""
+
+#: Help_ch_Customize.xml:1225(para)
+msgid "Invalid code \"code\" for tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1229(para)
+msgid "Not tax-related; invalid code \"code\" for tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1233(para)
+msgid "No form: code \"code\", tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1237(para)
+msgid "Not tax-related; no form: code \"code\", tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1241(para)
+msgid "No description: form \"form\", code \"code\", tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1245(para)
+msgid "Not tax-related; no description: form \"form\", code \"code\", tax type \"tax_type\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1249(para)
+msgid "Not tax-related; \"form\"(\"copy\") \"desc\" (code \"code\", tax type \"tax_type\")"
+msgstr ""
+
+#: Help_ch_Customize.xml:1253(para)
+msgid "The Income Tax Identity must be set in order to assign codes to individual accounts. Click 'Edit' to set the identity. The Tax Name is optional. If entered, it will be printed at the top of the report. A 'type' must be selected in order to activate the tax category selections. The choices are:"
+msgstr ""
+
+#: Help_ch_Customize.xml:1260(para)
+msgid "Individual, Joint, etc. - Files US Form 1040 Tax Return"
+msgstr ""
+
+#: Help_ch_Customize.xml:1264(para)
+msgid "Partnership - Files US Form 1065 Tax Return"
+msgstr ""
+
+#: Help_ch_Customize.xml:1268(para)
+msgid "Corporation - Files US Form 1120 Tax Return"
+msgstr ""
+
+#: Help_ch_Customize.xml:1272(para)
+msgid "S Corporation - Files US Form 1120S Tax Return"
+msgstr ""
+
+#: Help_ch_Customize.xml:1276(para)
+msgid "None - No Income Tax Options Provided"
+msgstr ""
+
+#: Help_ch_Customize.xml:1280(para)
+msgid "While the Income Tax Entity Type can be changed after tax categories have been assigned to accounts, you should be cautioned that you will need to manually change each one if you do so, which could be quite tedious. The tax categories are unique for each Income Tax Entity Type, so changing the type will make all previously assigned categories invalid. It is assumed that each gnucash file is for only one type of tax entity. You should not keep, for example, personal and partnership accounts mixed in one gnucash file if you plan to use the Income Tax Reporting features."
+msgstr ""
+
+#: Help_ch_Customize.xml:1288(para)
+msgid "A given TXF code can be assigned to multiple accounts. The Tax Schedule Report will combine accounts by code and generate a detailed TXF record for each account and a summary TXF record for the total as calculated by the report. For codes for which the \"Payer Name Source\" is not grayed, the payer on the TXF record will be based on what is specified here, either the account name of the account or the account name of the account's parent account. This feature is typically used for interest accounts or stocks or mutual funds that pay dividends where the individual payees are shown on the tax schedule. Some tax Forms/Schedules need to have multiple copies filed under some circumstances (for example, Schedule C if a taxpayer and spouse have seperate businesses). For tax categories on these Forms/Schedules, the 'Copy Number' is not greyed out and can be used to segregate accounts by copy number."
+msgstr ""
+
+#: Help_ch_Customize.xml:1302(para)
+msgid "Accounts: This pane contains the list of accounts. Select an account to set a TXF category. If no account is selected nothing is changed. If multiple accounts are selected, all of the accounts will be set to the selected item."
+msgstr ""
+
+#: Help_ch_Customize.xml:1308(para)
+msgid "Tax Related: Select this check-box to add tax information to an account then select the TXF Category below."
+msgstr ""
+
+#: Help_ch_Customize.xml:1313(para)
+msgid "TXF Categories: Select the desired one. A detailed description appears just below."
+msgstr ""
+
+#: Help_ch_Customize.xml:1318(para)
+msgid "Payer Name Source: A text description that is exported along with the value of the account. This is usually the name of a bank, stock, or mutual fund that pays dividends or interest. Occasionally, it is a description of a deduction."
+msgstr ""
+
+#: Help_ch_Customize.xml:1324(para)
+msgid "Copy Number: A copy number that is exported along with the value of the account. This is used to segregate amounts between different copies of the same Form/Schedule that may need to be filed (e.g., Schedule C(1), Schedule C(2), etc.)."
+msgstr ""
+
+#: Help_ch_Customize.xml:1332(title)
+msgid "TXF Export - Known Anomalies and Limitations"
+msgstr ""
+
+#: Help_ch_Customize.xml:1334(para)
+msgid "TaxCut 1999"
+msgstr ""
+
+#: Help_ch_Customize.xml:1338(para)
+msgid "Code: N488 \"^ Sched B \\ Div. income, cap gain distrib.\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1342(para)
+msgid "Code: N286 \"^ Sched B \\ Dividend income\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1346(para)
+msgid "These two codes, from the same payer, are not correlated. The user will have to adjust for this after import."
+msgstr ""
+
+#: Help_ch_Customize.xml:1349(para)
+msgid "TaxCut 1999, 2000"
+msgstr ""
+
+#: Help_ch_Customize.xml:1353(para)
+#: Help_ch_Customize.xml:1381(para)
+msgid "Code: N521 \" F1040 \\ Federal estimated tax, quarterly\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1357(para)
+msgid "Does not accept the date field and does not import the individual payment amounts, only the total. The date and individual payment amounts, only matter if you have to compute the penalty. (this may be a TurboTax enhancement)"
+msgstr ""
+
+#: Help_ch_Customize.xml:1363(para)
+msgid "Code: N460 \" W-2 \\ Salary or wages, self\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1367(para)
+msgid "Code: N506 \" W-2 \\ Salary or wages, spouse\""
+msgstr ""
+
+#: Help_ch_Customize.xml:1371(para)
+msgid "and other related codes."
+msgstr ""
+
+#: Help_ch_Customize.xml:1375(para)
+msgid "Use Copy Number to seperate information from more than one job."
+msgstr ""
+
+#: Help_ch_Customize.xml:1377(para)
+msgid "TurboTax 1999, 2000"
+msgstr ""
+
+#: Help_ch_Customize.xml:1385(para)
+msgid "Does not accept the dates outside of the tax year. This is a problem for the last payment that is due Jan 15. GnuCash changes the the date of the last payment to Dec 31 for the export unless the \"Do not use special date processing\" option is selected in the report display tab. The user will have to adjust for this after import. The date only matters if you have to compute the penalty."
+msgstr ""
+
+#: Help_ch_Customize.xml:1391(para)
+msgid "TXF Tax eXport Format"
+msgstr ""
+
+#: Help_ch_Customize.xml:1395(para)
+msgid "Duplicate Codes"
+msgstr ""
+
+#: Help_ch_Customize.xml:1399(para)
+msgid "Codes can be assigned to multiple accounts and the amounts will be summed for all the accounts generating one detail TXF record per account and one summary TXF record for the sum. Codes that let you select \"Payer Name Source\" will generate a separate summary TXF account with each change in payer. Selecting the \"Print TXF export parameters\" option will cause the report to show to which codes this applies (Payer Name Source option Y) and, for the accounts assigned to those codes, the Name Source each account is set to and the TXF item number that will be assigned to each. A summary TXF record will be generated for each change in assigned item line number. These may not be handled the same by TaxCut and TurboTax."
+msgstr ""
+
+#: Help_ch_Customize.xml:1412(title)
+msgid "Detailed TXF Category Descriptions"
+msgstr ""
+
+#: Help_ch_Customize.xml:1414(para)
+msgid "Table 32. Detailed TXF Category Descriptions"
+msgstr ""
+
+#: Help_ch_Customize.xml:1411(sect2)
+msgid "<placeholder-1/><placeholder-2/> Reset Warnings... GnuCash gives warnings when certain operations are attempted, such as removing a transaction or removing the splits of a transaction. The warning message gives you the option to not give you these warnings when attempting the operation. Check-boxes labeled \"Remember and don't ask me again\" and \"Remember and don't ask me again this session\" allow disabling the warnings. This option permits reseting the warnings to the default, IE make the warning happen. Warnings may be selectivly enabled."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_Customize.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

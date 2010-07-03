@@ -1,0 +1,908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2010-07-04 00:01+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: GREEK <gnucash-el@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Help_ch_Tools_Druids.xml:19(title)
+msgid "Tools &amp; Druids"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:21(para)
+msgid "There are many specialized Tools used in GnuCash. These tools enable access to the enhanced functionality in GnuCash. These tools are accessed via the <guimenu>Tools</guimenu> option from any window that displays a <guimenu>Tools</guimenu> menu. Several of these tools may not be displayed depending on if your software was not configured to support Online banking, or the tools appropriate for the current window."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:27(title)
+msgid "Find Transactions"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:29(para)
+msgid "Find Transactions is used to search for transactions in GnuCash and display the results in a register window. The title bar of the Find Transactions dialog contains 'Search For...' and the first line of the dialog has 'Split Search'. In other search dialogs used in GnuCash the first line contains a different description but the same basic layout."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:36(para)
+msgid "The <guilabel>Find</guilabel> tool will also search for; a Customer, an Invoice, a Job, a Vendor, Bill(s), Employee(s), or Expense Voucher(s). The target of the search is determined by where the tools is invoked. Access to the Tool via <guimenu>Business &gt; (Customer/Vendor/Employee) &gt; ... </guimenu>."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:41(para)
+msgid "To open the Find Transactions dialog in the Account Tree Window go to the Tools menu and select Find Transactions or type menu shortcut Ctrl-F. To open the Find Transactions dialog in the Account Register Window go to the Edit menu and select Find... or type menu shortcut F6."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:47(para)
+msgid "There are two panes in the search dialog. The top pane contains the Search Criteria buttons and the bottom pane contains the Type of Search selection."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:51(para)
+msgid "There are two buttons in the top of the Search Criteria pane. The left button allows you to add another criteria row to search for multiple criteria. The existing criteria row needs to be completed before adding a new row. The right button is used to Search for items where all criteria are met or Search for items where any criteria are met. The all criteria are met search requires all of the criteria rows to have at least one match. The any criteria are met search requires only one of the criteria rows to be matched."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:60(para)
+msgid "The criteria row is used to combine different criteria buttons. The following table describes the possible button combinations (regex means regular expression search);"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:65(title)
+msgid "Search criteria buttons."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:70(para)
+msgid "Button 1"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:72(para)
+msgid "Button2"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:74(para)
+msgid "Button3"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:76(para)
+msgid "Button4"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:78(para)
+msgid "Button5"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:80(para)
+msgid "Button 6"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:82(para)
+msgid "Button 7"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:84(para)
+msgid "Button 8"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:90(para) Help_ch_Tools_Druids.xml:108(para) Help_ch_Tools_Druids.xml:126(para) Help_ch_Tools_Druids.xml:144(para)
+msgid "Description"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:92(para) Help_ch_Tools_Druids.xml:164(para) Help_ch_Tools_Druids.xml:236(para) Help_ch_Tools_Druids.xml:308(para) Help_ch_Tools_Druids.xml:380(para)
+msgid "contains"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:94(para) Help_ch_Tools_Druids.xml:112(para) Help_ch_Tools_Druids.xml:130(para) Help_ch_Tools_Druids.xml:148(para) Help_ch_Tools_Druids.xml:166(para) Help_ch_Tools_Druids.xml:184(para) Help_ch_Tools_Druids.xml:202(para) Help_ch_Tools_Druids.xml:220(para) Help_ch_Tools_Druids.xml:238(para) Help_ch_Tools_Druids.xml:256(para) Help_ch_Tools_Druids.xml:274(para) Help_ch_Tools_Druids.xml:292(para) Help_ch_Tools_Druids.xml:310(para) Help_ch_Tools_Druids.xml:328(para) Help_ch_Tools_Druids.xml:346(para) Help_ch_Tools_Druids.xml:364(para) Help_ch_Tools_Druids.xml:382(para) Help_ch_Tools_Druids.xml:400(para) Help_ch_Tools_Druids.xml:418(para) Help_ch_Tools_Druids.xml:436(para)
+msgid "Criteria entry field"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:96(para) Help_ch_Tools_Druids.xml:114(para) Help_ch_Tools_Druids.xml:132(para) Help_ch_Tools_Druids.xml:150(para) Help_ch_Tools_Druids.xml:168(para) Help_ch_Tools_Druids.xml:186(para) Help_ch_Tools_Druids.xml:204(para) Help_ch_Tools_Druids.xml:222(para) Help_ch_Tools_Druids.xml:240(para) Help_ch_Tools_Druids.xml:258(para) Help_ch_Tools_Druids.xml:276(para) Help_ch_Tools_Druids.xml:294(para) Help_ch_Tools_Druids.xml:312(para) Help_ch_Tools_Druids.xml:330(para) Help_ch_Tools_Druids.xml:348(para) Help_ch_Tools_Druids.xml:366(para) Help_ch_Tools_Druids.xml:384(para) Help_ch_Tools_Druids.xml:402(para) Help_ch_Tools_Druids.xml:420(para) Help_ch_Tools_Druids.xml:438(para)
+msgid "Is entry Case Insensitive?"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:98(para) Help_ch_Tools_Druids.xml:116(para) Help_ch_Tools_Druids.xml:134(para) Help_ch_Tools_Druids.xml:152(para) Help_ch_Tools_Druids.xml:170(para) Help_ch_Tools_Druids.xml:188(para) Help_ch_Tools_Druids.xml:206(para) Help_ch_Tools_Druids.xml:224(para) Help_ch_Tools_Druids.xml:242(para) Help_ch_Tools_Druids.xml:260(para) Help_ch_Tools_Druids.xml:278(para) Help_ch_Tools_Druids.xml:296(para) Help_ch_Tools_Druids.xml:314(para) Help_ch_Tools_Druids.xml:332(para) Help_ch_Tools_Druids.xml:350(para) Help_ch_Tools_Druids.xml:368(para) Help_ch_Tools_Druids.xml:386(para) Help_ch_Tools_Druids.xml:404(para) Help_ch_Tools_Druids.xml:422(para) Help_ch_Tools_Druids.xml:440(para) Help_ch_Tools_Druids.xml:456(para) Help_ch_Tools_Druids.xml:474(para) Help_ch_Tools_Druids.xml:492(para) Help_ch_Tools_Druids.xml:510(para) Help_ch_Tools_Druids.xml:528(para) Help_ch_Tools_Druids.xml:546(para) Help_ch_Tools_Druids.xml:566(para) Help_ch_Tools_Druids.xml:584(para) Help_ch_Tools_Druids.xml:602(para) Help_ch_Tools_Druids.xml:620(para) Help_ch_Tools_Druids.xml:638(para) Help_ch_Tools_Druids.xml:656(para) Help_ch_Tools_Druids.xml:674(para) Help_ch_Tools_Druids.xml:692(para) Help_ch_Tools_Druids.xml:710(para) Help_ch_Tools_Druids.xml:728(para) Help_ch_Tools_Druids.xml:746(para) Help_ch_Tools_Druids.xml:764(para) Help_ch_Tools_Druids.xml:782(para) Help_ch_Tools_Druids.xml:800(para) Help_ch_Tools_Druids.xml:818(para) Help_ch_Tools_Druids.xml:836(para) Help_ch_Tools_Druids.xml:854(para) Help_ch_Tools_Druids.xml:872(para) Help_ch_Tools_Druids.xml:888(para) Help_ch_Tools_Druids.xml:906(para) Help_ch_Tools_Druids.xml:924(para) Help_ch_Tools_Druids.xml:942(para) Help_ch_Tools_Druids.xml:960(para) Help_ch_Tools_Druids.xml:978(para) Help_ch_Tools_Druids.xml:996(para) Help_ch_Tools_Druids.xml:1014(para) Help_ch_Tools_Druids.xml:1032(para) Help_ch_Tools_Druids.xml:1050(para) Help_ch_Tools_Druids.xml:1068(para) Help_ch_Tools_Druids.xml:1086(para) Help_ch_Tools_Druids.xml:1112(para) Help_ch_Tools_Druids.xml:1130(para) Help_ch_Tools_Druids.xml:1140(para) Help_ch_Tools_Druids.xml:1158(para) Help_ch_Tools_Druids.xml:1176(para) Help_ch_Tools_Druids.xml:1194(para) Help_ch_Tools_Druids.xml:1212(para)
+msgid "Remove row"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:110(para) Help_ch_Tools_Druids.xml:182(para) Help_ch_Tools_Druids.xml:254(para) Help_ch_Tools_Druids.xml:326(para) Help_ch_Tools_Druids.xml:398(para)
+msgid "does not contain"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:128(para) Help_ch_Tools_Druids.xml:200(para) Help_ch_Tools_Druids.xml:272(para) Help_ch_Tools_Druids.xml:344(para) Help_ch_Tools_Druids.xml:416(para)
+msgid "matches regex"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:146(para) Help_ch_Tools_Druids.xml:218(para) Help_ch_Tools_Druids.xml:290(para) Help_ch_Tools_Druids.xml:362(para) Help_ch_Tools_Druids.xml:434(para)
+msgid "does not match regex"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:162(para) Help_ch_Tools_Druids.xml:180(para) Help_ch_Tools_Druids.xml:198(para) Help_ch_Tools_Druids.xml:216(para)
+msgid "Memo"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:234(para) Help_ch_Tools_Druids.xml:252(para) Help_ch_Tools_Druids.xml:270(para) Help_ch_Tools_Druids.xml:288(para)
+msgid "Number"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:306(para) Help_ch_Tools_Druids.xml:324(para) Help_ch_Tools_Druids.xml:342(para) Help_ch_Tools_Druids.xml:360(para)
+msgid "Action"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:378(para) Help_ch_Tools_Druids.xml:396(para) Help_ch_Tools_Druids.xml:414(para) Help_ch_Tools_Druids.xml:432(para)
+msgid "Note"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:450(para) Help_ch_Tools_Druids.xml:468(para) Help_ch_Tools_Druids.xml:486(para) Help_ch_Tools_Druids.xml:504(para) Help_ch_Tools_Druids.xml:522(para) Help_ch_Tools_Druids.xml:540(para)
+msgid "Date Posted"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:452(para)
+msgid "is before"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:454(para) Help_ch_Tools_Druids.xml:472(para) Help_ch_Tools_Druids.xml:490(para) Help_ch_Tools_Druids.xml:508(para) Help_ch_Tools_Druids.xml:526(para) Help_ch_Tools_Druids.xml:544(para)
+msgid "Date selection field"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:470(para)
+msgid "is before or on"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:488(para)
+msgid "is on"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:506(para)
+msgid "is not on"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:524(para)
+msgid "is after"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:542(para)
+msgid "is on or after"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:558(para) Help_ch_Tools_Druids.xml:576(para) Help_ch_Tools_Druids.xml:594(para) Help_ch_Tools_Druids.xml:612(para) Help_ch_Tools_Druids.xml:630(para) Help_ch_Tools_Druids.xml:648(para) Help_ch_Tools_Druids.xml:666(para) Help_ch_Tools_Druids.xml:684(para) Help_ch_Tools_Druids.xml:702(para) Help_ch_Tools_Druids.xml:720(para) Help_ch_Tools_Druids.xml:738(para) Help_ch_Tools_Druids.xml:756(para) Help_ch_Tools_Druids.xml:774(para) Help_ch_Tools_Druids.xml:792(para) Help_ch_Tools_Druids.xml:810(para) Help_ch_Tools_Druids.xml:828(para) Help_ch_Tools_Druids.xml:846(para) Help_ch_Tools_Druids.xml:864(para)
+msgid "Value"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:560(para) Help_ch_Tools_Druids.xml:578(para) Help_ch_Tools_Druids.xml:596(para) Help_ch_Tools_Druids.xml:614(para) Help_ch_Tools_Druids.xml:632(para) Help_ch_Tools_Druids.xml:650(para)
+msgid "has credits or debits"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:562(para) Help_ch_Tools_Druids.xml:670(para) Help_ch_Tools_Druids.xml:778(para) Help_ch_Tools_Druids.xml:884(para) Help_ch_Tools_Druids.xml:992(para)
+msgid "less than"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:564(para) Help_ch_Tools_Druids.xml:582(para) Help_ch_Tools_Druids.xml:600(para) Help_ch_Tools_Druids.xml:618(para) Help_ch_Tools_Druids.xml:636(para) Help_ch_Tools_Druids.xml:654(para) Help_ch_Tools_Druids.xml:672(para) Help_ch_Tools_Druids.xml:690(para) Help_ch_Tools_Druids.xml:708(para) Help_ch_Tools_Druids.xml:726(para) Help_ch_Tools_Druids.xml:744(para) Help_ch_Tools_Druids.xml:762(para) Help_ch_Tools_Druids.xml:780(para) Help_ch_Tools_Druids.xml:798(para) Help_ch_Tools_Druids.xml:816(para) Help_ch_Tools_Druids.xml:834(para) Help_ch_Tools_Druids.xml:852(para) Help_ch_Tools_Druids.xml:870(para) Help_ch_Tools_Druids.xml:886(para) Help_ch_Tools_Druids.xml:904(para) Help_ch_Tools_Druids.xml:922(para) Help_ch_Tools_Druids.xml:940(para) Help_ch_Tools_Druids.xml:958(para) Help_ch_Tools_Druids.xml:976(para) Help_ch_Tools_Druids.xml:994(para) Help_ch_Tools_Druids.xml:1012(para) Help_ch_Tools_Druids.xml:1030(para) Help_ch_Tools_Druids.xml:1048(para) Help_ch_Tools_Druids.xml:1066(para) Help_ch_Tools_Druids.xml:1084(para)
+msgid "Amount entry field"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:580(para) Help_ch_Tools_Druids.xml:688(para) Help_ch_Tools_Druids.xml:796(para) Help_ch_Tools_Druids.xml:902(para) Help_ch_Tools_Druids.xml:1010(para)
+msgid "less than or equal to"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:598(para) Help_ch_Tools_Druids.xml:706(para) Help_ch_Tools_Druids.xml:814(para) Help_ch_Tools_Druids.xml:920(para) Help_ch_Tools_Druids.xml:1028(para)
+msgid "equal to"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:616(para) Help_ch_Tools_Druids.xml:724(para) Help_ch_Tools_Druids.xml:832(para) Help_ch_Tools_Druids.xml:938(para) Help_ch_Tools_Druids.xml:1046(para)
+msgid "not equal to"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:634(para) Help_ch_Tools_Druids.xml:742(para) Help_ch_Tools_Druids.xml:850(para) Help_ch_Tools_Druids.xml:956(para) Help_ch_Tools_Druids.xml:1064(para)
+msgid "greater than"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:652(para) Help_ch_Tools_Druids.xml:760(para) Help_ch_Tools_Druids.xml:868(para) Help_ch_Tools_Druids.xml:974(para) Help_ch_Tools_Druids.xml:1082(para)
+msgid "greater than or equal to"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:668(para) Help_ch_Tools_Druids.xml:686(para) Help_ch_Tools_Druids.xml:704(para) Help_ch_Tools_Druids.xml:722(para) Help_ch_Tools_Druids.xml:740(para) Help_ch_Tools_Druids.xml:758(para)
+msgid "has credits"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:776(para) Help_ch_Tools_Druids.xml:794(para) Help_ch_Tools_Druids.xml:812(para) Help_ch_Tools_Druids.xml:830(para) Help_ch_Tools_Druids.xml:848(para) Help_ch_Tools_Druids.xml:866(para)
+msgid "has debits"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:882(para) Help_ch_Tools_Druids.xml:900(para) Help_ch_Tools_Druids.xml:918(para) Help_ch_Tools_Druids.xml:936(para) Help_ch_Tools_Druids.xml:954(para) Help_ch_Tools_Druids.xml:972(para)
+msgid "Shares"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:990(para) Help_ch_Tools_Druids.xml:1008(para) Help_ch_Tools_Druids.xml:1026(para) Help_ch_Tools_Druids.xml:1044(para) Help_ch_Tools_Druids.xml:1062(para) Help_ch_Tools_Druids.xml:1080(para)
+msgid "Share Price"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1098(para) Help_ch_Tools_Druids.xml:1116(para)
+msgid "Reconcile"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1100(para) Help_ch_Tools_Druids.xml:1136(para)
+msgid "is"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1102(para) Help_ch_Tools_Druids.xml:1120(para)
+msgid "Not Cleared"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1104(para) Help_ch_Tools_Druids.xml:1122(para)
+msgid "Cleared"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1106(para) Help_ch_Tools_Druids.xml:1124(para)
+msgid "Reconciled"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1108(para) Help_ch_Tools_Druids.xml:1126(para)
+msgid "Frozen"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1110(para) Help_ch_Tools_Druids.xml:1128(para)
+msgid "Voided"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1118(para) Help_ch_Tools_Druids.xml:1154(para)
+msgid "is not"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1134(para) Help_ch_Tools_Druids.xml:1152(para)
+msgid "Balanced"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1138(para) Help_ch_Tools_Druids.xml:1156(para)
+msgid "set true"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1170(para) Help_ch_Tools_Druids.xml:1188(para)
+msgid "Account"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1172(para)
+msgid "matches any account"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1174(para) Help_ch_Tools_Druids.xml:1192(para) Help_ch_Tools_Druids.xml:1210(para)
+msgid "Choose Accounts"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1190(para)
+msgid "matches no account"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1206(para)
+msgid "All Accounts"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1208(para)
+msgid "matches all account"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1226(para)
+msgid "The Account button performs a search where the accounts selected in the Choose Accounts dialog will both be searched individually for results. This means that a match in any of the selected accounts will either be displayed (matches any account) or discarded (matches no account)."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1232(para)
+msgid "The All Accounts button performs a search where accounts selected in the Choose Accounts dialog will only return results that match in both accounts."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1236(para)
+msgid "There are four selections in the Type of Search pane. When a new search is started only the New Search button is selectable. The other buttons become selectable only when the Search Results register window is visible."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1243(para)
+msgid "New Search: Perform a new transaction search"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1247(para)
+msgid "Refine current search: Search within the results of the previous search."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1252(para)
+msgid "Add results to current search: Search based on the first set of criteria or the new criteria."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1257(para)
+msgid "Delete results from current search: Discard any results that match the previous search results."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1266(title)
+msgid "Since Last Run Druid"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1268(para)
+msgid "The Since Last Run druid is run automatically when GnuCash is started. It is used to enter into the register any transactions that are due to be automatically entered. The run on GnuCash start can be altered in the preferences. To run the Since Last Run druid manually go to <guilabel>Actions -&gt; Scheduled Transactions -&gt; Since Last Run...</guilabel>"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1274(para)
+msgid "The Since Last Run druid will automatically skip any screens that have no transactions. The following describes every possible screen the druid will show. The three buttons at the very bottom of the screen will not change while using the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1281(para)
+msgid "The <guilabel>Cancel</guilabel> button is used to exit the druid and cancel entering the transactions. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1287(para) Help_ch_Tools_Druids.xml:1336(para) Help_ch_Tools_Druids.xml:1369(para)
+msgid "The <guilabel>Back</guilabel> button will bring up the previous screen so you can change a selection made on that screen."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1292(para) Help_ch_Tools_Druids.xml:1374(para)
+msgid "The <guilabel>Forward</guilabel> button will bring up the next screen so you can continue though the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1297(para)
+msgid "The first screen shows <guilabel>Transaction Reminders</guilabel> page. This lists scheduled transactions that have been set to give a reminder a number of days in advance. The screen contains three columns. The first column contains the name of the scheduled transaction and the date it is due. The second column contains the Frequency of the scheduled transaction. The third column has the number of Days Away the transaction is due to be entered. To create any transactions in the list instead of just being reminded, select the date line. This will add it to the list of transactions on the To-Create Transaction Preparation page."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1306(para)
+msgid "The next screen shows the <guilabel>Auto-Created Transactions Notification</guilabel> page. This lists scheduled transactions that have been set to be automatically created and notify when they are created. Each transaction is presented in a register view that shows the details of the splits in the transaction."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1311(para)
+msgid "The next screen shows the <guilabel>To-Create Transaction Preparation</guilabel> page. This lists scheduled transactions that are due to be entered in the register. This screen is divided into three panes. The top left pane contains the list of transactions due to be automatically entered. The top right pane allows you to change the Disposition and has a read only view of the Variables used to create the transaction. The bottom pane contains a read only view of the transactions due to be entered."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1318(para)
+msgid "The next screen shows the <guilabel>Created Transaction Review</guilabel> page. This screen displays the list of transactions about to be created and allows for final changes to be made. The list is presented in a register view that shows the details of the splits in the transaction. This is editable in the same way transactions are able to be edited in the register."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1324(para)
+msgid "The last screen shows the <guilabel>Obsolete Scheduled Transactions</guilabel> page. This screen displays a list of scheduled transactions that are able to be deleted as the schedule is completed. Select the ones to be removed."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1330(para)
+msgid "The <guilabel>Cancel</guilabel> button is used to exit the druid and cancel creating the scheduled transactions. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1341(para)
+msgid "The <guilabel>Finish</guilabel> button creates the accounts you have selected."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1345(para)
+msgid "The Since Last Run druid has now added the scheduled transactions to the register."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1350(title)
+msgid "Mortgage &amp; Loan Repayment Druid"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1352(para)
+msgid "This druid creates a loan repayment scheduled transaction. When used to setup a scheduled transaction, the druid creates a variable formula so that the compounding interest is correctly calculated. To start this druid manually go to <guilabel>Actions -&gt; Scheduled Transactions -&gt; Mortgage and Loan Repayment...</guilabel>"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1357(para)
+msgid "The Mortgage and Loan Repayment druid opens with a screen that briefly describes what this druid does. The three buttons at the very bottom of the screen will not change while using the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1363(para)
+msgid "The <guilabel>Cancel</guilabel> button is used to exit the druid and cancel creating the scheduled transaction. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1379(para)
+msgid "The next screen allows you to enter the basic loan information. This is usually the information provided by the bank when loan and disclosure documents are given to the borrower. Here you can also setup an account that the scheduled transaction will use to enter the payment transaction."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1386(para)
+msgid "<guilabel>Loan Account:</guilabel> Choose an account for the loan payment transactions or use New... to setup a new account for the transactions."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1391(para)
+msgid "<guilabel>Loan Amount:</guilabel> Enter the amount of the loan."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1395(para)
+msgid "<guilabel>Interest Rate:</guilabel> Enter the loan interest rate."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1399(para)
+msgid "<guilabel>Type:</guilabel> Choose the type of loan. If an adjustable rate is used the frequency screen is enabled."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1404(para)
+msgid "<guilabel>Interest Rate Change Frequency:</guilabel> Choose the frequency for the rate change and the start date of the rate change."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1409(para)
+msgid "<guilabel>Start Date:</guilabel> Choose the date the loan is starting on."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1413(para)
+msgid "<guilabel>Length:</guilabel> Enter the length of the loan."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1417(para)
+msgid "<guilabel>Months Remaining:</guilabel> This should be automatically calculated. Choose how many months are remaining on the loan."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1422(para)
+msgid "The next screen is used to set escrow, insurance and tax options for the loan. It is mainly used for mortgage payments. When each of the options here is set, this enables additional pages in the druid to setup those portions of the payments. All of the pages will be described here, even though some may not show if that option is not chosen."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1430(para)
+msgid "... utilize an escrow account for payments?: This selection enables the use of an account setup for tracking escrow payments. If the mortgage or loan uses an escrow account to pay taxes, insurance, etc then setup an account here."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1437(para)
+msgid "... pay \"Taxes\"?: adds an additional page to setup a scheduled transaction to pay taxes."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1442(para)
+msgid "... pay \"Insurance\"?: adds an additional page to setup a scheduled transaction to pay insurance payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1446(para)
+msgid "... pay \"PMI\"?: adds an additional page to setup a scheduled transaction to pay PMI payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1449(para)
+msgid "... pay \"Other Expense\"?: adds an additional page to setup a scheduled transaction to pay other expenses."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1454(para)
+msgid "The next screen is used to setup the details of the scheduled transaction for the Loan Repayment."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1458(para) Help_ch_Tools_Druids.xml:1491(para) Help_ch_Tools_Druids.xml:1516(para) Help_ch_Tools_Druids.xml:1540(para) Help_ch_Tools_Druids.xml:1566(para)
+msgid "Transaction Memo: The name entered here will be used as the name for the scheduled transaction, the description of the scheduled transaction and the memo."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1463(para)
+msgid "Payment Amount: Shows the variable used to calculate the payment amount."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1467(para)
+msgid "Payment From: Choose an account to pay the loan amount from."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1471(para)
+msgid "Principal To: Choose an account to transfer the principal part of the loan to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1475(para)
+msgid "Interest To: Choose an account to transfer the interest part of the loan to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1479(para)
+msgid "Remainder to: Choose an account to transfer the rest of the payment amount to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1483(para)
+msgid "Repayment Frequency: Select the Frequency and start date for loan repayments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1487(para)
+msgid "The next screen is used to setup the details of the scheduled transaction for the Tax payment."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1496(para) Help_ch_Tools_Druids.xml:1520(para) Help_ch_Tools_Druids.xml:1545(para) Help_ch_Tools_Druids.xml:1571(para)
+msgid "Amount: Enter the payment amount."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1500(para)
+msgid "Payment From: Choose an account to pay the tax amount from."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1504(para)
+msgid "Payment To: Choose an account to transfer the tax payment to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1508(para)
+msgid "Repayment Frequency: Select the Frequency and start date for tax payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1512(para)
+msgid "The next screen is used to setup the details of the scheduled transaction for the Insurance payment."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1524(para)
+msgid "Payment From: Choose an account to pay the insurance amount from."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1528(para)
+msgid "Payment To: Choose an account to transfer the insurance payment to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1532(para)
+msgid "Repayment Frequency: Select the Frequency and start date for insurance payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1536(para)
+msgid "The next screen is used to setup the details of the scheduled transaction for the PMI payment."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1549(para)
+msgid "Payment From: Choose an account to pay the PMI amount from."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1553(para)
+msgid "Payment To: Choose an account to transfer the PMI payment to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1557(para)
+msgid "Repayment Frequency: Select the Frequency and start date for PMI payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1561(para)
+msgid "The next screen is used to setup the details of the scheduled transaction for the Other Expense payment."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1575(para)
+msgid "Payment From: Choose an account to pay the other expense amount from."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1579(para)
+msgid "Payment To: Choose an account to transfer the other expense payment to."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1583(para)
+msgid "Repayment Frequency: Select the Frequency and start date for other expense payments."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1587(para) Help_ch_Tools_Druids.xml:1720(para)
+msgid "The last screen gives you a list of three choices to finish the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1591(para)
+msgid "The Cancel button is used to exit the druid and cancel creating a new loan scheduled transaction. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1596(para)
+msgid "The Back button will bring up the previous screen so you can change a selection made on that screen."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1601(para)
+msgid "The Finish button creates the scheduled transaction."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1605(para)
+msgid "You should now have the Mortgage or Loan Repayment scheduled transaction setup."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1611(title)
+msgid "Recording a Stock Split"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1613(para)
+msgid "Stock splits commonly occur when a company decides its stock price is to expensive for individual investors to buy the stock. Splits have the effect of lowering the price of a single share while keeping the value of shares owned by investors who have already purchased shares."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1619(title)
+msgid "Stock Split Druid"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1621(para)
+msgid "GnuCash uses the Stock Split druid to record stock splits. This provides a way of entering the details of the stock split and also any change in stock price or cash disbursement as a result of the stock split."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1625(para)
+msgid "The Stock Split druid is accessed by going to <guimenu>Actions -&gt; Stock Split...</guimenu>"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1628(para)
+msgid "The Stock Split druid opens with a screen that briefly describes what this druid does. The three buttons at the very bottom of the screen will not change while using the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1634(para)
+msgid "The <guibutton>Cancel</guibutton> button is used to exit the druid and cancel entering the stock split information. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1640(para) Help_ch_Tools_Druids.xml:1730(para)
+msgid "The <guibutton>Back</guibutton> button will bring up the previous screen so you can change a selection made on that screen."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1645(para)
+msgid "The <guibutton>Forward</guibutton> button will bring up the next screen so you can continue though the druid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1650(para)
+msgid "The next screen allows you to select a Stock Account. Select an account from the list to record a stock split or merger."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1655(para)
+msgid "<guilabel>Account:</guilabel> Lists the GnuCash account name for the stock."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1659(para)
+msgid "<guilabel>Symbol:</guilabel> The stock symbol for the stock associated with this account."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1663(para)
+msgid "<guilabel>Shares:</guilabel> The amount of shares that have been purchased in the account."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1667(para)
+msgid "The next screen lets you set the Stock Split Details. The top part of the screen contains details used in creating the stock split transaction."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1672(para)
+msgid "<guilabel>Date:</guilabel> Choose the date of the stock split."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1676(para)
+msgid "<guilabel>Share Distribution:</guilabel> Enter the amount of shares gained from the stock split. For a stock merger enter a negative number."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1681(para)
+msgid "<guilabel>Description:</guilabel> Enter a description or leave as the default."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1685(para)
+msgid "The bottom part of the screen contains details used to record a price for the split (optional)."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1690(para)
+msgid "<guilabel>New Price:</guilabel> Enter the price of the shares on the day of the stock split."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1695(para)
+msgid "<guilabel>Currency:</guilabel> Choose the currency of the shares."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1699(para)
+msgid "The next screen lets you enter a transaction for a cash disbursement (Cash In Lieu) as a result of the stock split (optional)."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1704(para)
+msgid "<guilabel>Cash Amount:</guilabel> Enter the amount of the Cash disbursement."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1708(para)
+msgid "<guilabel>Memo:</guilabel> Enter a memo or leave as the default."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1712(para)
+msgid "<guilabel>Income Account:</guilabel> Choose an Income Account for the disbursement."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1716(para)
+msgid "<guilabel>Asset Account:</guilabel> Choose an Asset Account for the disbursement."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1724(para)
+msgid "The <guibutton>Cancel</guibutton> button is used to exit the druid and cancel creating the Stock Split transactions. Any selections you have made in this druid up to this point will be lost."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1735(para)
+msgid "The <guibutton>Finish</guibutton> button creates the transactions for the Stock Split."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1739(para)
+msgid "You should now have successfully entered the Stock Split or Merger."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1744(title)
+msgid "HBCI (Online Banking) Setup Wizard"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1746(para)
+msgid "This section is \"under construction - any input will be welcome !!\"."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1748(para)
+msgid "The HBCI Wizard is used to create and edit data to enable access to Online banking transactions. Currently the best instruction for this process are in the GnuCash wiki at <ulink url=\"http://wiki.gnucash.org/wiki/Setting_up_OFXDirectConnect_in_GnuCash_2\">Setting up OFXDirectConnect in GnuCash 2</ulink>. If <guilabel>HBCI Setup</guilabel> does not appear in your Tools menus verify that you are in an Account Tree or Register tab."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1758(title)
+msgid "Price Editor"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1760(para)
+msgid "The Price Editor is used to track/modify the value of a currency, mutual fund and stocks. It provides a unified interface to updating the values of these commodities and is able to update manually or through on-line quotes."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1764(para)
+msgid "Each entry in the editor shows a record of a security/commodity price(s):"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1768(para)
+msgid "<emphasis role=\"bold\">Security: </emphasis>The Security/commodity being priced. The display is sorted by the \"exchange\" that the individual securities are listed on. The list is expanded by clicking on the \"caret\" on the left of the name."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1774(para)
+msgid "<emphasis role=\"bold\">Currency: </emphasis>The currency the price is recorded in."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1778(para)
+msgid "<emphasis role=\"bold\">Date: </emphasis>The date the price was recorded."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1782(para)
+msgid "<emphasis role=\"bold\">Source: </emphasis>The source of the commodities price quote. Typically, this will be either \"user:price-editor\", indicating you entered it directly, or \"Finance::Quote\", indicating that it was retrieved from an on-line source by the Finance::Quote module."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1788(para)
+msgid "<emphasis role=\"bold\">Type: </emphasis>There are several different types of stock price quotes."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1793(para)
+msgid "<emphasis role=\"bold\">Bid: </emphasis>Indicates what a specialist dealer is prepared to pay for a stock."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1798(para)
+msgid "<emphasis role=\"bold\">Ask: </emphasis>Indicates at what price the dealers are prepared to sell a stock."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1803(para)
+msgid "<emphasis role=\"bold\">Last: </emphasis>Indicate the price at which the last trade in that stock/security occurred at. This is the price most commonly quoted in the media."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1808(para)
+msgid "<emphasis role=\"bold\">Net Asset Value: </emphasis>Are typically used for mutual funds. They are calculated on the net value of the fund's assets."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1813(para)
+msgid "<emphasis role=\"bold\">Unknown: </emphasis>Use this if the type of price quoted is not known."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1820(para)
+msgid "<emphasis role=\"bold\">Price: </emphasis>The actual price of the commodity."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1825(title)
+msgid "Adding a stock price manually"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1827(para)
+msgid "To add a new price, click on <guilabel>Add</guilabel>, and enter the details of the security and price into the dialog box. To edit an existing price, select the price in the price list, click the <guilabel>Edit</guilabel> button, and edit the figures."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1831(para)
+msgid "To remove just one price, select the price and click the <guilabel>Remove</guilabel> button. If you want to remove all prices older than a certain date, click on the <guilabel>Remove Old</guilabel> button and enter the details in the dialog box."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1836(para)
+msgid "A pop-up will display with the message <emphasis role=\"bold\">\"Delete all stock prices based upon the criteria below:\".</emphasis> Enter the date of the last price you wish to delete."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1840(para)
+msgid "Two check-boxes are below the date field;"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1844(para)
+msgid "<guilabel>Delete manually entered prices</guilabel> - If checked, delete manually entered stock prices dated earlier than the specified date. Otherwise only stock prices added by Finance::Quote will be deleted."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1850(para)
+msgid "<guilabel>Delete last price for a stock</guilabel> - If checked, delete all prices before the specified date. Otherwise the last stock price dated before the date will be kept and all earlier quotes deleted."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1858(title)
+msgid "Configuring for use of the \"<guilabel>Get Quotes</guilabel>\" button"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1860(para)
+msgid "To support on-line quotations for a particular stock or mutual fund account, you must first enable on-line price quoting and select a price source in the Security. This is described in detail in the \"Configuring Securities for Online Quotes\" (<xref linkend=\"invest-stockprice-online3\"/>) section of Using the Security Editor. Once on-line quotes are enabled, and Finance::Quote is installed, you can update prices for your stocks and mutual funds manually by clicking the <guilabel>Get Quotes</guilabel> button."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1870(title)
+msgid "Security Editor"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1872(para)
+msgid "The Security Editor is used to create and edit commodities that are used by mutual fund and stock type accounts. It also shows the details of National Currencies that are used by GnuCash."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1875(para)
+msgid "To show the details for National Currencies click the <guilabel>Show National Currencies</guilabel> check-box at the bottom of the screen."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1878(para)
+msgid "Each entry in the editor shows the details used by the security/currency:"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1882(para)
+msgid "<emphasis role=\"bold\">Type:</emphasis> Indicates for stocks the exchange on which a stock is traded. For mutual funds use the FUND type. If your commodity is not of one of these types, you can create a new type by typing it in the box. For national currencies the type is ISO4217. ISO-4217 is an international standard which defines unique three-letter symbols for each currency. National currencies are not user editable."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1890(para)
+msgid "<emphasis role=\"bold\">Symbol:</emphasis> Indicates the symbol or abbreviation for the commodity. This is usually the ticker symbol (for stocks) or other unique abbreviation for the commodity. If the commodity is traded on any public exchange, it is important to use the same identifier used on that exchange. For national currencies the symbol is the ISO-4217 currency code."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1897(para)
+msgid "<emphasis role=\"bold\">Name:</emphasis> The full name of the commodity is a recognizable name such as \"US Dollars\" or \"IBM Common Stock\"."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1902(para)
+msgid "<emphasis role=\"bold\">Code:</emphasis> This is any numeric or alphanumeric code that is used to identify the commodity. The CUSIP code is a unique identifying numeric string that is associated with every stock, bond or mutual fund, and most kinds of traded options, futures and commodities. This code is not required."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1909(para)
+msgid "<emphasis role=\"bold\">Fraction:</emphasis> This is the smallest traded unit of the commodity, expressed as a fraction of a single nominal unit. This unit is used by GnuCash accounts as the default fraction for trades in the commodity."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1916(title)
+msgid "Adding or Editing a Commodity"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1918(para)
+msgid "To add a new commodity (stock, or mutual fund), click on <guilabel>Add</guilabel>, and enter the details of the commodity into the <emphasis role=\"bold\">New Security</emphasis> dialog box. To edit an existing commodity, select the commodity from the Commodities list, click the <guilabel>Edit</guilabel> button, and edit the <emphasis role=\"bold\">Edit Security</emphasis> dialog box. To remove a commodity, select the commodity and click the <guilabel>Remove</guilabel> button."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1924(para)
+msgid "The fields in the New/Edit Security screens are the same as defined for the Security Editor <xref linkend=\"tool-security-edit\"/>. Below these fields are the options for Online Quotes."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1930(title)
+msgid "Configuring Securities/Currencies for On-Line Retrieval of Prices"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1932(para)
+msgid "To support on-line quotations for a particular stock or mutual fund account, you must first enable on-line price quoting and select a price source in the Security Editor. Online currency quotes require only that the check-box for Online quotes and the timezone be selected, and that the <quote>Get Quotes</quote> box be checked in the Security Editor."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1937(para)
+msgid "Detailed instructions are in the section on Creating New Accounts. <xref linkend=\"Online-price-setup\"/>"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1945(title)
+msgid "Financial Calculator"
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1947(para)
+msgid "The Financial Calculator is used to calculate compound interest. It provides a way of entering four of the five parameters of a compound interest calculation and then calculating the remaining figure."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1950(para)
+msgid "The calculator is split into two panes. The left pane has five fields with a <guilabel>Calculate</guilabel> button and a <guilabel>Clear</guilabel> button. The <guilabel>Calculate</guilabel> button is used to select the figure to calculate. The <guilabel>Clear</guilabel> button is used to clear any amount in the field."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1956(para)
+msgid "<emphasis role=\"bold\">Payment Periods:</emphasis> This field is used to select the number of payments you wish to use in the calculation."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1961(para)
+msgid "<emphasis role=\"bold\">Interest Rate:</emphasis> This field is used for the interest rate percentage."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1966(para)
+msgid "<emphasis role=\"bold\">Present Value:</emphasis> This field usually contains the amount you have borrowed. It is the base amount you wish to compound."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1971(para)
+msgid "<emphasis role=\"bold\">Periodic Payment:</emphasis> This field contains the amount that is the payment for the period selected (IE monthly, weekly, etc). If it is for repaying a loan it should be a negative number."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1977(para)
+msgid "<emphasis role=\"bold\">Future Value:</emphasis> This field contains the final value at the end of the periods above. If we are repaying a loan in full it would be '0'."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1982(para)
+msgid "The right pane contains buttons to select what sort of payments and compounding is used for the left pane calculations."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1987(para)
+msgid "<guibutton>Compounding:</guibutton> This button allows you to select the interval used if the <guilabel>Discrete Compounding</guilabel> button is selected."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1992(para)
+msgid "<guibutton>Payments:</guibutton> This button allows you to select the interval used for the Payment Periods field."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:1997(para)
+msgid "<guibutton>End of Period Payments:</guibutton> Use this button if the payment is at the end of the period."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:2002(para)
+msgid "<guibutton>Beginning of Period Payments:</guibutton> Use this button if the payment is at the beginning of the period."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:2007(para)
+msgid "<guibutton>Discrete Compounding:</guibutton> This button is used where interest is charged at a discrete interval defined by the <guibutton>Compounding</guibutton> button above."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:2012(para)
+msgid "<guibutton>Continuous Compounding:</guibutton> This button is used when the interest is charged continuously."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:2017(para)
+msgid "<guibutton>Payment Total:</guibutton> This field shows the total amount paid."
+msgstr ""
+
+#: Help_ch_Tools_Druids.xml:2021(para)
+msgid "Examples of using the Financial Calculator are given in the Tutorial and Concepts Guide. <ulink url=\"http://svn.gnucash.org/docs/guide/loans_calcs1.html\"> GnuCash Tutorial and Concepts Guide's Chapter on Loans</ulink>"
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: Help_ch_Tools_Druids.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+

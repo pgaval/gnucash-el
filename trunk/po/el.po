@@ -36,8 +36,8 @@ msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-04-22 16:56+0300\n"
-"PO-Revision-Date: 2010-06-29 00:16+0200\n"
-"Last-Translator: NikosCharonitakis <nikosx@gmail.com>\n"
+"PO-Revision-Date: 2010-08-07 19:43+0200\n"
+"Last-Translator: Nikos Charonitakis <nikcha@ovi.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13585,7 +13585,7 @@ msgstr "Εισαγωγή νέου συνθηματικού"
 
 #: ../src/import-export/hbci/glade/hbciprefs.glade.h:2
 msgid "Activate verbose debug messages for Online Banking."
-msgstr ""
+msgstr "Ενεργοποίηση αναλυτικών μηνυμάτων αποσφαλμάτωσης για το Online Banking."
 
 #: ../src/import-export/hbci/glade/hbciprefs.glade.h:5
 msgid "Remember the Online Banking PIN in memory during a session."
@@ -13645,6 +13645,9 @@ msgid ""
 "\n"
 "The job has been removed from the queue."
 msgstr ""
+"Μια εργασία εστάλη με επιτυχία στην τράπεζα, όμως η τράπεζα αρνήθηκε να την εκτελέσει. Παρακαλώ ελέγξτε το παράθυρο καταγραφών για το ακριβές μήνυμα της τράπεζας. Η γραμμή με το μήνυμα σφάλματος περιέχει ένα κωδικό αριθμό ο οποίος είναι μεγαλύτερος από το 9000.\n"
+"\n"
+"Η εργασία απομακρύνθηκε από την ουρά."
 
 #: ../src/import-export/hbci/gnc-plugin-hbci.c:142
 msgid "Import _CSV"
@@ -14002,7 +14005,7 @@ msgstr "Εισάγετε ένα όνομα ή μια σύντομη περιγρ
 #: ../src/import-export/qif-import/druid-qif-import.c:2122
 #: ../src/import-export/qif-import/druid-qif-import.c:2192
 msgid "Enter the ticker symbol or other well known abbreviation, such as \"RHT\". If there isn't one, or you don't know it, create your own."
-msgstr ""
+msgstr "Εισάγετε ένα σύμβολο μετοχής ή κάποια άλλη συντόμευση, όπως \"RHT\". Αν δεν υπάρχει ή δεν το γνωρίζετε, δημιουργήστε ένα δικό σας."
 
 #: ../src/import-export/qif-import/druid-qif-import.c:2130
 #: ../src/import-export/qif-import/druid-qif-import.c:2195
@@ -17965,7 +17968,7 @@ msgstr "Αρχή του τρέχοντος τριμήνου"
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2424
 msgid "The start of the latest quarterly accounting period"
-msgstr ""
+msgstr "Η έναρξη του τελευταίου λογιστικού τριμήνου"
 
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2426
@@ -17975,12 +17978,12 @@ msgstr "Τέλος του τρέχοντος τριμήνου"
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2428
 msgid "The end of the latest quarterly accounting period"
-msgstr ""
+msgstr "Το τέλος του τελευταίου λογιστικού τριμήνου"
 
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2432
 msgid "The start of the previous quarterly accounting period"
-msgstr ""
+msgstr "Η έναρξη του προηγούμενου λογιστικού τριμήνου"
 
 #. src/app-utils/date-utilities.scm
 #: ../intl-scm/guile-strings.c:2436
@@ -21697,7 +21700,7 @@ msgstr ""
 #: ../intl-scm/guile-strings.c:3734
 #: ../intl-scm/guile-strings.c:5370
 msgid "Create report for a budget period range instead of the entire budget."
-msgstr ""
+msgstr "Δημιουργία αναφοράς για μια περίοδο του προϋπολογισμού και όχι για όλη την διάρκεια του."
 
 #. src/report/standard-reports/budget-income-statement.scm
 #. src/report/standard-reports/gnucash/report/standard-reports/budget-income-statement.scm
@@ -25364,7 +25367,7 @@ msgstr "Περίοδος από %s έως %s"
 #: ../intl-scm/guile-strings.c:9254
 #: ../intl-scm/guile-strings.c:9342
 msgid "Blue items are exportable to a German Tax XML file. Press Export to actually export them."
-msgstr ""
+msgstr "Τα μπλε στοιχεία μπορούν να εξαχθούν σε αρχείο German Tax XML. Πατήστε Εξαγωγή για να εξαχθούν τα στοιχεία."
 
 #. src/report/locale-specific/us/taxtxf-de_DE.scm
 #. src/report/locale-specific/us/gnucash/report/taxtxf-de_DE.scm
